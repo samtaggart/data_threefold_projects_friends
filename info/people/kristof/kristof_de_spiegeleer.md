@@ -1,15 +1,15 @@
 
 ## Kristof
 
-Video (on Vimeo) < 1 min, max 2 for one lead
-Links to LinkedIn and website(s)
-Why planet first, if planet first
-Why do they do their project, what drives them in life, some “human” text
-Link to their project(s), function in the project
+- Video (on Vimeo) < 1 min, max 2 for one lead
+- Links to LinkedIn and website(s)
+- Why planet first, if planet first
+- Why do they do their project, what drives them in life, some “human” text
+- Link to their project(s), function in the project
 
 ### data
 
-```toml
+```python
 [links]
 linkedin = ""
 websites = threefold.io,incubaid.com
