@@ -14,9 +14,35 @@
 
 ### Roadmap
 
-- What’s already there
-- What’s coming
+- Generic explanation, what is there today, what is coming
 
+```python
+
+[milestone]
+name = 
+#date format: YYYY/MM 
+date = "2022/10"
+funding_required_tft = 
+funding_required_usd = 
+description = """
+    Roses are red
+    Violets are blue
+    ""
+#optional
+version = 
+
+[milestone]
+name = 
+date =
+funding_required_tft = 
+funding_required_usd = 
+description = """
+    Roses are red
+    Violets are blue
+    ""
+    
+```
+    
 ### links
 
 ...
