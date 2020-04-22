@@ -1,5 +1,5 @@
 
-## Kristof de Spiegeleer
+## Kristof De Spiegeleer
 
 ### data
 
