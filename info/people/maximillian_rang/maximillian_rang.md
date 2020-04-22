@@ -5,20 +5,18 @@
 ```python
 [links]
 linkedin = ""
-websites = threefold.io,incubaid.com
+websites = ""
 vimeo_video = ""
 
 [info]
 full name =
-countries= belgium,spain,egypt
-cities = ibiza,luxor,ghent
-companies = threefold,3bot_server
+countries = 
+cities = 
+companies = 
 bio = 
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, wisdomcouncel
-memberships = freeflowcitizen, matchmaker, tfambassador, wisdomcouncil
-
-
+# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil, planetfirstalliance
+memberships =
 
 ```
