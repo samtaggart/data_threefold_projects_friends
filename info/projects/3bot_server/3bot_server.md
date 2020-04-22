@@ -1,20 +1,24 @@
 # 3bot server
 
+- What is the name of your project?
+...
+- What is your project about? What is your mission & vision?
+...
+- How will this benefit the earth and why do you think this is relevant? 
+...
+- What is the link between ThreeFold and your project? 
+...
+- How will your project use the ThreeFold grid and / or 3Bot?
+...
 
-2-4 good images/video’s which are relevant for the project
 
-- Category (tags)
-    - See above
-- What
-    - <300 lines
-    - What, why, 
-- Core Team
-- Link with ThreeFold
-- How will their project use the threefold grid and / or threebot
 
 ### Roadmap
 
-- Generic explanation, what is there today, what is coming
+- Generic explanation: what is there today, what is coming?
+...
+- How does your project intend to measure impact?
+...
 
 ```python
 
@@ -52,11 +56,12 @@ description = """
 ```python
 [links]
 linkedin = ""
-websites = threefold.io,incubaid.com
-team = kristof,
+websites = ""
+video = ""
 
 [info]
-countries= belgium, egypt
+team = 
+countries = 
 cities = 
 
 [ecosystem]
