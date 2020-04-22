@@ -5,7 +5,7 @@
 ```python
 [links]
 linkedin = ""
-websites = "websitename.com, anotherwebsite.com"
+websites = ""
 vimeo_video = ""
 
 [info]
