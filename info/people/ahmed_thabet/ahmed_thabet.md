@@ -5,15 +5,15 @@
 
 ```python
 [links]
-linkedin = ""
-websites = ""
+linkedin = "https://www.linkedin.com/in/ahmed-te-youssef/"
+websites = ["github.com/xmonader"]
 vimeo_video = ""
 
 [info]
-full name =
-countries = 
-cities = 
-companies = 
+full name = Ahmed Thabet
+countries = ["Egypt"]
+cities = ["Cairo"]
+companies = ["CodeScalers"]
 bio = 
 
 [ecosystem]
