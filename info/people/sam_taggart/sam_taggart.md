@@ -17,6 +17,6 @@ bio = New places, cultures, and experiences bring Sam joy – opportunities to l
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil, planetfirstalliance
-memberships = freeflowcitizen
+memberships = freeflowcitizen, tfambassador
 
 ```
