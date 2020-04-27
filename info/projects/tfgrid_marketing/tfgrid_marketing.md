@@ -3,7 +3,7 @@
 Answer: ThreeFold Grid Promotion
 
 - What is your project about? What is your mission & vision?
-Answer: Our mission is to promote the expansion of ThreeFold P2P Cloud in order to empower a digital economy founded on equality of access, data sovereignty and environmental sustainability.   
+Answer: Our project is about promoting the adoption and expansion of ThreeFold P2P Cloud in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty and environmental sustainability. Our mission is to enable a 1 billion people with access to the fundamental internet infrastructure and digital lives in order to power localised innovation in developing and emerging countries. 
 
 - How will this benefit the earth and why do you think this is relevant? 
 Answer: ThreeFold's Grid will help to give back data sovereignty back to people and countries, as well as enable accessibility to digital innovation to billions of people in countries lacking in internet infrastructure and finally it will help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes. 
