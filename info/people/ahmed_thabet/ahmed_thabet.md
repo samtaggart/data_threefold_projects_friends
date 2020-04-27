@@ -17,7 +17,7 @@ companies = ["CodeScalers"]
 bio = 
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil, planetfirstalliance
+# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
 memberships =
 
 ```
