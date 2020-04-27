@@ -67,7 +67,7 @@ cities =
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = 
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
+# can be chosen from: tftgranted (receiving TFT Grant)
 badges = 
 
 ```
