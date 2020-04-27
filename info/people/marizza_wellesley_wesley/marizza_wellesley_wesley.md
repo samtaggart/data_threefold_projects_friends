@@ -1,8 +1,4 @@
-
-
-
 ## Marizza Wellesley-Wesley
-
 
 ### data
 
@@ -10,7 +6,7 @@
 [links]
 linkedin = ""
 websites = ""
-vimeo_video = ""
+vimeo_video = "https://vimeo.com/412312968"
 
 [info]
 full name =
