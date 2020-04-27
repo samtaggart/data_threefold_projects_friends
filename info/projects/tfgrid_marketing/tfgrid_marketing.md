@@ -19,20 +19,22 @@ Answer:
 ### Roadmap
 
 - Generic explanation: what is there today, what is coming up?
-Answer:
+Answer: 
+
+We are currenlty talking with more than 25 blockchain projects out of top 200 to invite them explore possible use cases on ThreeFold Grid. Five of them already agreed/signed in for co-promotion marketing campaign with us and invite their community to try out ThreeFold Grid. 
 
 - How does your project intend to measure impact?
 Answer:
-
+The success of our efforts can be measured by the growth of the amount of capacity utilized on the grid
 
 ```python
 
 [milestone]
 name = 
 #date format: YYYY/MM 
-date = ""
+date = "2020/06"
 funding_required_tft = 
-funding_required_usd = 
+funding_required_usd = 2000000
 description = """
     Please provide more details
     about this milestone..
@@ -59,13 +61,13 @@ websites = ""
 video = ""
 
 [info]
-team = 
-countries = 
-cities = 
+team = Adnan Fatayerji, Sam Taggart, Maximilian Rang, Nickolay Babenko, Gloria Anne 
+countries = UAE, Belgium, Egypt, Ukraine
+cities = Dubai, Ghent, Luxor, Kyiv
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = 
+categories = farmer
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
 badges = 
 
