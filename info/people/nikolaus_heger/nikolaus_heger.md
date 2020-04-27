@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/nikolausheger/"
 websites = "https://www.joinseeds.com, https://hypha.earth"
-vimeo_video = ""
+vimeo_video = "https://vimeo.com/412277211"
 
 [info]
 full name = Nikolaus Heger
