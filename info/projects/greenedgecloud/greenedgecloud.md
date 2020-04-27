@@ -57,7 +57,7 @@ description = """
 [links]
 linkedin = ""
 websites = ""
-video = ""
+video = "https://vimeo.com/412312968"
 
 [info]
 team = 
