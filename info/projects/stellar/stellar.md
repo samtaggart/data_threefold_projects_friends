@@ -84,7 +84,7 @@ websites = ""
 video = ""
 
 [info]
-team = Adnan Fatayerji, Boris Reznikov, Sam Taggart, Geert Machtelinckx, Nickolay Babenko 
+team = Adnan Fatayerji, Boris Reznikov, Sam Taggart, Rob Van Mieghem, Geert Machtelinckx, Nickolay Babenko 
 countries = UAE, USA, Belgium, Egypt, Ukraine
 cities = Dubai, San Francisco, Luxor, Ghent, Kyiv
 
