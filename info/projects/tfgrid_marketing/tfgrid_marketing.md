@@ -27,14 +27,12 @@ The success of our efforts can be measured by the growth of the amount of capaci
 ```python
 
 [milestone]
-name = 10 blockchain partnerships
+name = Grid Promtion Phase I
 #date format: YYYY/MM 
 date = "2020/06"
-funding_required_tft = 1300000
+funding_required_tft = 1500000
 funding_required_usd = 200000
-description = """
-    The aim is to get at least 10 blockchain projects from top 100 capitalization list to use ThreeFold Grid and promote ThreeFold to their respective audiences
-    ""
+description = ""The aim is to grow the grid to 80 countires andto promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
 
 [milestone]
 name = 
