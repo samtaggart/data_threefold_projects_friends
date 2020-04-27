@@ -24,12 +24,14 @@ Stellar and ThreeFold Foundations will promote their cooperation for the blockch
 
 - Generic explanation: what is there today, what is coming up?
 Answer:
+
 As of today: 
-* ThreeFold Network is using Stellar Network as transactional layer for its ThreeFold Token. 
-* Stellar Nodes deployed on ThreeFold Network. 
+1) ThreeFold Network is using Stellar Network as transactional layer for its ThreeFold Token. 
+2) Stellar Nodes deployed on ThreeFold Network. 
+
 Future steps are:
-* Integrate Stellar Decentralized Exchange inside of 3Bot
-* Launch a marketing collaboration
+1) Integrate Stellar Decentralized Exchange inside of 3Bot
+2) Launch a marketing collaboration
 
 - How does your project intend to measure impact?
 Answer:
