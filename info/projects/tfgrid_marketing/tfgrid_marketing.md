@@ -3,8 +3,7 @@
 Answer: ThreeFold Grid & Network Promotion
 
 - What is your project about? What is your mission & vision?
-Answer: Our project is about promoting the adoption and expansion of ThreeFold P2P Cloud in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty and environmental sustainability. Our mission is to enable a 1 billion people with access to the fundamental internet infrastructure and digital lives in order to power localised innovation in developing and emerging countries. 
-
+Answer: Our project is about promoting the adoption and expansion of ThreeFold P2P Cloud in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty and environmental sustainability. Our mission is to enable +1 billion people with access to the fundamental internet infrastructure and thier full digital lives (education, banking and internet access) for less then 1$ per person per month.  
 - How will this benefit the earth and why do you think this is relevant? 
 Answer: ThreeFold's Grid will help to give back data sovereignty back to people and countries, as well as enable accessibility to digital innovation to billions of people in countries lacking in internet infrastructure and finally it will help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes. 
 
@@ -32,16 +31,15 @@ name = Grid Promtion Phase I
 date = "2020/06"
 funding_required_tft = 1500000
 funding_required_usd = 200000
-description = ""The aim is to grow the grid to 80 countires andto promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
+description = ""The aim is to grow the grid to 40 countires andto promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
 
 [milestone]
-name = 
-date =
-funding_required_tft = 
-funding_required_usd = 
-description = """
-    Please provide more details
-    about this milestone..
+name = Grid Promtion Phase II
+#date format: YYYY/MM 
+date = "2020/06"
+funding_required_tft = 1500000
+funding_required_usd = 200000
+description = ""The aim is to grow the grid to 80 countires andto promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
     ""
     
 ```
