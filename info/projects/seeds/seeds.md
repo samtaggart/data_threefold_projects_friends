@@ -55,9 +55,9 @@ description = """
 
 ```python
 [links]
-linkedin = ""
-websites = ""
-video = ""
+linkedin = "https://www.linkedin.com/company/seeds-the-conscious-currency/"
+websites = "https://www.joinseeds.com/, https://hypha.earth/"
+video = "https://vimeo.com/412275062"
 
 [info]
 team = 
