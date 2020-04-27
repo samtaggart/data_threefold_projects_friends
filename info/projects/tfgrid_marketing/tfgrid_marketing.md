@@ -9,7 +9,7 @@ Answer: Our mission is to promote the expansion of ThreeFold P2P Cloud in order 
 Answer:
 
 - What is the link between ThreeFold and your project? 
-Answer:
+Answer: The Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services.
 
 - How will your project use the ThreeFold grid and / or 3Bot?
 Answer:
