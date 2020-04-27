@@ -30,14 +30,13 @@ The success of our efforts can be measured by the growth of the amount of capaci
 ```python
 
 [milestone]
-name = 
+name = 10 blockchain partners
 #date format: YYYY/MM 
 date = "2020/06"
-funding_required_tft = 
-funding_required_usd = 2000000
+funding_required_tft = 1300000
+funding_required_usd = 200000
 description = """
-    Please provide more details
-    about this milestone..
+    The aim is to get at least 10 blockchain projects from top 100 capitalization list to use ThreeFold Grid and promote ThreeFold to their respective audiences
     ""
 
 [milestone]
