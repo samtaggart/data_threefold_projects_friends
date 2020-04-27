@@ -1,9 +1,9 @@
 # TF Grid Promotion
 - What is the name of your project?
-Answer:
+Answer: ThreeFold Grid Promotion
 
 - What is your project about? What is your mission & vision?
-Answer:
+Answer: Our mission is to promote the expansion of ThreeFold P2P Cloud in order to empower a digital economy founded on equality of access, data sovereignty and environmental sustainability.   
 
 - How will this benefit the earth and why do you think this is relevant? 
 Answer:
