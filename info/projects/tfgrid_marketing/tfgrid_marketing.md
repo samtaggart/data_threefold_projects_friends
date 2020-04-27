@@ -30,7 +30,7 @@ The success of our efforts can be measured by the growth of the amount of capaci
 ```python
 
 [milestone]
-name = 10 blockchain partners
+name = 10 blockchain partnerships
 #date format: YYYY/MM 
 date = "2020/06"
 funding_required_tft = 1300000
