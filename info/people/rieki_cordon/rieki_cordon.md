@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/rieki-cordon777/"
 websites = "https://www.joinseeds.com, https://www.hypha.earth"
-vimeo_video = ""
+vimeo_video = "https://vimeo.com/412276999"
 
 [info]
 full name = Rieki Cordon
