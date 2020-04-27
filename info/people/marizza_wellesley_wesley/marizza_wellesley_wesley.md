@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/dr-mariza-wellesley-wesley-ll-m-105aa5a7/"
 websites = "https://www.greenedgecloud.com/"
-vimeo_video = "https://vimeo.com/412312968"
+vimeo_video = ""
 
 [info]
 full name = Marizza Wellesley-Wesley
