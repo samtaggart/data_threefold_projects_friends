@@ -79,9 +79,9 @@ description = "Co-marketing campaign should be properly planned and executed"
 
 ```python
 [links]
-linkedin = ""
-websites = ""
-video = ""
+linkedin = "https://www.linkedin.com/company/stellar-development-foundation/"
+websites = "http://stellar.org/"
+video = "https://www.youtube.com/watch?v=HNRmJMAJ5rw"
 
 [info]
 team = Adnan Fatayerji, Boris Reznikov, Sam Taggart, Rob Van Mieghem, Geert Machtelinckx, Nickolay Babenko 
