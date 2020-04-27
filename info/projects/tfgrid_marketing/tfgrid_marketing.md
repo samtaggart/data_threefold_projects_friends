@@ -11,9 +11,6 @@ Answer: ThreeFold's Grid will help to give back data sovereignty back to people 
 - What is the link between ThreeFold and your project? 
 Answer: The Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services.
 
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer:
-
 
 
 ### Roadmap
@@ -56,8 +53,9 @@ description = """
 ```python
 [links]
 linkedin = ""
-websites = ""
-video = ""
+wiki: ="http://wiki.threefold.io/docs/grid/index.html"
+websites = "https://threefold.io/capacity.html"
+video = "" 
 
 [info]
 team = Adnan Fatayerji, Sam Taggart, Maximilian Rang, Nickolay Babenko, Gloria Anne 
@@ -68,6 +66,6 @@ cities = Dubai, Ghent, Luxor, Kyiv
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = farmer
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
-badges = 
+badges = tftgranted 
 
 ```
