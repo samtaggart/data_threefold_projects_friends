@@ -1,7 +1,7 @@
 # FF Connect
 
 - What is the name of your project?
-Answer:
+FreeFlow Connect
 
 - What is your project about? What is your mission & vision?
 Answer:
