@@ -51,7 +51,7 @@ description = "The aim is to grow the grid to 80 countires and to promote ThreeF
 linkedin = ""
 wiki = "http://wiki.threefold.io/docs/grid/index.html"
 websites = ["https://threefold.io/capacity.html"]
-video = ""
+video = "https://vimeo.com/412749710"
 
 [info]
 team = ["Adnan Fatayerji", "Sam Taggart", "Maximilian Rang", "Nickolay Babenko", "Gloria Anne"] 
