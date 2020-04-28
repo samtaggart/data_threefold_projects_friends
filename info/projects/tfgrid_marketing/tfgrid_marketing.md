@@ -28,22 +28,20 @@ The success of our efforts can be measured by the growth of the ThreeFold Grid i
 ```python
 
 [milestone]
-name = Grid Promtion Phase I
+name = "Grid Promtion Phase I"
 #date format: YYYY/MM 
 date = "2020/06"
-funding_required_tft = 1500000
-funding_required_usd = 200000
-description = ""The aim is to grow the grid to 40 countires and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
+funding_required_tft = "1500000"
+funding_required_usd = "200000"
+description = "The aim is to grow the grid to 40 countires and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
 
 [milestone]
-name = Grid Promtion Phase II
+name = "Grid Promtion Phase II"
 #date format: YYYY/MM 
 date = "2020/06"
-funding_required_tft = 1500000
-funding_required_usd = 200000
-description = ""The aim is to grow the grid to 80 countires and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
-    ""
-    
+funding_required_tft = "1500000"
+funding_required_usd = "200000"
+description = "The aim is to grow the grid to 80 countires and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
 ```
 
 ### data
@@ -51,19 +49,19 @@ description = ""The aim is to grow the grid to 80 countires and to promote Three
 ```python
 [links]
 linkedin = ""
-wiki: ="http://wiki.threefold.io/docs/grid/index.html"
-websites = "https://threefold.io/capacity.html"
-video = "" 
+wiki = "http://wiki.threefold.io/docs/grid/index.html"
+websites = ["https://threefold.io/capacity.html"]
+video = ""
 
 [info]
-team = Adnan Fatayerji, Sam Taggart, Maximilian Rang, Nickolay Babenko, Gloria Anne 
-countries = UAE, Belgium, Egypt, Ukraine
-cities = Dubai, Ghent, Luxor, Kyiv
+team = ["Adnan Fatayerji", "Sam Taggart", "Maximilian Rang", "Nickolay Babenko", "Gloria Anne"] 
+countries = ["UAE", "Belgium", "Egypt", "Ukraine"]
+cities = ["Dubai", "Ghent", "Luxor", "Kyiv"]
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = farmer
+categories = ["farmer"]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
-badges = tftgranted 
+badges = ["tftgranted"] 
 
 ```

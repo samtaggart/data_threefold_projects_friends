@@ -29,25 +29,19 @@ Answer:
 ```python
 
 [milestone]
-name = 
+name = ""
 #date format: YYYY/MM 
 date = ""
-funding_required_tft = 
-funding_required_usd = 
-description = """
-    Please provide more details
-    about this milestone..
-    ""
+funding_required_tft = ""
+funding_required_usd = ""
+description ="Please provide more details about this milestone.."
 
 [milestone]
-name = 
-date =
-funding_required_tft = 
-funding_required_usd = 
-description = """
-    Please provide more details
-    about this milestone..
-    ""
+name = ""
+date = ""
+funding_required_tft = ""
+funding_required_usd = ""
+description ="Please provide more details about this milestone.."
     
 ```
 
@@ -56,18 +50,19 @@ description = """
 ```python
 [links]
 linkedin = ""
-websites = ""
-video = "https://vimeo.com/412312968"
+websites = []
+wiki = ""
+video = ""
 
 [info]
-team = 
-countries = 
-cities = 
+team = []
+countries = []
+cities = []
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = 
-# can be chosen from: tftgranted (receiving TFT Grant)
-badges = 
+categories = []
+# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
+badges = []
 
 ```

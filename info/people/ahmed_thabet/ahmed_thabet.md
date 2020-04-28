@@ -7,17 +7,17 @@
 [links]
 linkedin = "https://www.linkedin.com/in/ahmed-te-youssef/"
 websites = ["github.com/xmonader"]
-vimeo_video = ""
+video = ""
 
 [info]
-full name = Ahmed Thabet
+full_name = "Ahmed Thabet"
 countries = ["Egypt"]
 cities = ["Cairo"]
 companies = ["CodeScalers"]
-bio = 
+bio = ""
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships =
+memberships = []
 
 ```

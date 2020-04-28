@@ -26,26 +26,23 @@ Answer: We have finest collection of 400'000+ artworks available from the most f
 Answer: We are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. The best way to measure impact is really by number of users using Artheon, number of educational initiatives - courses, tours, lectures, events - created on our platform, number of art works uploaded.
 
 
-```python`
+```python
 
 [milestone]
-name = v2.0 Social
+name = "v2.0 Social"
 #date format: YYYY/MM 
 date = "2020/09"
-funding_required_tft = 500'000
-funding_required_usd = $75'000
-description = ""
-    Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art.
-    ""
+funding_required_tft = "500'000"
+funding_required_usd = "$75'000"
+description = "Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art."
 
 [milestone]
-name = v3.0 AI
+name = "v3.0 AI"
 date = "2020/12"
-funding_required_tft = 1'000'000
-funding_required_usd = $150'000
-description = ""
-    Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance.
-    ""
+funding_required_tft = "1'000'000"
+funding_required_usd = "$150'000"
+description = "Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance."
+
 ```
 
 ### data
@@ -53,18 +50,19 @@ description = ""
 ```python
 [links]
 linkedin = ""
-websites = "https://artheon.co/"
+websites = ["https://artheon.co/"]
+wiki = ""
 video = ""
 
 [info]
-team = Vasily Gnuchev
-countries = Russia
-cities = Moscow
+team = ["Vasily Gnuchev"]
+countries = ["Russia"]
+cities = ["Moscow"]
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = experiencecreator
+categories = ["experiencecreator"]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
-badges = tftgranted, planetfirstalliance
+badges = ["tftgranted", "planetfirstalliance"]
 
 ```
