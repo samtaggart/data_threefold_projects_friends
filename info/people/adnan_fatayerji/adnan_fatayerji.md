@@ -18,6 +18,6 @@ bio = "An international entrepreneur and part of a diverse team of innovators re
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["tffarmer"]
+memberships = ["tffarmer", "wisdomcouncil"]
 
 ```
