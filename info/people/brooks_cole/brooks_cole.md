@@ -5,7 +5,7 @@
 ```python
 [links]
 linkedin = "https://www.linkedin.com/in/brookscole"
-websites = ["https://www.resonantbrand.com/brookscole/”, "https://bit.ly/Brooks_Cole_CV"]
+websites = ["https://www.resonantbrand.com/brookscole/", "https://bit.ly/Brooks_Cole_CV"]
 video = "https://vimeo.com/412765948"
 
 [info]
