@@ -9,7 +9,7 @@ websites = []
 video = ""
 
 [info]
-full_name = "George El Aily"
+full_name = "Sasha Astiadi"
 countries = []
 cities = []
 companies = [] 
