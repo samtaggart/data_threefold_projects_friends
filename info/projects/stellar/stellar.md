@@ -1,3 +1,5 @@
+![Logo](https://github.com/threefoldfoundation/www_threefold_ecosystem/raw/master/info/projects/stellar/stellar-threefold.png "Stellar - ThreeFold Collaboration")
+
 # ThreeFold - Stellar Collaboration
 
 - What is the name of your project?
