@@ -2,15 +2,13 @@
 
 ## Vasily Gnuchev
 
-
-
 ### data
 
 ```python
 [links]
 linkedin = "https://www.linkedin.com/in/gnuchev/"
 websites = ["https://artheon.co/"]
-video = ""
+video = "https://vimeo.com/412681304"
 
 [info]
 full_name = "Vasily Gnuchev"
