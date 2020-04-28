@@ -52,7 +52,7 @@ description = "Marketplace - earn for being active, create and sell your educati
 linkedin = ""
 websites = ["https://artheon.co/"]
 wiki = ""
-video = ["https://vimeo.com/412681114"]
+video = "https://vimeo.com/412681114"
 
 [info]
 team = ["Vasily Gnuchev"]

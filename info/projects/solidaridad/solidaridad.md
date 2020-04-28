@@ -69,18 +69,18 @@ description ="Deployment for up to 10000 farmers in upper Egypt.  Funding has be
 ```python
 [links]
 linkedin = "https://www.linkedin.com/company/solidaridad/"
-websites = [https://www.solidaridadnetwork.org/]
+websites = ["https://www.solidaridadnetwork.org/"]
 wiki = ""
 video = ""
 
 [info]
-team = [Jeroen Douglas, Monique Vanni]
-countries = [Egypts Ghana, Brasil, The Netherlands, ]
+team = ["Jeroen Douglas", "Monique Vanni"]
+countries = ["Egypt", "Ghana", "Brasil", "The Netherlands"]
 cities = []
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = [farmer, solutionprovider]
+categories = ["farmer", "solutionprovider"]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
 badges = []
 
