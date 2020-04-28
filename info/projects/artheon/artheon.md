@@ -52,7 +52,7 @@ description = "Marketplace - earn for being active, create and sell your educati
 linkedin = ""
 websites = ["https://artheon.co/"]
 wiki = ""
-video = ""
+video = ["https://vimeo.com/412681114"]
 
 [info]
 team = ["Vasily Gnuchev"]
@@ -62,7 +62,7 @@ cities = ["Moscow"]
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = ["experiencecreator"]
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
-badges = ["tftgranted", "planetfirstalliance"]
+# can be chosen from: tftgranted (receiving TFT Grant)
+badges = ["tftgranted"]
 
 ```
