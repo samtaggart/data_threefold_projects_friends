@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/samtaggart/"
 websites = ["https://threefold.io/"]
-video = ""
+video = "https://vimeo.com/412746824"
 
 [info]
 full_name = "Sam Taggart"
