@@ -1,3 +1,8 @@
+# Sacha Obeegadoo
+
+### data
+
+```python
 [links]
 linkedin = "https://www.linkedin.com/in/sachaobeegadoo/"
 websites = ["https://threefold.io/"]
@@ -13,3 +18,5 @@ bio = "New places, cultures, and experiences bring Sam joy – opportunities to 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
 memberships = ["freeflowcitizen", "tfambassador"]
+```
+
