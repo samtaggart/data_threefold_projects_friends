@@ -43,25 +43,19 @@ Answer: Impact is measured by making Enterprise grade IT capacity available at l
 ```python
 
 [milestone]
-name = 
+name = ""
 #date format: YYYY/MM 
 date = ""
-funding_required_tft = 
-funding_required_usd = 
-description = """
-    Please provide more details
-    about this milestone..
-    ""
+funding_required_tft = ""
+funding_required_usd = ""
+description ="Please provide more details about this milestone.."
 
 [milestone]
-name = 
-date =
-funding_required_tft = 
-funding_required_usd = 
-description = """
-    Please provide more details
-    about this milestone..
-    ""
+name = ""
+date = ""
+funding_required_tft = ""
+funding_required_usd = ""
+description ="Please provide more details about this milestone.."
     
 ```
 
@@ -70,19 +64,23 @@ description = """
 ```python
 [links]
 linkedin = "https://www.linkedin.com/company/green-edge-cloud/"
-websites = "https://green-edge.net/"
+
+websites = ["https://green-edge.net/"]
+wiki = ""
 video = "https://vimeo.com/412312968"
 
 [info]
-team = "https://green-edge.net/about"
-countries = South Africa, Germany, Austria, Switserland, United States, The Netherlands
-cities = 
+team = ["https://green-edge.net/about"]
+countries = ["Austria"]
+cities = ["Vienna"]
 
 Cape Town, Frankfurt, Rochester, Salzburg, St Gallen, Toronto, Vienna, Amsterdam, Berlin, Graz, Innsbruck
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
+
 categories =  solutionprovider, farmers
+
 # can be chosen from: tftgranted (receiving TFT Grant)
-badges = 
+badges = []
 
 ```
