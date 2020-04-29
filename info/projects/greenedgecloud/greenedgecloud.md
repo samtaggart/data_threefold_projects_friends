@@ -12,7 +12,7 @@ Green Edge Cloud if farming ThreeFold grid capacity for Enterprises in world cla
 Answer: Green Edge Cloud believes in helping create a world where technology promotes and protects personal liberty and sovereignty. A decentralised internet is inherently faster, greener, more private, and more secure.
 
 - What is the link between ThreeFold and your project? 
-Answer: Green Edge Cloud is a ThreeFold farmer and actively back the foundation nad it's mission
+Answer: Green Edge Cloud is a ThreeFold farmer and actively back the foundation as it's mission
 
 - How will your project use the ThreeFold grid and / or 3Bot?
 Answer: ThreeFold Farmer creating TF Grid capacity and actively seeking uses cases for the TF Grid.
