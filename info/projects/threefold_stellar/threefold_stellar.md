@@ -77,6 +77,6 @@ cities = ["Dubai", "San Francisco", "Luxor", "Ghent", "Kyiv"]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = ["solutionprovider"]
 # can be chosen from: tftgranted (receiving TFT Grant)
-badges = 
+badges = []
 
 ```
