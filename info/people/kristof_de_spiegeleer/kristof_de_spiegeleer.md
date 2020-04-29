@@ -18,6 +18,6 @@ bio = ""
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = []
+memberships = ["wisdomcouncil", "matchmaker", "freeflowcitizen", "tfambassador"]
 
 ```
