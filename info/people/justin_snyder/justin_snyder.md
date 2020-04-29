@@ -5,8 +5,8 @@
 ```python
 [links]
 linkedin = "http://linkedin.com/in/jus10snyder"
-websites = []
-video = ""
+websites = ["https://3bot.org/"]
+video = "https://player.vimeo.com/video/413045457"
 
 [info]
 full_name = "Justin Snyder"
