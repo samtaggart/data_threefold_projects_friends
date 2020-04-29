@@ -55,7 +55,7 @@ description = "Please provide more details about this milestone.."
 linkedin = ""
 websites = ["www.3bot.org"]
 wiki = ""
-video = "https://vimeo.com/412762729"
+video = "https://player.vimeo.com/video/412762729"
 
 [info]
 team = []
