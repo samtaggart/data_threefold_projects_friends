@@ -1,6 +1,5 @@
 # SEEDS
 
-
 - What is the name of your project?	- What is the name of your project?
 Answer:	Answer: SEEDS - Regenerate Money
 
@@ -34,12 +33,10 @@ Answer:	Answer: The evidence is clear, the current system is reaching a historic
 - How does your project intend to measure impact?	- How does your project intend to measure impact?
 Answer:	Answer: Holistic approaches are accomplished by evaluating the effectiveness through all four dimensions of natural, human, social and built capital. We measure effectiveness based on the valuation of all outcomes with the understanding that human activity should enhance the environment and the community by providing benefits to the majority and not only a few.
 
-
-
-
 ```python
 
 [milestone]
+
 name = "Go Live Event"
 #date format: YYYY/MM 
 date = "21/06"
@@ -53,7 +50,7 @@ date = ""
 funding_required_tft = ""
 funding_required_usd = ""
 description ="Please provide more details about this milestone.."
-    
+  
 ```
 
 ### data
@@ -61,6 +58,7 @@ description ="Please provide more details about this milestone.."
 ```python
 [links]
 linkedin = "https://www.linkedin.com/company/seeds-the-conscious-currency/"
+
 websites = ["https://www.joinseeds.com/"]
 wiki = ""
 video = "https://vimeo.com/412275062"
@@ -75,6 +73,4 @@ cities = ["Global"]
 categories = ["experiencepartner"]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
 badges = []
-
-```
 ```

@@ -5,6 +5,7 @@
 ```python
 [links]
 linkedin = "https://www.linkedin.com/in/franz-josef-allmayer-0a76661b/"
+
 websites = ["https://www.joinseeds.com, https://hypha.earth", "https://www.integrity.earth"]
 video = "https://vimeo.com/412278024"
 
