@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/sachaobeegadoo/"
 websites = ["https://threefold.io/"]
-video = "https://player.vimeo.com/video/"
+video = "https://player.vimeo.com/video/413265125"
 
 [info]
 full_name = "Sacha Obeegadoo"
