@@ -2,21 +2,10 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer:
-
-As of today: 
-1) ThreeFold Network is using Stellar Network as transactional layer for its ThreeFold Token. 
-2) Stellar Nodes deployed on ThreeFold Network. 
-
-Future steps are:
-1) Integrate Stellar Decentralized Exchange inside of 3Bot
-2) Launch a marketing collaboration
-
-- How does your project intend to measure impact?
-Answer: The main impact of the collaboration will be realized in increased rate of adoption of opensource and easy to use technologies that boost economic empowerment for developers community, for enterprises and small businesses, and at last but not least - for regular people. 
-
 ```python
+
+[info]
+description: "As of today ThreeFold is using Stellar Network as transactional layer for its ThreeFold Token. Stellar Nodes deployed on ThreeFold Network. Future steps are - Integrate Stellar Decentralized Exchange inside of 3Bot, launch a marketing collaboration. The main impact of the collaboration will be realized in increased rate of adoption of opensource and easy to use technologies that boost economic empowerment for developers community, for enterprises and small businesses, and at last but not least - for regular people."
 
 [milestone]
 name = "ThreeFold Token implementation on Stellar Network"
