@@ -40,11 +40,7 @@ video = "https://player.vimeo.com/video/412749710"
 [info]
 mission = "Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed."
 
-description = "Our project is about promoting the adoption and expansion of ThreeFold Network in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty, and environmental sustainability.
-
-ThreeFold's Grid will help to give data sovereignty back to people and countries, as well as enable accessibility to digital innovation to billions of people in countries lacking in internet infrastructure, and finally it will help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes, less fiber network, a unique storage algorithm, & more.
-
-The ThreeFold Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services."
+description = "Our project is about promoting the adoption and expansion of ThreeFold Network in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty, and environmental sustainability.ThreeFold's Grid will help to give data sovereignty back to people and countries, as well as enable accessibility to digital innovation to billions of people in countries lacking in internet infrastructure, and finally it will help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes, less fiber network, a unique storage algorithm, & more.The ThreeFold Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services."
 
 team = ["Adnan Fatayerji", "Sam Taggart", "Maximilian Rang", "Nickolay Babenko", "Gloria Anne"] 
 countries = ["UAE", "Belgium", "Egypt", "Ukraine"]
