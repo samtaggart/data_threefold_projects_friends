@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/adnansf/"
 websites = ["threefold.io", "www.mazraa.io"]
-video = ""
+video = "https://player.vimeo.com/video/413151305"
 
 [info]
 full_name = "Adnan Fatayerji"
