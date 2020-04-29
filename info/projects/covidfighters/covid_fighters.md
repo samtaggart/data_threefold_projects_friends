@@ -26,7 +26,7 @@ description = "Setting-up a first covid genetic testing container that leads to 
 ```python
 [links]
 linkedin = ""
-websites = []
+websites = [Boris Fahrnberger, Martin Käfer]
 wiki = ""
 video = "https://player.vimeo.com/video/412336565"
 
