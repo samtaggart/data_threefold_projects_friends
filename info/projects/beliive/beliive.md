@@ -24,7 +24,7 @@ description = "API integration of users ID and balance of time credits"
 linkedin = "https://www.linkedin.com/company/beliive"
 websites = ["https://beliive.com"]
 wiki = ""
-video = "https://player.vimeo.com/video/413063019"
+video = "https://player.vimeo.com/video/413225889"
 
 [info]
 mission = "Beliive is the world's largest time bank with 200.000 members and a community where people can exchange experiences and services using time as the only currency."
