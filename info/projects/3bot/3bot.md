@@ -2,30 +2,33 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer:
-
-- How does your project intend to measure impact?
-Answer:We would like to measure impacts by the percentage of expansion scale of in-house developed experiences created within the merchant portal / peer-to-peer ecosystem and the number of engaging users within the new digital network.
-
-
-
 ```python
 
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description = "Please provide more details about this milestone.."
+[info]
+description: "3bot is live on the ThreeFold Grid, and anyone can sign up for a 3bot using the 3bot Connect app available for iOS and Android. Once connected to 3bot Connect, you can access your profile, wallet, contacts and messaging. You also use the app to verify your identity for experiences and transactions. In May, 3bot’s public release will include P2P videoconferencing, P2P social network, file storage, secure browser and collaboration tools. The 3bot SDK will also be available to developers to build P2P experiences. While 3bot may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for 3bot makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities. Additionally, the 3bot ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication."
 
 [milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description = "Please provide more details about this milestone.."
+name = "3bot Public Release v.1"
+#date format: YYYY/MM 
+date = "2020/05"
+funding_required_tft = "1,500,000"
+funding_required_usd = "100,000"
+description = "The 3bot public release will include 3bot Connect, p2p videoconferencing, p2p social network, decentralized file storage, browser and wallet. It will also include the 3bot SDK which will allow developers to begin building the ecosystem of 3bot experiences."
+
+[milestone]
+name = "3bot Promotion / Expansion Phase"
+date = "2020/10"
+funding_required_tft = "7,500,000"
+funding_required_usd = "500,000"
+description = "After Public Release v.1, 3bot will focus on bringing early adopters, developers and ecosystem partners into the 3bot ecosystem, with strong marketing campaigns and compelling media to rapidly grow the community and platform."
+
+[milestone]
+name = "3bot Rebranding / Public Release v.2"
+date = "2021/03"
+funding_required_tft = "7,500,000"
+funding_required_usd = "500,000"
+description = "Once the community of early adopters have been onboarded with 3bot and the 1st generation of experiences are available, the outreach will then focus on the larger public. At this point, we will rebrand ‘3bot’ to make it more easily accessible and understandable by the everyday internet user.”
+
     
 ```
 
@@ -49,7 +52,7 @@ cities = ["Global"]
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["experiencepartner"]
+categories = ["solutionprovider"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = ["tftgranted"]
 
