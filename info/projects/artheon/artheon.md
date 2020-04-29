@@ -2,14 +2,11 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer: We have finest collection of 400'000+ artworks available from the most famous museums on the planet – Metropolitan Museum in New York, Rijksmuseum in Amsterdam, British Museum, Louvre Museum, and many others. We are at v1.0 Individual with Art Database - based on artworks in public domain and cc published datasets; Individual - supported platforms Sony PSVR, Oculus, HTC Vive, Valve Index; Individual Collections - create your own gallery; Text search - folksonomy tags, descriptions; Recommendations - basic. Coming up - v2.0 Social and v3.0 AI.
-
-- How does your project intend to measure impact?
-Answer: We are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. The best way to measure impact is really by number of users using Artheon, number of educational initiatives - courses, tours, lectures, events - created on our platform, number of art works uploaded.
-
 
 ```python
+
+[info]
+description: "We have finest collection of 400'000+ artworks available from the most famous museums on the planet – Metropolitan Museum in New York, Rijksmuseum in Amsterdam, British Museum, Louvre Museum, and many others. We are at v1.0 Individual with Art Database - based on artworks in public domain and cc published datasets; Individual - supported platforms Sony PSVR, Oculus, HTC Vive, Valve Index; Individual Collections - create your own gallery; Text search - folksonomy tags, descriptions; Recommendations - basic. Coming up - v2.0 Social and v3.0 AI. We are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. The best way to measure impact is really by number of users using Artheon, number of educational initiatives - courses, tours, lectures, events - created on our platform, number of art works uploaded."
 
 [milestone]
 name = "v2.0 Social"
