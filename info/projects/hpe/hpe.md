@@ -1,30 +1,32 @@
 # HPE
 
 - What is the name of your project?
-Answer:
+Answer:  We are not a project, we are Hewlett Packard Enterprise. Hewlett Packard Enterprise is the global edge-to-cloud Platform-as-a-Service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. We’re built on decades of reimagining the future through innovation. 
+
+We are investigating how to incorporate some of the ThreeFold Tech technology into out internal and external service infrastructure to help us built that new future.  We have been looking at and the technology with TF Tech since early 2019 and are now considering deeper levels of integration.
+
 
 - What is your project about? What is your mission & vision?
-Answer:
+Answer: At HPE, we believe that technology’s greatest promise lies in its potential for positive change. Learn more about how we can use this change to overcome challenges and make a greater impact for the global good— together. 
+
 
 - How will this benefit the earth and why do you think this is relevant? 
 Answer:
 
 - What is the link between ThreeFold and your project? 
-Answer:
+Answer: At this point in time we are investigating to to best use the TF Tech technology.  We see opportunities but have to see how they fit in the larger cloudless strategy.
 
 - How will your project use the ThreeFold grid and / or 3Bot?
-Answer:
-
-
+Answer:  We aim to use the technology to build private and public gri 
+d capacity for the existing and new enterprise customer based. 
 
 ### Roadmap
 
 - Generic explanation: what is there today, what is coming up?
-Answer:
+Answer: At this point in time investigating fit and size of the partnership. It is looking good but we have more work to do on this.
 
 - How does your project intend to measure impact?
-Answer:
-
+Answer: We are a commercial company and therefore there is the obvious commercial interest but HPE is also investing in creating circular economy around compute and storage.
 
 
 ```python
@@ -50,8 +52,8 @@ description ="Please provide more details about this milestone.."
 
 ```python
 [links]
-linkedin = ""
-websites = []
+linkedin = "https://www.linkedin.com/company/hewlett-packard-enterprise/"
+websites = [www.hpe.com]
 wiki = ""
 video = ""
 
@@ -62,7 +64,7 @@ cities = []
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = []
+categories = [solutionprovider, systemintegrator, farmer]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
 badges = []
 
