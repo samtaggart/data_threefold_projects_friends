@@ -49,20 +49,20 @@ description ="Please provide more details about this milestone.."
 
 ```python
 [links]
-linkedin = ""
-websites = []
+linkedin = "https://www.linkedin.com/company/green-edge-cloud/"
+websites = ["https://green-edge.net/"]
 wiki = ""
-video = ""
+video = "https://vimeo.com/412312968"
 
 [info]
-team = []
-countries = []
-cities = []
+team = ["https://green-edge.net/about"]
+countries = ["Austria"]
+cities = ["Vienna"]
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = []
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
+# can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
 ```
