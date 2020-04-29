@@ -1,12 +1,5 @@
 # Gravity Group
 
-- What is the link between ThreeFold and your project? 
-Answer:
-
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer:
-
-
 ### data
 
 ```python
