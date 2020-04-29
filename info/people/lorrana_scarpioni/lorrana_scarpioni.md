@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/lorrana-scarpioni/"
 websites = ["https://beliive.com/"]
-video = ""
+video = "https://player.vimeo.com/video/413063048"
 
 [info]
 full_name = "Lorrana Scarpioni"

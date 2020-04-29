@@ -16,7 +16,7 @@ Answer: Green Edge Cloud is the first & largest ThreeFold farmer. We fully suppo
 
 
 - How will your project use the ThreeFold grid and / or 3Bot?
-Answer: This summer, we will start selling decentralised edge Kubernetes compute and S3 storage to Software-as-a-Service and System Integrator businesses across Europe who are looking for greener, more cost effective solutions than AWS, Azure or Google Domains.
+Answer: We are launching an Infrastructure-as-a-Service platform for businesses looking for greener, more cost effective solutions than AWS, Azure and Google Cloud.
 
 
 
@@ -58,18 +58,16 @@ linkedin = "https://www.linkedin.com/company/green-edge-cloud/"
 
 websites = ["https://green-edge.net/"]
 wiki = ""
-video = "https://vimeo.com/412312968"
+video = "https://player.vimeo.com/video/412312968"
 
 [info]
-team = ["https://green-edge.net/about"]
-countries = ["Austria"]
-cities = ["Vienna"]
+team = ["Joseph Foxton", "Mariza Kain"]
+countries = ["Germany", "Austria", "Netherlands", "South Africa", "United States"]
+cities = ["Amsterdam", "Vienna", "Cape Town", "Frankfurt", "Rochester", "Salzburg", "St Gallen", "Toronto", "Berlin", "Graz", "Innsbruck"]
 
-Cape Town, Frankfurt, Rochester, Salzburg, St Gallen, Toronto, Vienna, Amsterdam, Berlin, Graz, Innsbruck
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-
-categories =  solutionprovider, farmers
+categories =  ["solutionprovider", "farmer"]
 
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = []

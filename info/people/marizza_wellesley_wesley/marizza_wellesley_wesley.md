@@ -5,14 +5,14 @@
 ```python
 [links]
 linkedin = "https://www.linkedin.com/in/dr-mariza-wellesley-wesley-ll-m-105aa5a7/"
-websites = ["https://www.greenedgecloud.com/"]
+websites = ["https://www.green-edge.net/"]
 video = ""
 
 [info]
 full_name = "Marizza Wellesley-Wesley"
 countries = ["Austria"]
 cities = ["Vienna"]
-companies = ["Green Edge Cloud"]
+companies = ["Green Edge"]
 bio = ""
 
 [ecosystem]

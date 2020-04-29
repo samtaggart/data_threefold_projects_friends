@@ -45,7 +45,7 @@ description = "API integration of users ID and balance of time credits"
 linkedin = "https://www.linkedin.com/company/beliive"
 websites = ["https://beliive.com"]
 wiki = ""
-video = ""
+video = "https://player.vimeo.com/video/413063019"
 
 [info]
 team = []
