@@ -5,15 +5,15 @@
 
 ```python
 [links]
-linkedin = ""
-websites = []
+linkedin = "https://www.linkedin.com/in/despiegk/"
+websites = ["www.threefold.io", "www.incubaid.com", "www.freeflownation.com"]
 video = ""
 
 [info]
 full_name = "Kristof De Spiegeleer"
-countries = []
-cities = []
-companies = [] 
+countries = ["Belgium", "Spain", "Egypt"]
+cities = ["Ghent", "Ibiza", "El Ghouna"]
+companies = ["ThreeFold", "Incubaid"] 
 bio = ""
 
 [ecosystem]
