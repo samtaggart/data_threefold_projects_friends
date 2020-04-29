@@ -45,7 +45,7 @@ description = "Setting-up a first covid genetic testing container that leads to 
 linkedin = ""
 websites = []
 wiki = ""
-video = "https://vimeo.com/412336565"
+video = "https://player.vimeo.com/video/412336565"
 
 [info]
 team = []
