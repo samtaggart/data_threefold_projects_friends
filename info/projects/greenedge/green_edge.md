@@ -1,35 +1,5 @@
 # Green Edge
 
-### Roadmap
-
-- Generic explanation: what is there today, what is coming up?
-Answer: Today we have TheeFold Capacity in Frankfurt, Vienna, Salzburg, St Gallen, Toronto, Rochester, NY, and Cape Town. Soon we plan to expand into Amsterdam and Berlin.
-
-In the Summer we will launch our Green Edge Storage S3 product, followed by Green Edge Conpute Kubernetes in the fall.
-
-- How does your project intend to measure impact?
-Answer:  Impact is measured by making Enterprise grade IT capacity available at lower commercial rates and for the future. We will monitor and report on the energy we save vs conventional Infrastructure-as-a-Service offerings.
-
-
-```python
-
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-
-[milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-    
-```
-
 ### data
 
 ```python
