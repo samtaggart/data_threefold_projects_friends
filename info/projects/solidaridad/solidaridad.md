@@ -2,14 +2,10 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer:  High level desing of the requried archietcture is done, feasability study planned. Funding has been identifies and donor and sponsor organisations.
-
-- How does your project intend to measure impact?
-Answer: The number of farmers using the Solidaridad applications to record and generate data will be connected to individual 3bots storing and managing information. Key statistics can be generated from number of farmers represented, generated digtial income for datasharing, amont of data collected and kept for the farmers, and many more.
-
-
 ```python
+
+[info]
+description: "High level desing of the requried archietcture is done, feasability study planned. Funding has been identifies and donor and sponsor organisations. The number of farmers using the Solidaridad applications to record and generate data will be connected to individual 3bots storing and managing information. Key statistics can be generated from number of farmers represented, generated digtial income for datasharing, amont of data collected and kept for the farmers, and many more."
 
 [milestone]
 name = "Feasibility study"
