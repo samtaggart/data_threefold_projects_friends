@@ -13,7 +13,7 @@ full_name = "Joe Foxton"
 countries = ["Netherlands"]
 cities = ["Amsterdam"]
 companies = ["GreenEdge"] 
-bio = "Growth Strategy / Product Development / Music Event Production & Promotion "
+bio = "An accomplished software product developer and growth expert. Joe has launched award winning products in several industries, from media tech to tourism."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
