@@ -5,19 +5,19 @@ Answer: Solidaridad FAIR data.
 
 - What is your project about? What is your mission & vision? 
 Answer: Solidaridad works to create sustainable supply chains from the producers to consumers for commodities. Commodities involved are:
-    COTTON: Cotton generates income for producers and comfort for consumers
-    LIVESTOCK: A growing sector poised to sustainably balance the planet, people, and profits
-    TEA: Making the world's second most popular beverage more sustainable
-    SUGARCANE: Sugarcane is highly versatile crop used to make food, fuel, paper, and plastic
-    FRUIT & VEGETABLES: Sowing sustainable nutrition across diverse agricultural sectors
-    GOLD: Join us in helping make the true value of gold shine for all who are touched by it
-    SOY: Helping industries source sustainable soy and farmers create better livelihoods
-    COCOA: Together we can secure the future of cocoa farming
-    TEXTILES: Making sustainable textile production more fashionable
-    PALM OIL: The true potential of the most used and fastest growing vegetable oil
-    AQUACULTURE: Sourcing sustainable fish and shrimp from the seas
-    DAIRY: Change from within the dairy market can improve the livelihoods
-    COFFEE: Coffee is our oldest programme
+COTTON: Cotton generates income for producers and comfort for consumers
+LIVESTOCK: A growing sector poised to sustainably balance the planet, people, and profits
+TEA: Making the world's second most popular beverage more sustainable
+SUGARCANE: Sugarcane is highly versatile crop used to make food, fuel, paper, and plastic
+FRUIT & VEGETABLES: Sowing sustainable nutrition across diverse agricultural sectors
+GOLD: Join us in helping make the true value of gold shine for all who are touched by it
+SOY: Helping industries source sustainable soy and farmers create better livelihoods
+COCOA: Together we can secure the future of cocoa farming
+TEXTILES: Making sustainable textile production more fashionable
+PALM OIL: The true potential of the most used and fastest growing vegetable oil
+AQUACULTURE: Sourcing sustainable fish and shrimp from the seas
+DAIRY: Change from within the dairy market can improve the livelihoods
+COFFEE: Coffee is our oldest programme
 
 Fair data is all about making the farmers (producers) own their created and shared data for a fair prices.  Why should data from hardwaokring farmers end up in the hands of a small number of food giants and be used to create more wealth for those giants.  The wealth creation needs to take place at the foundation of the food production supply chain, not the top.
 
@@ -67,7 +67,7 @@ description ="Deployment for up to 10000 farmers in upper Egypt.  Funding has be
 linkedin = "https://www.linkedin.com/company/solidaridad/"
 websites = ["https://www.solidaridadnetwork.org/"]
 wiki = ""
-video = "https://vimeo.com/412688641"
+video = "https://player.vimeo.com/video/412688641"
 
 [info]
 team = ["Jeroen Douglas", "Monique Vanni"]

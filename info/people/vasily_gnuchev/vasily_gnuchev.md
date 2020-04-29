@@ -8,7 +8,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/gnuchev/"
 websites = ["https://artheon.co/"]
-video = "https://vimeo.com/412681304"
+video = "https://player.vimeo.com/video/412681304"
 
 [info]
 full_name = "Vasily Gnuchev"

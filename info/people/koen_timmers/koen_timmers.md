@@ -10,7 +10,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/timmerskoen/"
 websites = ["www.koentimmers.com", "http://takeactionglobal.org"]
-video = "https://vimeo.com/412753340"
+video = "https://player.vimeo.com/video/412753340"
 
 [info]
 full_name = "Koen Timmers"

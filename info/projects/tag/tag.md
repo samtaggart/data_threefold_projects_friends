@@ -54,7 +54,7 @@ description ="Extend Platform which connects students globally allowing them to 
 linkedin = "https://www.linkedin.com/company/take-action-global/"
 websites = ["www.projectkakuma.com", "http://innovationlabschools.com", "http://takeactionglobal.org"]
 wiki = ""
-video = "https://vimeo.com/412753456"
+video = "https://player.vimeo.com/video/412753456"
 
 [info]
 team = ["Koen Timmers"]

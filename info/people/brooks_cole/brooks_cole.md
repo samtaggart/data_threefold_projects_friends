@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/brookscole"
 websites = ["https://www.resonantbrand.com/brookscole/", "https://bit.ly/Brooks_Cole_CV"]
-video = "https://vimeo.com/412765948"
+video = "https://player.vimeo.com/video/412765948"
 
 [info]
 full_name = "Brooks Cole"

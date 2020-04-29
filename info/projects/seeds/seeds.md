@@ -63,7 +63,7 @@ description ="Please provide more details about this milestone.."
 linkedin = "https://www.linkedin.com/company/seeds-the-conscious-currency/"
 websites = ["https://www.joinseeds.com/"]
 wiki = ""
-video = "https://vimeo.com/412275062"
+video = "https://player.vimeo.com/video/412275062"
 
 [info]
 team = []
