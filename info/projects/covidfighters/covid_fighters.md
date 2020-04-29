@@ -35,7 +35,7 @@ mission = "We want to help the people of the world to get back to somehow normal
 
 description = "People are social individuals and need contact with others. On the other hand, pandemic situations like now with corona are super dangerous especially to the weakest and older people. We need to help in both ways - re-gaining social life and staying healthy.Threefold could be a great partner for the identification of individuals and secure transmission of data. It is one of very few serious alternatives that are not owned by states or governments.Both data security and storage capabilities provided by ThreeFold will be used. We will provide people with individual 3bots, so they would be identified before getting their attests."
 
-team = [Boris Fahrnberger, Martin Käfer]
+team = ["Boris Fahrnberger", "Martin Käfer"]
 countries = ["Austria"]
 cities = ["Vienna"]
 
