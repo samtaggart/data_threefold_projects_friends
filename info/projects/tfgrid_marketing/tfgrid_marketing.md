@@ -32,7 +32,7 @@ description = "The aim is to grow the grid to 60-80 countries and to promote Thr
 
 ```python
 [links]
-linkedin = ""
+linkedin = "https://www.linkedin.com/company/threefold-foundation/"
 wiki = "http://wiki.threefold.io/docs/grid/index.html"
 websites = ["https://threefold.io/capacity.html"]
 video = "https://player.vimeo.com/video/412749710"
