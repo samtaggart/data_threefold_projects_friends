@@ -1,13 +1,15 @@
 # Gravity
 
 - What is the name of your project?
-Answer:
+Answer: Gravity Group
 
 - What is your project about? What is your mission & vision?
-Answer:
+Answer: Gravity Capital is an entity that provides investor relations and roadshow services for our top-performing portfolio companies. Gravity Capital works with companies between Seed and Series B.
+Gravity Select Ventures (GSV) is a venture fund focused on mission-driven teams working on projects that leverage “inevitable technologies.” GSV looks for companies with positive unit economics and sustainable business models.
+
 
 - How will this benefit the earth and why do you think this is relevant? 
-Answer:
+Answer: Gravity Group is on a mission to support the earth's greatest creators and entrepreneurs to accelerate their mission, take it to market and scale globally. While building companies they understand quickly the difference it makes to have an aligned team, A+ players, and what it takes to recruit a solid team at different stages of your growth, we saw the benefit being able to deploy a team into accelerated, very rewarding missions along the way if it is business development, corporate development, structure, finance, funds, security token, design, you name it. That is one thing that Novalena and Jeremy do very well, they work with and collect amazing people. It is their privilege to bring these groups together to empower and accelerate some of the greatest ideas they come across or find them on their adventures.
 
 - What is the link between ThreeFold and your project? 
 Answer:
@@ -34,14 +36,14 @@ name = ""
 date = ""
 funding_required_tft = ""
 funding_required_usd = ""
-description ="Please provide more details about this milestone.."
+description =""
 
 [milestone]
 name = ""
 date = ""
 funding_required_tft = ""
 funding_required_usd = ""
-description ="Please provide more details about this milestone.."
+description =""
     
 ```
 
@@ -50,9 +52,9 @@ description ="Please provide more details about this milestone.."
 ```python
 [links]
 linkedin = ""
-websites = []
+websites = ["https://www.gravity.group/"]
 wiki = ""
-video = ""
+video = "https://player.vimeo.com/video/413057321"
 
 [info]
 team = []
@@ -61,8 +63,8 @@ cities = []
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = []
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
+categories = ["experiencepartner"]
+# can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
 ```
