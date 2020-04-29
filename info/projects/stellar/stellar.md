@@ -89,7 +89,7 @@ cities = ["Dubai", "San Francisco", "Luxor", "Ghent", "Kyiv"]
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
 categories = ["solutionprovider"]
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
-badges = ["planetfirstalliance"]
+# can be chosen from: tftgranted (receiving TFT Grant)
+badges = 
 
 ```
