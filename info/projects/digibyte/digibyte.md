@@ -28,7 +28,7 @@ description ="Please provide more details about this milestone.."
 linkedin = "https://www.linkedin.com/company/digibyte-payment-network/"
 websites = ["https://digibyte.io/"]
 wiki = ""
-video = ""
+video = "https://player.vimeo.com/video/413179934"
 
 [info]
 mission = "DigiByte is more than a faster digital currency it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication."
