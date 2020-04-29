@@ -2,17 +2,10 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer: We have a community of thousands of teachers globally which allows to connect to children and teachers in refugee camps. Our platform allows to connect, create and share. This way we can - Train teachers in refugee camps (important as 67% did not complete secondary education), Have interactions between refugee students and students globally changing their mindset and fighting polarization, Teach refugee students, Teach young adults to code so they can find a job.
-Next step: thanks to TF technology (e.g. 3Bot Meet), we will be able to allow people globally to connect and learn from peers globally including refugees and people living in harsh conditions. 
-Thanks to TF technology we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. 
-
-
-- How does your project intend to measure impact?
-Answer: We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more. We will work with universities of Harvard, Brussels and Nairobi to collect qualitative and quantitative data measuring impact. 
-
-
 ```python
+
+[info]
+description: "We have a community of thousands of teachers globally which allows to connect to children and teachers in refugee camps. Our platform allows to connect, create and share. This way we can - Train teachers in refugee camps (important as 67% did not complete secondary education), Have interactions between refugee students and students globally changing their mindset and fighting polarization, Teach refugee students, Teach young adults to code so they can find a job. Next step: thanks to TF technology (e.g. 3Bot Meet), we will be able to allow people globally to connect and learn from peers globally including refugees and people living in harsh conditions. Thanks to TF technology we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more. We will work with universities of Harvard, Brussels and Nairobi to collect qualitative and quantitative data measuring impact."
 
 [milestone]
 name = "Platform launch with focus on refugees"
