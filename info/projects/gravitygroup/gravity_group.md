@@ -7,35 +7,6 @@ Answer:
 Answer:
 
 
-
-### Roadmap
-
-- Generic explanation: what is there today, what is coming up?
-Answer:
-
-- How does your project intend to measure impact?
-Answer:
-
-
-```python
-
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description =""
-
-[milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description =""
-    
-```
-
 ### data
 
 ```python
