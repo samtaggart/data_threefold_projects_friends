@@ -3,13 +3,10 @@
 
 ### Roadmap
 
-Generic explanation: what is there today, what is coming up?
-Today we are live with more than 40,000,000 GB of capacity and 15,000 CPU cores across 20+ countries. We have launched the TF Grid SDK meaning that anyone can begin to utilize the TF Grid. We are currently talking with more than 25 blockchain projects out of top 200 to invite them to explore possible use cases on the TF Grid. And we have a number of other partners ready to host or build on top of the TF Grid.
-
-How does your project intend to measure impact?
-The success of our efforts can be measured by the growth of the ThreeFold Grid in terms of number of hardware nodes, the amount of capacity utilized on the ThreeFold Gridm and the number of projects using and promoting the ThreeFold Grid.
-
 ```python
+
+[info]
+description: "Today we are live with more than 40,000,000 GB of capacity and 15,000 CPU cores across 20+ countries. We have launched the TF Grid SDK meaning that anyone can begin to utilize the TF Grid. We are currently talking with more than 25 blockchain projects out of top 200 to invite them to explore possible use cases on the TF Grid. And we have a number of other partners ready to host or build on top of the TF Grid.The success of our efforts can be measured by the growth of the ThreeFold Grid in terms of number of hardware nodes, the amount of capacity utilized on the ThreeFold Gridm and the number of projects using and promoting the ThreeFold Grid."
 
 [milestone]
 name = "Grid Promotion Phase I"
