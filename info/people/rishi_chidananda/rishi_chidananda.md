@@ -7,7 +7,7 @@
 [links]
 linkedin = ""
 websites = [""]
-video = ""
+video = "https://player.vimeo.com/video/413143125"
 
 [info]
 full_name = "Rishi Chidananda"
