@@ -1,20 +1,26 @@
 # DigiByte
 
 - What is the name of your project?
-Answer:
+Answer: DigiByte is a rapidly growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward-thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence.
+
+DigiByte (DGB) is a highly scalable peer-to-peer digital currency that enables industry-leading transaction speeds with negligible fees. DigiByte is the best way for payments. DigiByte is more than a faster digital currency. It is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication.
+
+Digi-ID is a security protocol built on DigiByte blockchain technology that empowers users to effortlessly sign-in to websites, applications, and even into the internet of things.
 
 - What is your project about? What is your mission & vision?
-Answer:
+Answer: The three layers are the most innovative parts of the DigiByte blockchain providing the network infrastructure, security and communications to function with cutting edge speed. 
+- Applications / Digital assets 
+- Digital assets / Public ledger
+- Core protocol / Global network
 
 - How will this benefit the earth and why do you think this is relevant? 
-Answer:
+Answer: By making a noncentralized currency, asset register and identity store the world has a more efficient and less costly way of exchanging and storing value and identity
 
 - What is the link between ThreeFold and your project? 
-Answer:
+Answer: Both foundations strive to find decentralised solutions for centralised infrastructure. The mission and values are very aligned and therefore joined projects and activities make a lot of sense.
 
 - How will your project use the ThreeFold grid and / or 3Bot?
-Answer:
-
+Answer: Currently considering to use the TF Grid to be the universal substrate for running DigiByte nodes.
 
 
 ### Roadmap
@@ -24,7 +30,6 @@ Answer:
 
 - How does your project intend to measure impact?
 Answer:
-
 
 
 ```python
@@ -50,14 +55,14 @@ description ="Please provide more details about this milestone.."
 
 ```python
 [links]
-linkedin = ""
-websites = []
+linkedin = "https://www.linkedin.com/company/digibyte-payment-network/"
+websites = [https://digibyte.io/]
 wiki = ""
 video = ""
 
 [info]
 team = []
-countries = []
+countries = [global]
 cities = []
 
 [ecosystem]
