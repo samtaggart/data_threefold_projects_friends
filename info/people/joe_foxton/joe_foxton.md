@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/joefoxton/"
 websites = ["https://green-edge.net"]
-video = "https://player.vimeo.com/video/413040323"
+video = "https://player.vimeo.com/video/413130340"
 
 [info]
 full_name = "Joe Foxton"
