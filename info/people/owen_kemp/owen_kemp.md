@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/owen-kemp-b6b5a113/"
 websites = ["www.threefold.io"]
-video = ""
+video = "https://player.vimeo.com/video/413145439"
 
 [info]
 full_name = "Owen Kemp"
