@@ -17,7 +17,7 @@ Answer: The three layers are the most innovative parts of the DigiByte blockchai
 Answer: By making a noncentralized currency, asset register and identity store the world has a more efficient and less costly way of exchanging and storing value and identity
 
 - What is the link between ThreeFold and your project? 
-Answer: Both foundations strive to find decentralised solutions for centralised infrastructure. The mission and values are very aligned and therefore joined projects and activities make a lot of sense.
+Answer: Both foundations strive to find decentralized solutions for centralized infrastructure. The mission and values are very aligned and therefore joined projects and activities make a lot of sense.  WE are very enthusiastic to go down the road together.
 
 - How will your project use the ThreeFold grid and / or 3Bot?
 Answer: Currently considering to use the TF Grid to be the universal substrate for running DigiByte nodes.
