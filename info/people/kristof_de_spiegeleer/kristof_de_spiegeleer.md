@@ -14,7 +14,7 @@ full_name = "Kristof De Spiegeleer"
 countries = ["Belgium", "Spain", "Egypt"]
 cities = ["Ghent", "Ibiza", "El Ghouna"]
 companies = ["ThreeFold", "Incubaid"] 
-bio = ""
+bio = "Humanist & motivated entrepreneur, passionate to help make the world a better place. Kristof strongly believes there is need for a neutral internet owned by millions."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
