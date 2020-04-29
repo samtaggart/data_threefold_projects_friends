@@ -1,9 +1,4 @@
-![Logo](https://github.com/threefoldfoundation/www_threefold_ecosystem/raw/master/info/projects/stellar/stellar-threefold.png "Stellar - ThreeFold Collaboration")
-
-# ThreeFold - Stellar Collaboration
-
-- What is the name of your project?
-Answer: ThreeFold - Stellar Collaboration
+# Stellar
 
 - What is your project about? What is your mission & vision?
 Answer: ThreeFold and Stellar foundations have very aligned goals - to create equitable access to the internet capacity and global financial system. Both organizations based their foundation on open-source technology and aims to unlock world's economic potential and, most importantly, to empover people in developing countries and all around the globe. 
