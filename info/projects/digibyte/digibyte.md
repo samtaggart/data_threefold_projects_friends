@@ -9,9 +9,9 @@ Digi-ID is a security protocol built on DigiByte blockchain technology that empo
 
 - What is your project about? What is your mission & vision?
 Answer: The three layers are the most innovative parts of the DigiByte blockchain providing the network infrastructure, security and communications to function with cutting edge speed. 
-- Applications / Digital assets 
-- Digital assets / Public ledger
-- Core protocol / Global network
+    - Applications / Digital assets 
+    - Digital assets / Public ledger
+    - Core protocol / Global network
 
 - How will this benefit the earth and why do you think this is relevant? 
 Answer: By making a noncentralized currency, asset register and identity store the world has a more efficient and less costly way of exchanging and storing value and identity
