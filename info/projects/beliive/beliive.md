@@ -2,15 +2,10 @@
 
 ### Roadmap
 
-- Generic explanation: what is there today, what is coming up?
-Answer: Beliive already have an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
-
-- How does your project intend to measure impact?
-Answer: Social impact will be measured by hours exchanged by low-income and unemployed users and hours of volunteer exchanged.
-
-
-
 ```python
+
+[info]
+description: "Beliive already have an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology. Social impact will be measured by hours exchanged by low-income and unemployed users and hours of volunteer exchanged."
 
 [milestone]
 name = "API integration"
