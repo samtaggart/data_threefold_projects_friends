@@ -62,7 +62,7 @@ video = "https://player.vimeo.com/video/412312968"
 
 [info]
 team = ["Joseph Foxton", "Mariza Kain"]
-countries = ["Germany", Austria", "Netherlands", "South Africa", "United States"]
+countries = ["Germany", "Austria", "Netherlands", "South Africa", "United States"]
 cities = ["Amsterdam", "Vienna", "Cape Town", "Frankfurt", "Rochester", "Salzburg", "St Gallen", "Toronto", "Berlin", "Graz", "Innsbruck"]
 
 [ecosystem]
