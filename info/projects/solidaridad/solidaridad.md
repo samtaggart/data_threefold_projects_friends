@@ -1,37 +1,5 @@
 # Solidaridad
 
-- What is the name of your project? 
-Answer: Solidaridad FAIR data.
-
-- What is your project about? What is your mission & vision? 
-Answer: Solidaridad works to create sustainable supply chains from the producers to consumers for commodities. Commodities involved are:
-COTTON: Cotton generates income for producers and comfort for consumers
-LIVESTOCK: A growing sector poised to sustainably balance the planet, people, and profits
-TEA: Making the world's second most popular beverage more sustainable
-SUGARCANE: Sugarcane is highly versatile crop used to make food, fuel, paper, and plastic
-FRUIT & VEGETABLES: Sowing sustainable nutrition across diverse agricultural sectors
-GOLD: Join us in helping make the true value of gold shine for all who are touched by it
-SOY: Helping industries source sustainable soy and farmers create better livelihoods
-COCOA: Together we can secure the future of cocoa farming
-TEXTILES: Making sustainable textile production more fashionable
-PALM OIL: The true potential of the most used and fastest growing vegetable oil
-AQUACULTURE: Sourcing sustainable fish and shrimp from the seas
-DAIRY: Change from within the dairy market can improve the livelihoods
-COFFEE: Coffee is our oldest programme
-
-Fair data is all about making the farmers (producers) own their created and shared data for a fair prices.  Why should data from hardwaokring farmers end up in the hands of a small number of food giants and be used to create more wealth for those giants.  The wealth creation needs to take place at the foundation of the food production supply chain, not the top.
-
-- How will this benefit the earth and why do you think this is relevant? 
-Answer: More sustainable production of food and wealth creation for farmers leads to less poverty and hunger amongst those farmers.
-
-- What is the link between ThreeFold and your project? 
-Answer: Linking data ownership to individuals in developing parts of the worlds brings unique challenges to manage, maintain and monetise this data (by farmers themselves).  The ThreeFold peer2peer cloud and unique 3bot digital avatar bring capabilities to these communities that have not been available to them before.
-
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer:  3bot will safeguard the farmers data and allows for data analysis / mining activities to be done in a sustainable and effecting manner where the farmers remains owner of the data and has a means for creating additional (digital) income.
-
-
-
 ### Roadmap
 
 - Generic explanation: what is there today, what is coming up?
@@ -70,6 +38,31 @@ wiki = ""
 video = "https://player.vimeo.com/video/412688641"
 
 [info]
+mission = "Solidaridad works to create sustainable supply chains from the producers to consumers for commodities."
+
+description = "Solidaridad works to create sustainable supply chains from the producers to consumers for commodities. Commodities involved are:
+COTTON: Cotton generates income for producers and comfort for consumers
+LIVESTOCK: A growing sector poised to sustainably balance the planet, people, and profits
+TEA: Making the world's second most popular beverage more sustainable
+SUGARCANE: Sugarcane is highly versatile crop used to make food, fuel, paper, and plastic
+FRUIT & VEGETABLES: Sowing sustainable nutrition across diverse agricultural sectors
+GOLD: Join us in helping make the true value of gold shine for all who are touched by it
+SOY: Helping industries source sustainable soy and farmers create better livelihoods
+COCOA: Together we can secure the future of cocoa farming
+TEXTILES: Making sustainable textile production more fashionable
+PALM OIL: The true potential of the most used and fastest growing vegetable oil
+AQUACULTURE: Sourcing sustainable fish and shrimp from the seas
+DAIRY: Change from within the dairy market can improve the livelihoods
+COFFEE: Coffee is our oldest programme
+
+Fair data is all about making the farmers (producers) own their created and shared data for a fair prices.  Why should data from hardwaokring farmers end up in the hands of a small number of food giants and be used to create more wealth for those giants.  The wealth creation needs to take place at the foundation of the food production supply chain, not the top.
+
+More sustainable production of food and wealth creation for farmers leads to less poverty and hunger amongst those farmers.
+
+Linking data ownership to individuals in developing parts of the worlds brings unique challenges to manage, maintain and monetise this data (by farmers themselves).  The ThreeFold peer2peer cloud and unique 3bot digital avatar bring capabilities to these communities that have not been available to them before.
+
+3bot will safeguard the farmers data and allows for data analysis / mining activities to be done in a sustainable and effecting manner where the farmers remains owner of the data and has a means for creating additional (digital) income."
+ 
 team = ["Jeroen Douglas", "Monique Vanni"]
 countries = ["Egypt", "Ghana", "Brasil", "The Netherlands"]
 cities = []
