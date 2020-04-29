@@ -6,7 +6,7 @@
 [links]
 linkedin = ""
 websites = []
-video = ""
+video = "https://player.vimeo.com/video/413148180"
 
 [info]
 full_name = "Michael Wellesley-Wesley"
