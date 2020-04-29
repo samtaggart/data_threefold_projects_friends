@@ -9,7 +9,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/jonas-delrue/"
 websites = []
-video = ""
+video = "https://player.vimeo.com/video/413268925"
 
 [info]
 full_name = "Jonas Delrue"
@@ -20,6 +20,6 @@ bio = "As a student, Jonas was already programming for Cisco, Excentis and other
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = []
+memberships = ["freeflowcitizen"]
 
 ```
