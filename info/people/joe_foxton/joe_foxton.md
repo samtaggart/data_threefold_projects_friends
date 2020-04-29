@@ -12,7 +12,7 @@ video = "https://player.vimeo.com/video/413040323"
 full_name = "Joe Foxton"
 countries = ["Netherlands"]
 cities = ["Amsterdam"]
-companies = ["GreenEdge"] 
+companies = ["GreenEdge", "Green-IT Services"] 
 bio = "An accomplished software product developer and growth expert. Joe has launched award winning products in several industries, from media tech to tourism."
 
 [ecosystem]
