@@ -1,26 +1,5 @@
 # DigiByte
 
-### Roadmap
-
-```python
-
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-
-[milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-    
-```
-
 ### data
 
 ```python
