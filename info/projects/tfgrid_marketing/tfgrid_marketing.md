@@ -38,7 +38,7 @@ websites = ["https://threefold.io/capacity.html"]
 video = "https://player.vimeo.com/video/412749710"
 
 [info]
-mission = "Our mission is to enable +1 billion people with access to the fundamental internet infrastructure and their full digital lives (education, banking and internet access) for less then 1$ per person per month by 2030."
+mission = "Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed."
 
 description = "Our project is about promoting the adoption and expansion of ThreeFold Network in order to empower a new and democratized digital economy based on our values of equality of access, data sovereignty, and environmental sustainability.
 
