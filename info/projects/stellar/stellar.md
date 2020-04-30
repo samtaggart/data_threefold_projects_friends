@@ -2,41 +2,30 @@
 
 # ThreeFold - Stellar Collaboration
 
-- What is the name of your project?
-Answer: ThreeFold - Stellar Collaboration
 
-- What is your project about? What is your mission & vision?
-Answer: ThreeFold and Stellar foundations have very aligned goals - to create equitable access to the internet capacity and global financial system. Both organizations based their foundation on open-source technology and aims to unlock world's economic potential and, most importantly, to empover people in developing countries and all around the globe. 
+## Mission & Vision
+ *ThreeFold and Stellar* foundations have very aligned goals - to create equitable access to the internet capacity and global financial system. Both organizations based their foundation on open-source technology and aims to unlock world's economic potential and, most importantly, to empover people in developing countries and all around the globe. 
 
-- How will this benefit the earth and why do you think this is relevant? 
-Answer: By creating equal opportunties for people around the globe and by financial and technology inclusion for developing countries we can uplift general conditions of humanity and our planet. 
+## Benefits our planet
+ By creating equal opportunties for people around the globe and by financial and technology inclusion for developing countries we can uplift general conditions of humanity and our planet. 
 
-- What is the link between ThreeFold and your project? 
-Answer:
-ThreeFold Foundation is actively using Stellar Network as a payment layer for its ThreeFold Token. 3Bot, the digital avatar living on ThreeFold Network will be directly integrated with Stellar Decentralized Exchange to give it's owner access to the immediate liquidity for all kind of digital assets.
+## Linked with Threefold
+ ThreeFold Foundation is actively using Stellar Network as a payment layer for its ThreeFold Token. 3Bot, the digital avatar living on ThreeFold Network will be directly integrated with Stellar Decentralized Exchange to give it's owner access to the immediate liquidity for all kind of digital assets.
 
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer: 
-Number of the Stellar Network nodes will be deployed on ThreeFold Network in autonomous environment to ensure secure and truly decentralized expansion of the Stellar Network. 
-Stellar and ThreeFold Foundations will promote their cooperation for the blockchain community to inspire development of new projects and attract new users to the ecosystem. 
-
-
+## Using Threefold
+ Number of the Stellar Network nodes will be deployed on ThreeFold Network in autonomous environment to ensure secure and truly decentralized expansion of the Stellar Network. 
+ Stellar and ThreeFold Foundations will promote their cooperation for the blockchain community to inspire development of new projects and attract new users to the ecosystem. 
 
 ### Roadmap
+ ThreeFold Network is using Stellar Network as transactional layer for its ThreeFold Token. 
+ Stellar Nodes deployed on ThreeFold Network. 
 
-- Generic explanation: what is there today, what is coming up?
-Answer:
+## Future steps are:
+ Integrate Stellar Decentralized Exchange inside of 3Bot
+ Launch a marketing collaboration
 
-As of today: 
-1) ThreeFold Network is using Stellar Network as transactional layer for its ThreeFold Token. 
-2) Stellar Nodes deployed on ThreeFold Network. 
-
-Future steps are:
-1) Integrate Stellar Decentralized Exchange inside of 3Bot
-2) Launch a marketing collaboration
-
-- How does your project intend to measure impact?
-Answer: The main impact of the collaboration will be realized in increased rate of adoption of opensource and easy to use technologies that boost economic empowerment for developers community, for enterprises and small businesses, and at last but not least - for regular people. 
+## Measured impact
+ The main impact of the collaboration will be realized in increased rate of adoption of opensource and easy to use technologies that boost economic empowerment for developers community, for enterprises and small businesses, and at last but not least - for regular people. 
 
 ```python
 

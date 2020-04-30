@@ -1,31 +1,29 @@
-# TAG
+# TAG2TAG
 
-- What is the name of your project?
-Answer: TAG2TAG
+## Mission & Vision
+ TAG2TAG aims to develop a platform for peer-to-peer education, where teacher becomes student and student becomes teacher. In the first stage, we will target refugees and teachers globally, and in the second stage we will focus on global projects like climate, poverty, and more.
 
-- What is your project about? What is your mission & vision?
-Answer: TAG2TAG aims to develop a platform for peer-to-peer education, where teacher becomes student and student becomes teacher. In the first stage, we will target refugees and teachers globally, and in the second stage we will focus on global projects like climate, poverty, and more.
+## Benefits our planet
+ We have for years been working to bring positive and needed changes to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world.
 
-- How will this benefit the earth and why do you think this is relevant? 
-Answer: We have for years been working to bring positive and needed changes to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world.
+## Supported by Threefold
+ The platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology.
 
-- What is the link between ThreeFold and your project? 
-Answer: The platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology.
-
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer: The P2P Zoom (tentatively named 3Bot Meet) solution will be used to allow teachers to teach refugees. (We have already been doing this for five years: projectkakuma.com.) This approach can be scaled to "everyone" teaches "everyone." For example, 1 teacher teaches 1 teacher, 1 teacher teaches a classroom in another country, 1 student teaches 1 teacher, 1 student teaches several other students. The tool can be used for webinars from experts as well. We will likely use other elements of 3Bot, including file storage.
+ The P2P Zoom (tentatively named 3Bot Meet) solution will be used to allow teachers to teach refugees. (We have already been doing this for five years: projectkakuma.com.) This approach can be scaled to "everyone" teaches "everyone." For example, 1 teacher teaches 1 teacher, 1 teacher teaches a classroom in another country, 1 student teaches 1 teacher, 1 student teaches several other students. The tool can be used for webinars from experts as well. We will likely use other elements of 3Bot, including file storage.
 
 
 ### Roadmap
+ We have a community of thousands of teachers globally which allows to connect to children and teachers in refugee camps. Our platform allows to connect, create and share. This way we can - Train teachers in refugee camps (important as 67% did not complete secondary education), Have interactions between refugee students and students globally changing their mindset and fighting polarization, Teach refugee students, Teach young adults to code so they can find a job.
 
-- Generic explanation: what is there today, what is coming up?
-Answer: We have a community of thousands of teachers globally which allows to connect to children and teachers in refugee camps. Our platform allows to connect, create and share. This way we can - Train teachers in refugee camps (important as 67% did not complete secondary education), Have interactions between refugee students and students globally changing their mindset and fighting polarization, Teach refugee students, Teach young adults to code so they can find a job.
-Next step: thanks to TF technology (e.g. 3Bot Meet), we will be able to allow people globally to connect and learn from peers globally including refugees and people living in harsh conditions. 
-Thanks to TF technology we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. 
+## Next step: 
+Thanks to TF technology (e.g. 3Bot Meet) : 
 
+  We will be able to allow people globally to connect and learn from peers globally including refugees and people living in harsh conditions. 
 
-- How does your project intend to measure impact?
-Answer: We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more. We will work with universities of Harvard, Brussels and Nairobi to collect qualitative and quantitative data measuring impact. 
+  We will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. 
+
+## Measured impact
+ We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more. We will work with universities of Harvard, Brussels and Nairobi to collect qualitative and quantitative data measuring impact. 
 
 
 ```python

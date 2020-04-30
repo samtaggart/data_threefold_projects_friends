@@ -13,7 +13,7 @@ Today's economies are successful when depleting our planet's resources. This is 
 
 3bot is built by Threefold Tech and lives on Threefold grid, serving as the gateway of the new digital world, the new internet and peer-to-peer experiences.
 
- ## Join saving our planet
+ ## Join saving our planet!
 
 3Bot lives on the ThreeFold Grid, a decentralised and neutral Internet for all, owned by everyone. By using 3bot SDK, 3bot users could create their own experiences, functionalities and features within the Threefold Grid’s peer-to-peer ecosystem.
 

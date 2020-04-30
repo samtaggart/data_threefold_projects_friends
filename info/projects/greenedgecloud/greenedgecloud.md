@@ -1,21 +1,16 @@
 # Green Edge Cloud
 
-- What is the name of your project?
-Answer:  Green Edge Cloud
+## Mission & Vision
+In *Green Edge Cloud*  we are facing a tsunami of compute and storage capacity demand. The current internet giants are already struggling to meet this demand, and will continue to push their highly centralised technologies that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. Not only does this represent an excellent business opportunity for a truly decentralised compute & storage platform, but also an opportunity to have a positive impact on the planet and the future of the human race.  
 
-- What is your project about? What is your mission & vision?
-Answer: We are facing a tsunami of compute and storage capacity demand. The current internet giants are already struggling to meet this demand, and will continue to push their highly centralised technologies that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. Not only does this represent an excellent business opportunity for a truly decentralised compute & storage platform, but also an opportunity to have a positive impact on the planet and the future of the human race.  
+``` Green Edge Cloud is farming ThreeFold grid capacity for Enterprises in world class datacenters.```
 
-Green Edge Cloud if farming ThreeFold grid capacity for Enterprises in world class datacenters.
+## Benefits our planet
+Green Edge Cloud believes in helping create a world where technology promotes and protects personal liberty and sovereignty. A decentralised internet is inherently faster, greener, more private, and more secure.
 
-- How will this benefit the earth and why do you think this is relevant? 
-Answer: Green Edge Cloud believes in helping create a world where technology promotes and protects personal liberty and sovereignty. A decentralised internet is inherently faster, greener, more private, and more secure.
 
-- What is the link between ThreeFold and your project? 
-Answer: Green Edge Cloud is a ThreeFold farmer and actively back the foundation as it's mission
-
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer: ThreeFold Farmer creating TF Grid capacity and actively seeking uses cases for the TF Grid.
+## Threefold Farmer
+Green Edge Cloud is a ThreeFold farmer and actively back the foundation as it's mission, And creating TF Grid capacity and actively seeking uses cases for the TF Grid.
 
 
 ### Roadmap
