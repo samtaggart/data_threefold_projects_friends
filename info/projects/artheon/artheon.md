@@ -6,7 +6,7 @@
 ```python
 
 [info]
-description: "We have finest collection of 400'000+ artworks available from the most famous museums on the planet – Metropolitan Museum in New York, Rijksmuseum in Amsterdam, British Museum, Louvre Museum, and many others. We are at v1.0 Individual with Art Database - based on artworks in public domain and cc published datasets; Individual - supported platforms Sony PSVR, Oculus, HTC Vive, Valve Index; Individual Collections - create your own gallery; Text search - folksonomy tags, descriptions; Recommendations - basic. Coming up - v2.0 Social and v3.0 AI. We are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. The best way to measure impact is really by number of users using Artheon, number of educational initiatives - courses, tours, lectures, events - created on our platform, number of art works uploaded."
+description: "At this moment we have the worlds finest collection of 400'000+ artworks available from the most well known museums on the planet. We have Art Database - based on artworks in public domain and cc published datasets and we can provide individual collection creation where everyone can create their own gallery. In the future we are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. We envision everyone to have free, instant and interactive access to art, culture and history with courses, tours, lectures, events created and available on our platform."
 
 [milestone]
 name = "v2.0 Social"
@@ -36,8 +36,8 @@ wiki = ""
 video = "https://player.vimeo.com/video/412681114"
 
 [info]
-mission = "The Artheon VR Museum is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage."
-description = "Our vision is to provide one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe. Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind. The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner."
+mission = "The Artheon VR Museum is and always will be a free educational platform. We believe that free global access to fine art and culture is a prerequisite for the development of human kind."
+description = "Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind. The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner."
 team = ["Vasily Gnuchev"]
 countries = ["Russia"]
 cities = ["Moscow"]
