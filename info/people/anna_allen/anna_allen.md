@@ -11,9 +11,9 @@ video = ""
 
 [info]
 full_name = "Anna Allen"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]

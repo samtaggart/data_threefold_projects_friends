@@ -11,9 +11,9 @@ video = ""
 
 [info]
 full_name = "Jennifer Long"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]

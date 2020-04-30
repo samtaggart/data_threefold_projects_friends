@@ -11,9 +11,9 @@ video = "https://player.vimeo.com/video/413150039"
 
 [info]
 full_name = "Dimitrios Dermentzioglou"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]

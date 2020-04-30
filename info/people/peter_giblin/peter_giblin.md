@@ -11,9 +11,9 @@ video = ""
 
 [info]
 full_name = "Peter Giblin"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]

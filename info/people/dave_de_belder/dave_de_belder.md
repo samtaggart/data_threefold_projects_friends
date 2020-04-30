@@ -11,9 +11,9 @@ video = ""
 
 [info]
 full_name = "Dave De Belder"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]
