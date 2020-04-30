@@ -7,7 +7,7 @@
 [links]
 linkedin = ["https://www.linkedin.com/in/annanaturalista/"]
 websites = ["https://www.annanaturalista.com/"]
-video = ""
+video = "https://player.vimeo.com/video/413651273"
 
 [info]
 full_name = ["Anna Allen"]
