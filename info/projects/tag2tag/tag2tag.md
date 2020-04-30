@@ -35,9 +35,7 @@ video = "https://player.vimeo.com/video/412753456"
 
 [info]
 mission = "TAG2TAG aims to develop a platform for peer-to-peer education, where teacher becomes student and student becomes teacher."
-
 description = "In the first stage, we will target refugees and teachers globally, and in the second stage we will focus on global projects like climate, poverty, and more.We have for years been working to bring positive and needed changes to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world.The platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology.The P2P Zoom (tentatively named 3Bot Meet) solution will be used to allow teachers to teach refugees. (We have already been doing this for five years: projectkakuma.com.) This approach can be scaled to everyone teaches everyone. For example, 1 teacher teaches 1 teacher, 1 teacher teaches a classroom in another country, 1 student teaches 1 teacher, 1 student teaches several other students. The tool can be used for webinars from experts as well. We will likely use other elements of 3Bot, including file storage."
-
 team = ["Koen Timmers"]
 countries = ["Belgium", "US"]
 cities = ["Hasselt", "Florida"]

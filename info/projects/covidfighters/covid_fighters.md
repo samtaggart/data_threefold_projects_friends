@@ -5,7 +5,7 @@
 ```python
 [links]
 linkedin = ""
-websites = [https://www.artichoke-computing.com/]
+websites = ["https://www.artichoke-computing.com/"]
 wiki = ""
 video = "https://player.vimeo.com/video/412336565"
 

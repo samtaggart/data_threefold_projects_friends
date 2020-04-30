@@ -11,9 +11,9 @@ video = "https://player.vimeo.com/video/413143125"
 
 [info]
 full_name = "Rishi Chidananda"
-countries = [""]
-cities = [""]
-companies = [""]
+countries = []
+cities = []
+companies = []
 bio = ""
 
 [ecosystem]
