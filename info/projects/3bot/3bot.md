@@ -5,7 +5,7 @@
 ```python
 
 [info]
-description: "3bot is live on the ThreeFold Grid, and anyone can sign up for a 3bot using the 3bot Connect app available for iOS and Android. Once connected to 3bot Connect, you can access your profile, wallet, contacts and messaging. You also use the app to verify your identity for experiences and transactions. In May, 3bot’s public release will include P2P videoconferencing, P2P social network, file storage, secure browser and collaboration tools. The 3bot SDK will also be available to developers to build P2P experiences. While 3bot may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for 3bot makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities. Additionally, the 3bot ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication."
+description = "3bot is live on the ThreeFold Grid, and anyone can sign up for a 3bot using the 3bot Connect app available for iOS and Android. Once connected to 3bot Connect, you can access your profile, wallet, contacts and messaging. You also use the app to verify your identity for experiences and transactions. In May, 3bot’s public release will include P2P videoconferencing, P2P social network, file storage, secure browser and collaboration tools. The 3bot SDK will also be available to developers to build P2P experiences. While 3bot may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for 3bot makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities. Additionally, the 3bot ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication."
 
 [milestone]
 name = "3bot Public Release v.1"
@@ -27,8 +27,7 @@ name = "3bot Rebranding / Public Release v.2"
 date = "2021/03"
 funding_required_tft = "7,500,000"
 funding_required_usd = "500,000"
-description = "Once the community of early adopters have been onboarded with 3bot and the 1st generation of experiences are available, the outreach will then focus on the larger public. At this point, we will rebrand ‘3bot’ to make it more easily accessible and understandable by the everyday internet user.”
-
+description = "Once the community of early adopters have been onboarded with 3bot and the 1st generation of experiences are available, the outreach will then focus on the larger public. At this point, we will rebrand '3bot' to make it more easily accessible and understandable by the everyday internet user."
     
 ```
 
