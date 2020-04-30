@@ -18,5 +18,6 @@ bio = "Sacha is a positive and outgoing individual. Seeking challenging and dyna
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
 memberships = ["freeflowcitizen", "tfambassador"]
+
 ```
 
