@@ -28,6 +28,7 @@ description = "Marketplace - earn for being active, create and sell your educati
 ### data
 
 ```python
+
 [links]
 linkedin = ""
 websites = ["https://artheon.co/"]

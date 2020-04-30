@@ -20,6 +20,7 @@ description = "API integration of users ID and balance of time credits"
 ### data
 
 ```python
+
 [links]
 linkedin = "https://www.linkedin.com/company/beliive"
 websites = ["https://beliive.com"]
@@ -28,9 +29,7 @@ video = "https://player.vimeo.com/video/413225889"
 
 [info]
 mission = "Beliive is the world's largest time bank with 200.000 members and a community where people can exchange experiences and services using time as the only currency."
-
 description = "With Beliive, you can offer one hour of Spanish Lessons and for it, you receive a time credit of one hour and then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix your computer. Our mission is to empower and inspire people to recognize abundance by living new experiences one hour of a time. Our vision is to be a movement that rethinks and rebuilds the value of money, the value of time and the way we collaborate with each other. When the money economy is failing on giving us a way to exchange our value independently of the circumstances, Beliive decided to create a complimentary economy based on an abundant resource available to everyone equally. The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to it's own potential. Beliive is going to connect users wallet and identity with ThreeFold Network. Using their time exchange balance and reputation, users can transfer time credits and use their reviews as an additional way to showcase their skills and experiences."
-
 team = ["Lorrana Scarpioni"]
 countries = ["Global"]
 cities = ["Global"]
