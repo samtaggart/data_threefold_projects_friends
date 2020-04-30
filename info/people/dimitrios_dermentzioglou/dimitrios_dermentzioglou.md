@@ -7,7 +7,7 @@
 [links]
 linkedin = ""
 websites = ["http://themusicmedicine.com/"]
-video = ["https://player.vimeo.com/video/413150039"]
+video = "https://player.vimeo.com/video/413150039"
 
 [info]
 full_name = "Dimitrios Dermentzioglou"
