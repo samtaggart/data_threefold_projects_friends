@@ -1,6 +1,5 @@
 # 3Bot vision
 
-
 *3bot* is a solution that emerged from the work on the ThreeFold network. Our mission is to serve as the gateway through which people and communities sign up for the new peer-to-peer network and transform their digital life by using experiences and functionalities created within the peer-to-peer ecosystem that upholds our digital privacy and freedom.
 Our vision is to shape a conscious digital world together. Envisioning a fair world where all individuals, across regions have equal chances to learn, partake, and succeed. A world where freedom and liberalism are at the center. The vision of a world where we live sustainably and where we think circularly. The priority is to ensure the best environment possible for us and all living species of this plant. Creating circular economies that use resources consciously, and where that which has true value becomes the center. Future economies will be digital and promote sustainability.
 
@@ -13,13 +12,11 @@ Today's economies are successful when depleting our planet's resources. This is 
 
 3bot is built by Threefold Tech and lives on Threefold grid, serving as the gateway of the new digital world, the new internet and peer-to-peer experiences.
 
- ## Join saving our planet
+ ## Join saving our planet!
 
 3Bot lives on the ThreeFold Grid, a decentralised and neutral Internet for all, owned by everyone. By using 3bot SDK, 3bot users could create their own experiences, functionalities and features within the Threefold Grid’s peer-to-peer ecosystem.
 
 
-
-### Roadmap
 
 ```python
 
