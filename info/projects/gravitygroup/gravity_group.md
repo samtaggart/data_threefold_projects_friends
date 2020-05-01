@@ -8,7 +8,11 @@ Gravity Group’s team has previously generated over $20B in revenue for compani
 
 ## Partnership with ThreeFold
 
-Gravity Group can support ThreeFold in three main areas - Token design, launch and marketing, Business Development & Partnerships within the Gravity portfolio of 22 mission-driven companies and beyond and fundraising planning and management. Gravity will onboard our portfolio of tech companies as early adopters, promote growth and user feedback. For instance we founded several award winning enterprise collaboration VR/AR/Immersive platforms that are high storage and bandwidth use cases.Gravity also has several partnerships with advanced and mission aligned technologies launching digital transformation projects in emerging markets which would make a perfect fit for a new internet and personal data ownership in areas such as smart cities/countries, micro lending, ESG Security Token Offering/exchange platforms, spatial web, advanced medical technologies and decentralized social media to name a few.
+Gravity Group can support ThreeFold in three main areas:
+1) Token design, launch and marketing, 
+2) Business Development & Partnerships within the Gravity portfolio of 22 mission-driven companies and beyond and 
+3) Fundraising planning and management. 
+Gravity will onboard our portfolio of tech companies as early adopters, promote growth and user feedback. For instance we founded several award winning enterprise collaboration VR/AR/Immersive platforms that are high storage and bandwidth use cases. Gravity also has several partnerships with advanced and mission aligned technologies launching digital transformation projects in emerging markets which would make a perfect fit for a new internet and personal data ownership in areas such as smart cities/countries, micro lending, ESG Security Token Offering/exchange platforms, spatial web, advanced medical technologies and decentralized social media to name a few.
 
 ## Join saving our planet!
 
