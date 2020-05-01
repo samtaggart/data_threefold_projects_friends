@@ -11,7 +11,7 @@ We are facing a tsunami of compute and storage capacity demand. The current inte
 Green Edge is the first & largest ThreeFold farmer. We fully support the ThreeFold foundation, and its goals. We hope that our certified capacity will help ThreeFold achieve their mission of a green, decentralized internet that puts personal sovereignty and freedom first.
 
 ## Join saving our planet!
-
+Bringing The Cloud Closer To You.
 
 ### data
 
