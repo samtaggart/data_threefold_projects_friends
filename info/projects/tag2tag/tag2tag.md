@@ -11,7 +11,7 @@ In the first stage, we will target refugees and teachers globally, and in the se
 The platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology. The P2P Zoom (tentatively named 3Bot Meet) solution will be used to allow teachers to teach refugees. We have already been doing this for five years: projectkakuma.com. Thanks to TF technology (e.g. 3Bot Meet), we will be able to allow people globally to connect and learn from peers including refugees and people living in harsh conditions. 
 
 ## Join saving our planet!
-
+Every child deserves an education. Inspire change. Take action. NOW!
 
 ### Roadmap
 
