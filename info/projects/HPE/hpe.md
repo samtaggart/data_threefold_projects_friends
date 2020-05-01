@@ -1,14 +1,16 @@
-# Green Edge
-We are facing a tsunami of compute and storage capacity demand. The current internet giants are already struggling to meet this demand, and will continue to push their highly centralized technologies that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. Not only does this represent an excellent business opportunity for a truly decentralized compute & storage platform, but also an opportunity to have a positive impact on the planet and the future of the human race.
+# Hewlett Packard Enterprise
+Hewlett Packard Enterprise is the global edge-to-cloud Platform-as-a-Service company that helps organizations accelerate outcomes by unlocking value from all of their data, everywhere. We’re built on decades of reimagining the future through innovation.
+
+HPE is committed to sustainable innovation.  From designing products for energy efficiency and reuse, to materials sourcing, consumption-based IT services and IT asset upcycling, HPE helps companies achieve both business and sustainability goals.
+
 ## Impact
+NOt wasting resources used to create compute and storage capacity in the past when new technologies come around the corner but repurpose them with a second life.  Circular economy takes away the burden discarded technology waste.
 
 ## Powered by ThreeFold
-Green Edge is a threefold farmers that underwrites all of the ThreeFold foundation technology and values.  It has large quantities of 3nodes in datacenters and will be expading into much more.  
-
-It's also is creating end users (startups and sme's) service to increase consumption and usage of their farms.
+HP Enterprise is providers ThreeFold Foundation farmers energy-efficient server platforms to farm TF Grid capacity.  HPE is also looking to use the TF Grid for it services that can live outside of the Enterprise customers datacenter and offices.
 
 ## Join saving our planet!
-We believe in helping create a world where t    echnology promotes and protects personal liberty and sovereignty. A decentralized internet is inherently faster, greener, more private, and more secure.
+At HPE, we believe that technology’s greatest promise lies in its potential for positive change.
 
 ### data
 
