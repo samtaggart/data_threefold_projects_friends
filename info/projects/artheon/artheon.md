@@ -16,9 +16,6 @@ The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold 
 
 ```python
 
-[info]
-description: "At this moment we have the worlds finest collection of 400'000+ artworks available from the most well known museums on the planet. We have Art Database - based on artworks in public domain and cc published datasets and we can provide individual collection creation where everyone can create their own gallery. In the future we are planning to have Artheon VR Museum as crowdsourced global art database empowering smaller museums, private collections and galleries with tools to publish and display artwork - no IT knowledge required, unified data standard, single platform, unlimited storage and quality powered by ThreeFold. We envision everyone to have free, instant and interactive access to art, culture and history with courses, tours, lectures, events created and available on our platform."
-
 [milestone]
 name = "v2.0 Social"
 #date format: YYYY/MM 

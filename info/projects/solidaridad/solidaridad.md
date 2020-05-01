@@ -1,11 +1,7 @@
 # Solidaridad FAIR data.
 
-### Roadmap
+### What we do
 
-```python
-
-[info]
-description: "
 The current economic model is failing. It’s an economy of, by, and for the top 1 percent. Today, only a few billionaires own as much as half of the planet’s population. For billions of people the promise of globalization did not deliver. A new disruptive economic process that seeks to establish an economy of, by, and for the people is taking shape. It has the potential to become a movement. We call it a solidarity economy, a countermodel to the extractive economy that extracts wealth from the earth, workers and communities without fair payment or regard for the problems that ensue. In partnership with Threefold, Solidaridad seeks to develop concrete alternatives to five global oligopolies from whom we need to reclaim sustainability.
 
 Whilst watching mirroring portraits of Rembrandt at the Thyssen Museum in Madrid, Weynand Kuijpers and I were discussing the emergence of a new, solidarity economy movement. It was Wednesday 26 February, the day that later turned out to be the start of the now called Great Lockdown due to the COVID-19 pandemic. A solidarity economy, we agreed, would follow eight core principles. 
@@ -30,11 +26,12 @@ Value proposition: Threefold, Solidaridad and other partners intends to build an
 
 Three levels of intervention
 1. Think tank: Think tanks have been instrumental in creating the present, extractive economic order. Likewise, the globalization of capital has been strongly advocated by powerful think tanks. Think tanks have been effective in advocating policy change. The model is also a good fit for Threefold & Solidaridad, considering its long history of advocacy and thought leadership. We know how to amplify and connect ‘Voices from the South’ and to empower a global movement. Through our global network, we believe we can effectively influence policies and pilot new economic models.
+
 2. The Lab: Product development on healthy food, TEK, renewable energy, Fairdata, tokenization. Tapping from state of art IT, dedicated investments, knowledge, skill sets, and training modules, with the aim to develop and bring to market tailored, ready-to-implement tooling.
+
 3. Landscapes of change: building democratic food-water-energy systems on the rural-urban nexus in - potentially - Place: Buenos Aires/São Paulo, Johannesburg and Kolkata. Megacities with large peri-urban supplies on food, energy, pharmacy, big data, currency. Form: not-for-profit, and public-private partnerships.
 
-"
-
+```python
 [milestone]
 name = "Feasibility study"
 #date format: YYYY/MM 
