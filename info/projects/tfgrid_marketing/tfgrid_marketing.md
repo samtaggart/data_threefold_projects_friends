@@ -11,7 +11,7 @@ ThreeFold's Grid will help to give data sovereignty back to people and countries
 The ThreeFold Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services.
 
 ## Join saving our planet!
-
+If not us, who? If not now, when?
 
 
 ```python
