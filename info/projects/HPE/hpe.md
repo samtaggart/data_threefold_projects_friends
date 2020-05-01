@@ -4,7 +4,7 @@ Hewlett Packard Enterprise is the global edge-to-cloud Platform-as-a-Service com
 HPE is committed to sustainable innovation.  From designing products for energy efficiency and reuse, to materials sourcing, consumption-based IT services and IT asset upcycling, HPE helps companies achieve both business and sustainability goals.
 
 ## Impact
-NOt wasting resources used to create compute and storage capacity in the past when new technologies come around the corner but repurpose them with a second life.  Circular economy takes away the burden discarded technology waste.
+Not wasting resources used to create compute and storage capacity in the past when new technologies come around the corner but repurpose them with a second life.  Circular economy takes away the burden discarded technology waste.
 
 ## Powered by ThreeFold
 HP Enterprise is providers ThreeFold Foundation farmers energy-efficient server platforms to farm TF Grid capacity.  HPE is also looking to use the TF Grid for it services that can live outside of the Enterprise customers datacenter and offices.
