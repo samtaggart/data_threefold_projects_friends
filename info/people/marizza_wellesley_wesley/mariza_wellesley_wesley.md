@@ -1,4 +1,4 @@
-## Marizza Wellesley-Wesley
+## Mariza Wellesley-Wesley
 
 ### data
 
@@ -9,7 +9,7 @@ websites = ["https://www.green-edge.net/"]
 video = "https://player.vimeo.com/video/413196271"
 
 [info]
-full_name = "Marizza Wellesley-Wesley"
+full_name = "Mariza Wellesley-Wesley"
 countries = ["Austria"]
 cities = ["Vienna"]
 companies = ["Green Edge"]
