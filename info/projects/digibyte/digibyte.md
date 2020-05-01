@@ -8,9 +8,10 @@ Thousands of volunteers from all over the world have contributed to DigiByte in 
 
 ## Powered by ThreeFold
 
+The DigiByte network runs on a mix of servers managed by DigiByte volunteers and virtual machines or containers in commercial cloud provider environments.  This is decentralized to a degree but can be more decentralized if the DigiByte blockchain nodes can run on ThreeFold Grid nodes truly decentralized, energy-efficient and everywhere. 
 
 ## Join saving our planet!
-
+The efficient operation of the 3nodes help the DigiByte software to useless underlying capacoty for processing and fat networking enhances time to reach consensus. 
 
 ### data
 
