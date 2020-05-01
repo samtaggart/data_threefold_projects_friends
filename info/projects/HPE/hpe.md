@@ -2,7 +2,7 @@
 
 ## Impact
 
-## Powered by ThreeFold
+## Partnership with ThreeFold
 
 ## Join saving our planet!
 
