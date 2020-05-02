@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/jenniferlongcr/"
 websites = ["http://www.biolleyfarms.com/"]
-video = "https://player.vimeo.com/video/413506169"
+video = "https://player.vimeo.com/video/414234613"
 
 [info]
 full_name = "Jennifer Long"
