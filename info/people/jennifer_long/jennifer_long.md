@@ -18,6 +18,6 @@ bio = "Greetings global community! Pura Vida from beautiful Costa Rica! I am Jen
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["wisdomcouncil","tfambassador", "freeflowcitizen"]
+memberships = ["wisdomcouncil", "tfambassador", "freeflowcitizen"]
 
 ```
