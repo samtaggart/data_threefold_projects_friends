@@ -10,8 +10,8 @@ video = "https://player.vimeo.com/video/413148180"
 
 [info]
 full_name = "Michael Wellesley-Wesley"
-countries = [England, Austria]
-cities = [London, Vienna]
+countries = ["England", "Austria"]
+cities = ["London", "Vienna"]
 companies = ["Green Edge", "Inogesis"] 
 bio = "Michael is Director and Founder of Inogesis, a London-based accelerator that enables blue-chip organizations to harness the power of disruptive technology, and a ThreeFold Farmer as co-founder and chairman of Green Edge."
 
