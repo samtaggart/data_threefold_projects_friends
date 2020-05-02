@@ -7,7 +7,7 @@
 [links]
 linkedin = ""
 websites = []
-video = ""
+video = "https://player.vimeo.com/video/414231309"
 
 [info]
 full_name = "Dave De Belder"
