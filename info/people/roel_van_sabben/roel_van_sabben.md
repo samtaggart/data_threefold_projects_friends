@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/roelvansabben/"
 websites = ["https://threefold.io/"]
-video = "https://player.vimeo.com/video/"
+video = "https://player.vimeo.com/video/414512583"
 
 [info]
 full_name = "Roel van Sabben"
