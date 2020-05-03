@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/novalena"
 websites = ["https://www.gravity.group/"]
-video = "https://player.vimeo.com/video/413056925"
+video = "https://player.vimeo.com/video/414442304"
 
 [info]
 full_name = "Novalena Nichelle"
