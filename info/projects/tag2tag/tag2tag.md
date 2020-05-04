@@ -39,7 +39,7 @@ description ="Extend Platform which connects students globally allowing them to 
 ```python
 [links]
 linkedin = "https://www.linkedin.com/company/take-action-global/"
-websites = ["www.projectkakuma.com", "http://innovationlabschools.com", "http://takeactionglobal.org"]
+websites = ["http://projectkakuma.com", "http://innovationlabschools.com", "http://takeactionglobal.org"]
 wiki = ""
 video = "https://player.vimeo.com/video/414512607"
 
