@@ -6,8 +6,8 @@
 ```python
 [links]
 linkedin = ""
-websites = [""]
-video = ""
+websites = []
+video = "https://player.vimeo.com/video/414707207"
 
 [info]
 full_name = "Sophie Monpeyssen"
