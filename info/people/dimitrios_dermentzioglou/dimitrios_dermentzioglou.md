@@ -11,10 +11,13 @@ video = "https://player.vimeo.com/video/413150039"
 
 [info]
 full_name = "Dimitrios Dermentzioglou"
-countries = ["Turkey"]
+countries = ["Turkey", "Brasil", "Greece", "The World"]
 cities = ["Istanbul"]
-companies = ["The Music Medicine"]
-bio = "Dimitrios is a medical ethnomusicologist who has been leading people worldwide to awaken their musicality and creativity through Meditation and Celebration. He has studied and applied the inherited gifts of music, art, & movement for more than 3 decades and the ways to bridge modern science and traditional wisdom for self-developement and self-healing."
+companies = ["The Music Medicine", "ThreeFold"]
+bio = "Dimitrios is the founder of The Music Medicine, a project committed to cultivating Global Joy & Harmony, through the use and study of Music and Performing Arts as tools of Human Development and Self-Healing.
+Medical Ethnomusicologist, Music Therapist, Musician, Listener and Conductor, Dimitrios has a more than three-decade experience in the arts of Music and Celebration, studying their beneficial effects in Mind, Body, Soul and Social interaction.
+"It is only on maps that borders exist between humans. We are one world, one race, we carry one song".
+
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
