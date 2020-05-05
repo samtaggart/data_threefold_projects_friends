@@ -22,13 +22,13 @@ name = "Platform launch with focus on refugees"
 #date format: YYYY/MM 
 date = "2020/07"
 funding_required_tft = "1,500,000"
-funding_required_usd = "150,000"
+funding_required_usd = "225,000"
 description = "Development platform which allows students and teachers to connect globally. 300,000 Refugees will receive free education."
 
 [milestone]
 name = "Platform extension with focus on climate change"
 date = "2021/10"
-funding_required_tft = "1’500’000"
+funding_required_tft = "1,500,000"
 funding_required_usd = "225,000"
 description ="Extend Platform which connects students globally allowing them to explore, discuss, create and share solutions about climate change, and take actions. We will work with governments to bring substantial change in 10 countries."
     
