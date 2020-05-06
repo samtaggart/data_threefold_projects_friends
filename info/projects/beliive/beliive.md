@@ -4,15 +4,15 @@
 
 ## Impact
 
-We aim towards global impact providing platform where low-income and unemployed people can exchannge their time (hours) of volunteering for knowledge and skills. Beliive already have an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
+We aim towards global impact providing a platform where low-income and unemployed people can exchange their time (hours) of volunteering for knowledge and skills. Beliive already has an open API and a web widget that can integrate our time banking technology with different platforms and systems. Soon our time credits will use blockchain technology.
 
 ## Powered by ThreeFold
 
-Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to it's own potential. Beliive is going to connect users wallet and identity with ThreeFold Network. Using their time exchange balance and reputation, users can transfer time credits and use their reviews as an additional way to showcase their skills and experiences.
+Beliive and ThreeFold recognize the power of equality to include and connect people to their unlimited abundance. We are peer-to-peer systems that are here to support the awakening of humanity to its own potential. Beliive is going to connect users wallet and identity with ThreeFold Network. Using their time exchange balance and reputation, users can transfer time credits and use their reviews as an additional way to showcase their skills and experiences.
 
 ## Join saving our planet!
 
-The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. With Beliive you can offer for example one hour of Spanish Lessons receiveing a time credit of one hour in return, then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix something for you.
+The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. With Beliive you can offer for example one hour of Spanish Lessons receiving a time credit of one hour in return, then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix something for you.
 
 
 ### Roadmap
