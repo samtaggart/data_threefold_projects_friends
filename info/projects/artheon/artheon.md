@@ -21,15 +21,15 @@ Artheon VR Museum is growing into a crowdsourced global art database empowering 
 name = "v2.0 Social"
 #date format: YYYY/MM 
 date = "2020/09"
-funding_required_tft = "500'000"
-funding_required_usd = "75'000"
+funding_required_tft = "500,000"
+funding_required_usd = "75,000"
 description = "Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art."
 
 [milestone]
 name = "v3.0 AI"
 date = "2020/12"
-funding_required_tft = "1'000'000"
-funding_required_usd = "150'000"
+funding_required_tft = ""
+funding_required_usd = "100,000"
 description = "Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance."
 
 ```
