@@ -20,22 +20,22 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 name = "3bot Public Release v.1"
 #date format: YYYY/MM 
 date = "2020/05"
-funding_required_tft = "1,500,000"
-funding_required_usd = "100,000"
+funding_required_tft = "5,000,000"
+funding_required_usd = "750,000"
 description = "The 3bot public release will include 3bot Connect, p2p videoconferencing, p2p social network, decentralized file storage, browser and wallet. It will also include the 3bot SDK which will allow developers to begin building the ecosystem of 3bot experiences."
 
 [milestone]
 name = "3bot Promotion / Expansion Phase"
 date = "2020/10"
-funding_required_tft = "7,500,000"
-funding_required_usd = "500,000"
+funding_required_tft = "2,000,000"
+funding_required_usd = "300,000"
 description = "After Public Release v.1, 3bot will focus on bringing early adopters, developers and ecosystem partners into the 3bot ecosystem, with strong marketing campaigns and compelling media to rapidly grow the community and platform."
 
 [milestone]
 name = "3bot Rebranding / Public Release v.2"
 date = "2021/03"
-funding_required_tft = "7,500,000"
-funding_required_usd = "500,000"
+funding_required_tft = "5,000,000"
+funding_required_usd = "750,000"
 description = "Once the community of early adopters have been onboarded with 3bot and the 1st generation of experiences are available, the outreach will then focus on the larger public. At this point, we will rebrand '3bot' to make it more easily accessible and understandable by the everyday internet user."
     
 ```
