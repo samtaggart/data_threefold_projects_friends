@@ -22,8 +22,8 @@ The world has 3 trillion idle hours per year and Beliive is using TIME as the co
 name = "API integration"
 #date format: YYYY/MM 
 date = "2020/08"
-funding_required_tft = "500,000"
-funding_required_usd = "75,000"
+funding_required_tft = "333,333"
+funding_required_usd = "50,000"
 description = "API integration of users ID and balance of time credits"
     
 ```
