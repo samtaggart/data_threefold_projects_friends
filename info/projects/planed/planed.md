@@ -4,11 +4,11 @@ Every child deserves an education. We have built a community of thousands of tea
 
 ## Impact
 
-We want to raise the bar of eduation by having experts to teach the students and by initiating teacher trainings with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Aditionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more. We will work with universities of Harvard, Brussels and Nairobi to collect qualitative and quantitative data measuring impact.
+We want to raise the bar of eduation by having experts to teach the students and by initiating teacher trainings with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Aditionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more.
 
 ## Powered by ThreeFold
 
-Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology. 3Bot Meet solution will be used to allow teachers to teach refugees. We have already been doing this for five years with projectkakuma.com and thanks to the ThreeFold (e.g. 3Bot Meet) we will be able to allow people globally to connect and learn from peers including refugees and people living in harsh conditions. 
+Our peer-to-peer platform will be run on the ThreeFold Grid and will utilize elements of 3Bot technology. 3Bot Meet solution will be used to allow teachers to teach refugees. We have already been doing this for five years with projectkakuma.com and thanks to the ThreeFold we will be able to allow people globally to connect and learn from peers including refugees and people living in harsh conditions. 
 
 ## Join saving our planet!
 
