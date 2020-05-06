@@ -1,4 +1,4 @@
-# ThreeFold Grid
+# ThreeFold Foundation (The TF Grid)
 
 *ThreeFold Grid* is an infrastructure empowering a new and democratized digital economy based on our values of equality of access, data sovereignty and environmental sustainability. We aim to enable +1 billion people with access to the fundamental internet infrastructure and their full digital lives (education, banking and internet access) for less then 1$ per person per month by 2030.
 
@@ -8,7 +8,7 @@ ThreeFold's Grid will help to give data sovereignty back to people and countries
 
 ## Part of ThreeFold
 
-The ThreeFold Grid is one of the most essential layers in the ThreeFold Project as it provides a global mesh network to run and store our internet applications and services.
+The ThreeFold Grid is one of the most essential layers in the ThreeFold as it provides a global mesh network to run and store our internet applications and services.
 
 ## Join saving our planet!
 If not us, who? If not now, when?
@@ -19,16 +19,16 @@ If not us, who? If not now, when?
 name = "Grid Promotion Phase I"
 #date format: YYYY/MM 
 date = "2020/08"
-funding_required_tft = "1500000"
-funding_required_usd = "200000"
+funding_required_tft = "15,000,000"
+funding_required_usd = "2,250,000"
 description = "The aim is to grow the grid to 30-40 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 15 blockchain projects utilizing the grid as well as 15 cloud based intitatives by August 2020"
 
 [milestone]
 name = "Grid Promotion Phase II"
 #date format: YYYY/MM 
 date = "2020/12"
-funding_required_tft = "1500000"
-funding_required_usd = "200000"
+funding_required_tft = "15,000,000"
+funding_required_usd = "2,250,000"
 description = "The aim is to grow the grid to 60-80 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
 ```
 
