@@ -13,7 +13,7 @@ full_name = "Mariza Wellesley-Wesley"
 countries = ["Austria"]
 cities = ["Vienna"]
 companies = ["Green Edge"]
-bio = "Chief Counsel at the European Bank for Reconstruction and Development (EBRD) and active member of the International Bar Association (project finance, energy and emerging markets groups)."
+bio = "Former Chief Counsel of the European Bank for Reconstruction and Development; project finance specialist in energy and emerging markets."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
