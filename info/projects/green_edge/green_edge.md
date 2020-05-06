@@ -12,7 +12,7 @@ We fully support the ThreeFold foundation, and its goals. We hope that our certi
 
 ## Join saving our planet!
 
-Learn more about Green Edge Storage and Green Edge Compute, and sign up for early access <a href=“https://green-edge.net”>here.</a>
+Learn more about Green Edge Storage and Green Edge Compute, and sign up for early access <a href=“https://green-edge.net”>here</a>
 
 ### data
 
