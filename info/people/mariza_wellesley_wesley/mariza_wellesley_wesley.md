@@ -10,8 +10,8 @@ video = "https://player.vimeo.com/video/413196271"
 
 [info]
 full_name = "Mariza Wellesley-Wesley"
-countries = ["Austria"]
-cities = ["Vienna"]
+countries = ["Austria", "UK"]
+cities = ["Vienna", "London"]
 companies = ["Green Edge"]
 bio = "Former Chief Counsel of the European Bank for Reconstruction and Development; project finance specialist in energy and emerging markets."
 
