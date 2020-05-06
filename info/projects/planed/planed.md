@@ -4,7 +4,7 @@ Every child deserves an education. We have built a community of thousands of tea
 
 ## Impact
 
-We want to raise the bar of eduation by having experts to teach the students and by initiating teacher trainings with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Aditionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more.
+We want to raise the bar of education by having experts to teach the students and by initiating teacher training with help of technology. For years we have been working to bring positive and needed change to the education system and this is another step forward. A peer-to-peer education system opens up the possibilities for learning and positive solutions for our world. Additionally we will be able to set up global projects to tackle climate change and other issues allowing students to connect, brainstorm, create, share, solve problems and take action. We will measure impact in multiple ways – number of teachers and students brought on to the platform, number / impact of solutions brought for global projects, and more.
 
 ## Powered by ThreeFold
 
