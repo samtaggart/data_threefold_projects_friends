@@ -16,7 +16,7 @@ Gravity will onboard our portfolio of tech companies as early adopters, promote 
 
 ## Join saving our planet!
 
-Gravity Group is a collection of a dozen full-time mission-driven entrepreneurs and professionals. Founded in 2016 is a global advisory and investment firm that partners with, consults for, invests in, and syndicates capital for mission-aligned companies between Seed and Series B.  Next up is the first close of our fund Gravity Select Ventures to provide equity and debt investments to our growing portfolio.
+Next up is the first close of our fund Gravity Select Ventures to provide equity and debt investments to our growing portfolio.
 
 
 ### data
