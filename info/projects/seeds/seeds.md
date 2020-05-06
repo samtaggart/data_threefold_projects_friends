@@ -8,7 +8,7 @@ Holistic approaches are accomplished by evaluating the effectiveness through all
 
 ## Partnership with Threefold
 
-SEEDS and Threefold are a natural pair a decentralized cooperative internet to run a decentralized cooperative financial system. We intend to integrate our systems. Together we provide essential tools for shaping a civilization which is more resilient, rewarding, and regenerative.
+SEEDS and Threefold are a natural pair of decentralized cooperative internet to run a decentralized cooperative financial system. We intend to integrate our systems. Together we provide essential tools for shaping a civilization which is more resilient, rewarding, and regenerative.
 
 ## Join saving our planet!
 
