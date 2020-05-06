@@ -1,17 +1,17 @@
 # Solidaridad
 
-The current economic model is failing. It’s an economy of, by, and for the top 1 percent. Today, only a few billionaires own as much as half of the planet’s population. For billions of people the promise of globalization did not deliver. A new disruptive economic process that seeks to establish an economy of, by, and for the people is taking shape. It has the potential to become a movement. We call it a solidarity economy, a countermodel to the extractive economy that extracts wealth from the earth, workers and communities without fair payment or regard for the problems that ensue. In partnership with Threefold, Solidaridad seeks to develop concrete alternatives to five global oligopolies from whom we need to reclaim sustainability.
+The current economic model is failing. It’s an economy of, by, and for the top 1 %. Today, only a few billionaires own as much as half of the planet’s population. For billions of people the promise of globalization did not deliver. A new disruptive economic process that seeks to establish an economy of, by, and for the people is taking shape. It has the potential to become a movement. We call it a solidarity economy, a countermodel to the extractive economy that extracts wealth from the earth, workers and communities without fair payment or regard for the problems that ensue. In partnership with Threefold, Solidaridad seeks to develop concrete alternatives to five global oligopolies from whom we need to reclaim sustainability.
 
 ## Impact
 
 Whilst watching mirroring portraits of Rembrandt at the Thyssen Museum in Madrid, Weynand Kuijpers and I were discussing the emergence of a new, solidarity economy movement. It was Wednesday 26 February, the day that later turned out to be the start of the now called Great Lockdown due to the COVID-19 pandemic. A solidarity economy, we agreed, would follow eight core principles. 
 - Community: the common good comes first. 
-- Community creates the conditions that allow each us to flourish, the earth being the ultimate healthy human community. 
+- Community creates the conditions that allow each of us to flourish, the earth being the ultimate healthy human community. 
 - Inclusion: Creating opportunity for those long excluded
 - Place: We care about where we belong, where we live, where we have our land, family and jobs. We need to build community wealth that stays local. In contrast, the extractive economy moves wealth across the globe, away from where it matters. 
 - Good work: Putting labour before capital, so that work pays a living wage; 
 - Democratic ownership: In a solidarity economy, enterprises are human communities, where decision making involves moral agents.
-- Sustainability: Protecting the ecosystem as the foundation of life, so that it may remain productive and healthy forever. Health: we care about the individual health through access to healthy food, community health through protection of the health status of the community, and by creating herd community against new contagious diseases.  
+- Sustainability: Protecting the ecosystem as the foundation of life, so that it may remain productive and healthy forever. Health: we care about the individual health through access to healthy food, community health through protection of the health status of the community, and by creating a herd community against new contagious diseases.  
 - Ethical finance: Social and ecological benefit is the aim.
 
 How strange it might sound, we realized that a solidarity economy is totally possible.
@@ -24,7 +24,7 @@ What is the core Answer? In an agile partnership with selected individuals, stak
 
 ## Partnership with ThreeFold
 
-Value proposition: Threefold, Solidaridad and other partners intends to build and interlink a think tank, a product lab, and three landscapes of change. Aim is to engage leadership at the think tank, incubate their ideas into ready-to-use products developed in ‘The Lab’, and accelerate the emerging solidarity economy movement by testing these products in real live ‘landscapes of change’ around three rural-urban nexuses in megacities and their rural peripheries. South America, Africa and Asia. Ultimately this work must filter and demonstrate scalable and transformative approaches that can be forerunners to a new economic order.
+Value proposition: Threefold, Solidaridad and other partners intend to build and interlink a think tank, a product lab, and three landscapes of change. Aim is to engage leadership at the think tank, incubate their ideas into ready-to-use products developed in ‘The Lab’, and accelerate the emerging solidarity economy movement by testing these products in real live ‘landscapes of change’ around three rural-urban nexuses in megacities and their rural peripheries. South America, Africa and Asia. Ultimately this work must filter and demonstrate scalable and transformative approaches that can be forerunners to a new economic order.
 
 ## Join saving our planet!
 
