@@ -9,7 +9,7 @@ Not wasting resources used to create compute and storage capacity in the past wh
 
 ## Powered by ThreeFold
 
-HP Enterprise is a provider of ThreeFold Foundation farmers energy-efficient server platforms to farm TF Grid capacity.  HPE is also looking to use the TF Grid for its services that can live outside of the Enterprise customers data center and offices.
+HP Enterprise is a partner of ThreeFold Tech and provider of ThreeFold Foundation farmers energy-efficient server platforms to farm TF Grid capacity.  HPE is also looking to use the TF Grid for its services that can live outside of the Enterprise customers data center and offices.
 
 ## Join saving our planet!
 
