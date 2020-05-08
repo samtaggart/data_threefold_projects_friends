@@ -35,25 +35,8 @@ Three levels of intervention
 
 3. Landscapes of change: building democratic food-water-energy systems on the rural-urban nexus in - potentially - Place: Buenos Aires/São Paulo, Johannesburg and Kolkata. Megacities with large peri-urban supplies on food, energy, pharmacy, big data, currency. Form: not-for-profit, and public-private partnerships.
 
-```python
-[milestone]
-name = "Feasibility study"
-#date format: YYYY/MM 
-date = "2020/09"
-funding_required_tft = ""
-funding_required_usd = ""
-description =""
 
-[milestone]
-name = "Phase 1"
-date = "2020/12"
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Deployment for up to 10000 farmers in upper Egypt.  Funding has been identified and is being secured to support this phase 1 deployment. The intend is to have local TF Grid capacity in locations that farmers visit frequently for input (fertiliser, seeds, pesticides etc) and can interact through a local wifi connection with the 3nodes based services."
-    
-```
-
-### data
+### Data
 
 ```python
 [links]
