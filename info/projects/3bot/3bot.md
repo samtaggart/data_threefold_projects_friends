@@ -21,7 +21,7 @@ The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and 
 You can buy specially branded TFTs to directly support 3Bot, and the growth of a new conscious internet.
 
 
-
+### Roadmap
 
 ```python
 [milestone]
@@ -48,7 +48,7 @@ description = "Once the community of early adopters have been onboarded with 3bo
     
 ```
 
-### data
+### Data
 
 ```python
 [links]
