@@ -15,6 +15,15 @@ Beliive and ThreeFold recognize the power of equality to include and connect peo
 The world has 3 trillion idle hours per year and Beliive is using TIME as the common currency to promote reciprocal exchanges and financial inclusion. With Beliive you can offer for example one hour of Spanish Lessons receiving a time credit of one hour in return, then you can exchange this credit for any activity available in the community, like financial advice, dance lessons or someone to fix something for you.
 
 
+## Support this project
+
+Beliive is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet, humanity and the ThreeFold Grid.
+
+The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
+
+You can buy specially branded TFTs to directly support Beliive, and the growth of a new conscious internet.
+
+
 ### Roadmap
 
 ```python
