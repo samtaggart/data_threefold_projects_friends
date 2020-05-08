@@ -11,8 +11,17 @@ ThreeFold's Grid will help to give data sovereignty back to people and countries
 The ThreeFold Grid is one of the most essential layers in the ThreeFold as it provides a global mesh network to run and store our internet applications and services.
 
 ## Join saving our planet!
+
 If not us, who? If not now, when?
 
+## Support this project
+
+TF Grid Promotion is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet and humanity.
+The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
+You can buy specially branded TFTs to directly support the TF Grid Promotion, and the growth of a new conscious internet.
+
+
+### Roadmap
 
 ```python
 [milestone]
@@ -32,7 +41,7 @@ funding_required_usd = "2,250,000"
 description = "The aim is to grow the grid to 60-80 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
 ```
 
-### data
+### Data
 
 ```python
 [links]
