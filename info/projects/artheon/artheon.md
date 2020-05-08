@@ -16,7 +16,7 @@ Artheon VR Museum is growing into a crowdsourced global art database empowering 
 
 ## Support this project
 
-Artheon is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet, humanity and the ThreeFold Grid.
+Artheon is funded by ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
 You can buy specially branded TFTs to directly support Artheon, and the growth of a new conscious internet.
 
