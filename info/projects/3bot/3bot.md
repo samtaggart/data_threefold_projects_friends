@@ -16,10 +16,9 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 
 ## Support via Token Distribution Event (TDE)
 
-The ThreeFold Token (TFT) is the result of farming of Internet capacity therefore becoming the token of the new internet.
-TDE is there to benefit projects like 3Bot which have as purpose to provide value to the ThreeFold movement - Conscious Internet Alliance and to do good for our planet.
+The ThreeFold Token (TFT) is the result of farming of Internet capacity therefore becoming the token of the new internet. The TDE is there to benefit projects like 3Bot, which provide value to the ThreeFold Grid and do good for humanity and our planet.
 
-You can buy TFT's, branded for each project, directly supporting the project and the growth of the ThreeFold Grid and its experiences.
+You can buy TFTs, branded for each project, which directly support the project and therefore the growth of a conscious internet.
 
 
 ```python
