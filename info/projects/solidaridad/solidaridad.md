@@ -36,7 +36,7 @@ Three levels of intervention
 3. Landscapes of change: building democratic food-water-energy systems on the rural-urban nexus in - potentially - Place: Buenos Aires/São Paulo, Johannesburg and Kolkata. Megacities with large peri-urban supplies on food, energy, pharmacy, big data, currency. Form: not-for-profit, and public-private partnerships.
 
 
-### Data
+### data
 
 ```python
 [links]
