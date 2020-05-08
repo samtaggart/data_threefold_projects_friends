@@ -16,7 +16,8 @@ The DigiByte network runs on a mix of servers managed by DigiByte volunteers and
 
 The efficient operation of the 3nodes helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.
 
-### data
+
+### Data
 
 ```python
 
