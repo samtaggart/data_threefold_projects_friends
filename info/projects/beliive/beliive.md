@@ -35,7 +35,7 @@ description = "API integration of users ID and balance of time credits"
     
 ```
 
-### data
+### Data
 
 ```python
 
