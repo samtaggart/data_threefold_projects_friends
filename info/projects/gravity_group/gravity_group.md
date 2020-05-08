@@ -19,7 +19,7 @@ Gravity will onboard our portfolio of tech companies as early adopters, promote 
 Next up is the first close of our fund Gravity Select Ventures to provide equity and debt investments to our growing portfolio.
 
 
-### Data
+### data
 
 ```python
 
