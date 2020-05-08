@@ -16,7 +16,7 @@ If not us, who? If not now, when?
 
 ## Support this project
 
-ThreeFold Foundation is supporting TF Grid expansion and is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet and humanity.
+ThreeFold Foundation is supporting TF Grid expansion and is funded by ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet and humanity.
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
 You can buy specially branded TFTs to directly support the TF Foundation, and the growth of a new conscious internet.
 
