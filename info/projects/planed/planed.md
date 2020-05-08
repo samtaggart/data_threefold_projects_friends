@@ -43,7 +43,7 @@ description ="Extend Platform which connects students globally allowing them to 
     
 ```
 
-### Data
+### data
 
 ```python
 [links]
