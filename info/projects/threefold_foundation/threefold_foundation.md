@@ -41,7 +41,7 @@ funding_required_usd = "2,250,000"
 description = "The aim is to grow the grid to 60-80 countries and to promote ThreeFold developer audiences in the blockchain and cloud space with a minumum of 30 blockchain projects utilizing the grid as well as 30 cloud based intitatives by Dec 2020"
 ```
 
-### Data
+### data
 
 ```python
 [links]
