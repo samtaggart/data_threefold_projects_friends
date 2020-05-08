@@ -17,10 +17,10 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 ## Support this project
 
 3Bot is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet, humanity and the ThreeFold Grid.
-
 The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
-
 You can buy specially branded TFTs to directly support 3Bot, and the growth of a new conscious internet.
+
+
 
 
 ```python
