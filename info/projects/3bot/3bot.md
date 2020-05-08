@@ -14,11 +14,13 @@ Today's economies are successful when depleting our planet's resources. This is 
 
 While 3bot may seem like a technological solution, its roots and goals are strongly humanitarian. Every person who signs up for 3bot makes a significant impact. The P2P infrastructure is up to 10x more efficient and sustainable and ensures that data privacy and security is preserved. The internet cost is less than half a dollar a month per user, greatly increasing access to underserved communities. Additionally, the 3bot ecosystem is creating a number of P2P experiences and solutions such as videoconferencing, file storage and social networking that will impact both the effectiveness and security of online communication.
 
-## Support via Token Distribution Event (TDE)
+## Support this project
 
-The ThreeFold Token (TFT) is the result of farming of Internet capacity therefore becoming the token of the new internet. The TDE is there to benefit projects like 3Bot, which provide value to the ThreeFold Grid and do good for humanity and our planet.
+3Bot is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet, humanity and the ThreeFold Grid.
 
-You can buy TFTs, branded for each project, which directly support the project and therefore the growth of a conscious internet.
+The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
+
+You can buy specially branded TFTs to directly support 3Bot, and the growth of a new conscious internet.
 
 
 ```python
