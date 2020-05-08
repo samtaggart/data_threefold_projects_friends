@@ -14,7 +14,8 @@ We fully support the ThreeFold foundation, and its goals. We hope that our certi
 
 Learn more about Green Edge Storage and Green Edge Compute, and sign up for early access [here](https://green-edge.net)</a>
 
-### data
+
+### Data
 
 ```python
 
