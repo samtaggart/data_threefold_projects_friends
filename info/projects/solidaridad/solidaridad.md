@@ -26,6 +26,10 @@ What is the core Answer? In an agile partnership with selected individuals, stak
 
 Value proposition: Threefold, Solidaridad and other partners intend to build and interlink a think tank, a product lab, and three landscapes of change. Aim is to engage leadership at the think tank, incubate their ideas into ready-to-use products developed in ‘The Lab’, and accelerate the emerging solidarity economy movement by testing these products in real live ‘landscapes of change’ around three rural-urban nexuses in megacities and their rural peripheries. South America, Africa and Asia. Ultimately this work must filter and demonstrate scalable and transformative approaches that can be forerunners to a new economic order.
 
+## Mission
+
+Solidaridad cares for smallholder farmers globally and works hard to create sustainable supply chains from the producer to consumers worldwide for a large number of commodities.
+
 ## Join saving our planet!
 
 Three levels of intervention
@@ -46,7 +50,7 @@ wiki = ""
 video = "https://player.vimeo.com/video/412688641"
 
 [info]
-mission = "Solidaridad cares for smallholder farmers globally and works hard to create sustainable supply chains from the producer to consumers worldwide for a large number of commodities."
+mission = ""
 description = "Solidaridad works to create sustainable supply chains from  producers to consumers for commodities. Examples of commodities involved are cotton, livestock, tea, coffee, fruit and vegetables, cocoa, palmoil etc. Today commodity producers retain the least margin where the final retailer usually makes the most in the supply chain.  Solidaridad disagrees with this setup and actively promotes wealth creation at the start of supply chains.  This is where the farmers spend time, effort, care and love for the product they produces.  Solidaridad considers this fair sourcing."
 team = ["Jeroen Douglas", "Monique Vanni", "Weynand Kuijpers"]
 countries = ["Egypt", "Ghana", "Brasil", "The Netherlands"]
