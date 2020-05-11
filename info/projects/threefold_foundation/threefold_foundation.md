@@ -10,6 +10,10 @@ ThreeFold's Grid will help to give data sovereignty back to people and countries
 
 The ThreeFold Grid is one of the most essential layers in the ThreeFold as it provides a global mesh network to run and store our internet applications and services.
 
+## Mission
+
+Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed.
+
 ## Join saving our planet!
 
 If not us, who? If not now, when?
@@ -51,7 +55,7 @@ websites = ["https://threefold.io/capacity.html"]
 video = "https://player.vimeo.com/video/412749710"
 
 [info]
-mission = "Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed."
+mission = ""
 description = "Our project is about promoting the adoption and expansion of ThreeFold Grid in order to empower a new and democratized digital economy based on our values of equality, autonomy and sustainability.ThreeFold's Grid will help to give data sovereignty back to people and countries, as well as enable accessibility to internet access to billions of people in countries lacking in internet infrastructure, and finally it will help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes, less fiber network, a unique storage algorithm, and more. The ThreeFold Grid is one of the most essential elements of building a new internet as it provides a global network to run and store our internet applications and services.Today we are live with more than 40,000,000 GB of capacity and 15,000 CPU cores across 20+ countries. We have launched the ThreeFold Grid SDK meaning that anyone can begin to utilize the ThreeFold Grid. We are currently talking with more than 25 blockchain projects out of top 200 to invite them to explore possible use cases on the ThreeFold Grid. And we have a number of other partners ready to host or build on top of the ThreeFold Grid. The success of our efforts can be measured by the growth of the ThreeFold Grid in terms of number of hardware nodes, the amount of capacity utilized on the ThreeFold Grid and the number of projects using and promoting the ThreeFold Grid."
 
 team = ["Adnan Fatayerji", "Sam Taggart", "Sacha Obeegadoo", "Kristine Vilnite", "Roel van Sabben", "Weynand Kuijpers"] 
