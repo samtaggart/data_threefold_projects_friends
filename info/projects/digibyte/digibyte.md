@@ -1,4 +1,4 @@
-# DigiByte Foundation
+# DigiByte
 
 DigiByte Foundation’s vision is to empower the community to decentralize the world. That means we want to facilitate and support all of DigiByte’s community to be a pilot for the blockchain community at large. The core values the DigiByte Foundation - and anyone who supports it - subscribes to are: decentralization, inclusiveness, permissionless, integrity, transparency – openness, consensus, thought leadership.
 The goal of the DigiByte Foundation is to promote and support the DigiByte Blockchain and its users, to stimulate the development and worldwide adoption of the DigiByte blockchain and the principles of decentralization in general. Development of DGB technology is a core focus point. In our opinion this is essential to further establish and maintain a sustainable decentralized world. We arrive at this from an underlying and unwavering belief that decentralization is unstoppable.
