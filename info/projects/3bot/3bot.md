@@ -21,7 +21,7 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 ## Support this project
 
 3Bot is funded by ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
-The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. 
+The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs.
 You can buy specially branded TFTs (from May 10) to directly support 3Bot, and the growth of a new conscious internet.
 
 
@@ -30,7 +30,7 @@ You can buy specially branded TFTs (from May 10) to directly support 3Bot, and t
 ```python
 [milestone]
 name = "3bot Public Release v.1"
-#date format: YYYY/MM 
+#date format: YYYY/MM
 date = "2020/05"
 funding_required_tft = "5,000,000"
 funding_required_usd = "750,000"
@@ -49,7 +49,7 @@ date = "2021/03"
 funding_required_tft = "5,000,000"
 funding_required_usd = "750,000"
 description = "Once the community of early adopters have been onboarded with 3bot and the 1st generation of experiences are available, the outreach will then focus on the larger public. At this point, we will rebrand '3bot' to make it more easily accessible and understandable by the everyday internet user."
-    
+
 ```
 
 ### data
@@ -73,5 +73,6 @@ cities = ["Global"]
 categories = ["solutionprovider"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = ["tftgranted"]
+
 
 ```
