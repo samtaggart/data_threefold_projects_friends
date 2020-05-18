@@ -74,5 +74,4 @@ categories = ["solutionprovider"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = ["tftgranted"]
 
-
 ```
