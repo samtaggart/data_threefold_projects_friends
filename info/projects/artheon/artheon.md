@@ -58,6 +58,7 @@ wiki = ""
 video = "https://player.vimeo.com/video/412681114"
 
 [info]
+name = "Artheon"
 mission = "At Artheon we believe that free global access to fine art and culture is a prerequisite for the development of human kind and for that we are building VR Museum that is and always will be a free educational platform."
 description = "Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind. The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner."
 team = ["Vasily Gnuchev"]
