@@ -1,6 +1,6 @@
 # True Carbon
 
-*True Carbon is reversing the climate crisis by effectively enhancing natural processes of soil sequestration. Agriculture is capable of absorbing carbon into the soil where it fulfills a range of valuable ecosystem services, including CO absorption and storage, and increased fertility.
+*True Carbon* is reversing the climate crisis by effectively enhancing natural processes of soil sequestration. Agriculture is capable of absorbing carbon into the soil where it fulfills a range of valuable ecosystem services, including CO absorption and storage, and increased fertility.
 
 ## Impact
 
