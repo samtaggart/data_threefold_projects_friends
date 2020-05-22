@@ -19,27 +19,6 @@ Solving climate crisis by effectively enhancing the natural process of soil sequ
 Global issues can't be solved in one day. It is a process we start today that will make the difference tomorrow. Join us in reversing climate change!
 
 
-### Roadmap
-
-```python
-
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description = ""
-
-[milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description = ""
-
-```
-
 ### data
 
 ```python
