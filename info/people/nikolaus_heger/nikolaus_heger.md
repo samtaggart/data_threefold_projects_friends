@@ -7,7 +7,7 @@
 linkedin = "https://www.linkedin.com/in/nikolausheger/"
 
 websites = ["https://www.joinseeds.com, https://hypha.earth"]
-video = "https://vimeo.com/412277211"
+video = "https://player.vimeo.com/video/412277211"
 
 [info]
 full_name = "Nikolaus Heger"

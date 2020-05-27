@@ -6,7 +6,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/sastiadi"
 websites = ["https://sashaastiadi.com/"]
-video = "https://vimeo.com/412762810"
+video = "https://player.vimeo.com/video/412762810"
 
 [info]
 full_name = "Sasha Astiadi"

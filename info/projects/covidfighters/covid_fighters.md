@@ -1,47 +1,40 @@
-# Covid Fighters
+# Covidfighters
 
-## mission & vision
-*Covid Fighters* want to help the people of the world to get back to somehow normal life beside keeping the highest standards of safety regarding covid virus.
+Covidfighters are looking to build a technology consortium to test for covid19 in a mobile unit and test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.  
+Various types of workers and people (that need to be tested) can be tested easily and frequently and have their contamination state verified and stored in a way that other people can audit this.  The process is end to end and involves remote doctors to make the final call. Covidfighters is putting this consortium together to make the world a little bit more normal. 
 
-People are social individuals and need contact with others. On the other hand, pandemic situations like now with corona are super dangerous especially to the weakest and older people. We need to help in both ways - re-gaining social life and staying healthy.
+## Impact
 
-## Supported by threefold
-Threefold could be a great partner for the identification of individuals and secure transmission of data. It is one of very few serious alternatives that are not owned by states or governments.
+Health care and social workers can continue to do what they do and businesses, families and individuals can have social and business meetings and be sure of the non-risk coming with that.
 
-Both data security and storage capabilities provided by ThreeFold will be used. We will provide people with individual 3bots, so they would be identified before getting their attests.
+## Mission
 
-### Roadmap
+We want to help the people of the world to get back to somehow normal life beside keeping the highest standards of safety regarding covid virus.
 
-- Generic explanation: what is there today, what is coming up?
-Answer:We are running the POC these days. Actual requirements shall be defined and we’ll then roll out the covid testing containers to Austria and other countries.
+## Powered by ThreeFold
 
-- How does your project intend to measure impact?
-Answer:Our impact can be seen in how fast people can get back to normal lives, will be allowed to work, meet their beloved ones - and still not having new peaks of COVID-diseases.
+ThreeFold is playing a role to provide the infrastructure on which the required IT applications will run. ThreeFold also potentially will provide 3bot technology to store the test subjects data in a private and secure storage for what the test subject decides with whom to share his/her test stauts with.
 
+## Join saving our planet!
 
-```python
+Providing a safe environment for people to work and socialize and to make the world a better place.
 
-[milestone]
-name = "POC Setup"
-#date format: YYYY/MM 
-date = "2020/05"
-funding_required_tft = ""
-funding_required_usd = ""
-description = "Setting-up a first covid genetic testing container that leads to immediate results while keeping the highest level of accuracy."
-    
-```
 
 ### data
 
 ```python
+
 [links]
 linkedin = ""
-websites = []
+websites = ["https://www.artichoke-computing.com/"]
 wiki = ""
-video = "https://vimeo.com/412336565"
+video = "https://player.vimeo.com/video/412336565"
 
 [info]
-team = []
+name = "Covidfighters"
+mission = "We want to help the people of the world to get back to somehow normal life beside keeping the highest standards of safety regarding covid virus."
+description = "People are social individuals and need contact with others. On the other hand, pandemic situations like now with corona are super dangerous especially to the weakest and older people. We need to help in both ways - re-gaining social life and staying healthy.Threefold could be a great partner for the identification of individuals and secure transmission of data. It is one of very few serious alternatives that are not owned by states or governments.Both data security and storage capabilities provided by ThreeFold will be used. We will provide people with individual 3bots, so they would be identified before getting their attests."
+team = ["Boris Fahrnberger", "Martin Käfer"]
 countries = ["Austria"]
 cities = ["Vienna"]
 

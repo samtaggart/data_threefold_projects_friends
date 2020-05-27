@@ -1,70 +1,48 @@
 # DigiByte
 
-- What is the name of your project?
-Answer:
+DigiByte Foundation’s vision is to empower the community to decentralize the world. That means we want to facilitate and support all of DigiByte’s community to be a pilot for the blockchain community at large. The core values the DigiByte Foundation - and anyone who supports it - subscribes to are: decentralization, inclusiveness, permissionless, integrity, transparency – openness, consensus, thought leadership.
+The goal of the DigiByte Foundation is to promote and support the DigiByte Blockchain and its users, to stimulate the development and worldwide adoption of the DigiByte blockchain and the principles of decentralization in general. Development of DGB technology is a core focus point. In our opinion this is essential to further establish and maintain a sustainable decentralized world. We arrive at this from an underlying and unwavering belief that decentralization is unstoppable.
 
-- What is your project about? What is your mission & vision?
-Answer:
+## Impact
 
-- How will this benefit the earth and why do you think this is relevant? 
-Answer:
+Thousands of volunteers from all over the world have contributed to DigiByte in countless ways for years to make it what it is today. It is a truly grassroots movement to protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world. Planet first!
+Once the foundation has garnered some funds, the foundation will in conjunction with the DigiByte community, not only initiate and promote projects and community initiatives, but also promote the DigiByte ecosystem and further development by supporting the developers, business developers and marketers, with a focus on outreach, awareness, education, adoption.
 
-- What is the link between ThreeFold and your project? 
-Answer:
+## Mission
 
-- How will your project use the ThreeFold grid and / or 3Bot?
-Answer:
+DigiByte is more than a faster digital currency it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication.
 
+## Powered by ThreeFold
 
+The DigiByte network runs on a mix of servers managed by DigiByte volunteers and virtual machines or containers in commercial cloud provider environments.  This is decentralized to a degree but can be more decentralized if the DigiByte blockchain nodes can run on ThreeFold Grid nodes truly decentralized, energy-efficient and everywhere. 
 
-### Roadmap
+## Join saving our planet!
 
-- Generic explanation: what is there today, what is coming up?
-Answer:
+The efficient operation of the 3nodes helps the DigiByte software to use less underlying capacity for processing and that networking enhances time to reach consensus.
 
-- How does your project intend to measure impact?
-Answer:
-
-
-
-```python
-
-[milestone]
-name = ""
-#date format: YYYY/MM 
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-
-[milestone]
-name = ""
-date = ""
-funding_required_tft = ""
-funding_required_usd = ""
-description ="Please provide more details about this milestone.."
-    
-```
 
 ### data
 
 ```python
+
 [links]
-linkedin = ""
-websites = []
+linkedin = "https://www.linkedin.com/company/digibyte-payment-network/"
+websites = ["https://digibyte.io/"]
 wiki = ""
-video = ""
+video = "https://player.vimeo.com/video/413179934"
 
 [info]
-team = []
-countries = []
-cities = []
+name = "DigiByte"
+mission = "DigiByte is more than a faster digital currency it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication."
+description = "DigiByte is a rapidly growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward-thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence. Thousands of volunteers from all over the world have contributed to DigiByte in countless ways for years to make it what it is today. It is a truly grassroots movement to protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world. Planet first!"
+team = ["Hans Koning", "Rudy Bouwman", "Rutger Krijnen"]
+countries = ["Global"]
+cities = ["Global"]
 
 [ecosystem]
 # can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = []
-# can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
+categories = ["solutionprovider"]
+# can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
-```
 ```

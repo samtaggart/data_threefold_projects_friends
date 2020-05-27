@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/adnansf/"
 websites = ["threefold.io", "www.mazraa.io"]
-video = ""
+video = "https://player.vimeo.com/video/413151305"
 
 [info]
 full_name = "Adnan Fatayerji"
@@ -18,6 +18,6 @@ bio = "An international entrepreneur and part of a diverse team of innovators re
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["tffarmer", "wisdomcouncil"]
+memberships = ["tffarmer", "wisdomcouncil", "freeflowcitizen"]
 
 ```
