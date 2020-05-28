@@ -16,7 +16,7 @@ companies = ["Green Edge"]
 bio = "Former Chief Counsel of the European Bank for Reconstruction and Development; project finance specialist in energy and emerging markets."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["tfambassador", "tffarmer"]
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+memberships = ["ambassador", "farmer"]
 
 ```
