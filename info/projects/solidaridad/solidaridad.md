@@ -58,8 +58,8 @@ countries = ["Egypt", "Ghana", "Brasil", "The Netherlands"]
 cities = []
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["farmer", "solutionprovider"]
+# can be chosen from: experience, solution, farmer, infrastructure
+categories = ["solution", "farmer"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
