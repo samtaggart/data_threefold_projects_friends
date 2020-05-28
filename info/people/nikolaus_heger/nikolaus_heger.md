@@ -18,7 +18,7 @@ bio = "Ex Apple, Ex Silicon Valley, full stack developer, meditator, blockchain 
 
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
 memberships = ["freeflowcitizen"]
 
 ```
