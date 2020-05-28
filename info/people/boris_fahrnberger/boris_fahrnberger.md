@@ -17,7 +17,7 @@ companies = ["Artichoke Computing"]
 bio = ""
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["tffarmer", "tfambassador", "freeflowcitizen"]
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+memberships = ["farmer", "ambassador", "freeflowcitizen"]
 
 ```
