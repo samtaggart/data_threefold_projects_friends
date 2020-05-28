@@ -17,7 +17,7 @@ companies = ["True Carbon"]
 bio = "Sebastian has an extensive and varied background in robotics engineering, hardware and software development. Having worked in hardware R&D for many years he now combines deep technical knowledge with an entrepreneur's drive for impact."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
 memberships = ["freeflowcitizen"]
 
 ```
