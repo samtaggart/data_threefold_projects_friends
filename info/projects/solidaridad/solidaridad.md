@@ -59,7 +59,7 @@ cities = []
 
 [ecosystem]
 # can be chosen from: experience, solution, farmer, infrastructure
-categories = ["solution", "farmer"]
+categories = ["experience", "solution", "farmer"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
