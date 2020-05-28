@@ -38,8 +38,8 @@ countries = ["Germany"]
 cities = ["Berlin"]
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["experiencecreator"]
+# can be chosen from: experience, solution, farmer, infrastructure
+categories = ["experience", "solution"]
 # can be chosen from: tftgranted (receiving TFT Grant)
 badges = []
 
