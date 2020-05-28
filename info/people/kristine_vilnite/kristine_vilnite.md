@@ -17,7 +17,7 @@ companies = ["ThreeFold Foundation"]
 bio = "Compassionate innovator, founder, advisor, sustainable development advocate. Kristine adds value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm. Building a sustainable foundation for the future and just being a loving, kind, explorer is what Kristine calls a day well spent."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["freeflowcitizen"]
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+memberships = ["freeflowcitizen", "matchmaker", "ambassador"]
 
 ```
