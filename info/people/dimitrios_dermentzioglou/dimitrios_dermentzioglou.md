@@ -18,7 +18,7 @@ bio = "Dimitrios is the founder of The Music Medicine, a project committed to cu
 
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["freeflowcitizen", "tfambassador", "wisdomcouncil"]
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+memberships = ["freeflowcitizen", "ambassador", "wisdomcouncil"]
 
 ```
