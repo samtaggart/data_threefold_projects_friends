@@ -19,7 +19,7 @@ companies = [ "Jimber" ]
 bio = "As a student, Jonas was already programming for Cisco, Excentis and other IT firms. During his professional career, Jonas had various positions from developer over team leader to CTO of Artilium, leading a team of 40 developers and testers. Right now Jonas is technical lead and founder within Jimber."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
 memberships = ["freeflowcitizen"]
 
 ```
