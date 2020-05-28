@@ -64,8 +64,8 @@ countries = ["Global"]
 cities = ["Global"]
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["farmer", "solutionprovider", "systemintegrator"]
+# can be chosen from: experience, solution, farmer, infrastructure
+categories = ["solution", "farmer", "infrastructure"]
 # can be chosen from: tftgranted (receiving TFT Grant), planetfirstalliance (memeber of Planet First Alliance)
 badges = ["tftgranted"] 
 
