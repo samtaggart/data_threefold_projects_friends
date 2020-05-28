@@ -17,7 +17,7 @@ companies = ["Veda Retreats"]
 bio = ""
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
 memberships = ["wisdomcouncil", "freeflowcitizen"]
 
 ```
