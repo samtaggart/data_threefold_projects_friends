@@ -16,7 +16,7 @@ companies = ["GreenEdge", "Green-IT Services"]
 bio = "An accomplished software product developer and growth expert. Joe has launched award winning products in several industries, from media tech to tourism."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, tfambassador, tffarmer, wisdomcouncil
-memberships = ["tffarmer", "tfambassador"]
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+memberships = ["farmer", "ambassador"]
 
 ```
