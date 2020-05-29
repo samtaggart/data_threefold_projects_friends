@@ -37,14 +37,7 @@ name = "MoG Phase 2"
 date = "2020/08"
 funding_required_tft = "1,666,666"
 funding_required_usd = "250,000"
-description = "The goals of MoG Phase 2 are
-Meditation app: improve the calibration of the neurofeedback system and gamification of the app
-Banking app: implement the basic banking operations plus the sharing and donating features
-System integration: improve and automate the accounting of the Good credits scored by the meditation app with users' accounts on Cyclos
-Operational website: implement the registration and account management system on the website
-Build new partnerships and grow the commercial network: establishing a commercial partnership with <10 B-Corps for creating a credit reserve of 500 thousand USD for the issue of Goods
-Hardware acquisition: purchase of 80 Muse neuro-sensors and 80 basic smartphones
-Support the implementation of 20 Meditation Banks"
+description = "The goals of MoG Phase 2 are - Meditation app to improve the calibration of the neurofeedback system and gamification of the app. Banking app to implement the basic banking operations plus the sharing and donating features. System integration to improve and automate the accounting of the Good credits scored by the meditation app with users accounts on Cyclos. Operational website to implement the registration and account management system on the website. Build new partnerships and grow the commercial network, establishing a commercial partnership with 10 B-Corps for creating a credit reserve of 500 thousand USD for the issue of Goods. Hardware acquisition, purchase of 80 Muse neuro-sensors and 80 basic smartphones. Support the implementation of 20 Meditation Banks."
 
 ```
 
