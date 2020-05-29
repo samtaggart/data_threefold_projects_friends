@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/marcelobohrer/"
 websites = ["https://www.thefutureofgood.info", "https://www.marcelobohrer.com.br"]
-video = "https://player.vimeo.com/video/"
+video = "https://player.vimeo.com/video/424095605"
 
 [info]
 full_name = "Marcelo Bohrer"
