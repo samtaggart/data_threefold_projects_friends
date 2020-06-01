@@ -12,7 +12,7 @@ Threefold will provide the perfect framework to run the distributed ledger of Mo
 
 ## Mission
 
-Drive the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation.
+Driving the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation.
 
  ## Join saving our planet!
  
