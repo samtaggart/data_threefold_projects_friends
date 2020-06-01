@@ -28,8 +28,8 @@ Join the Future of Good, the movement for a conscious, fair, and sustainable wor
 name = "Raising awareness about MoG platform solution"
 #date format: YYYY/MM 
 date = "2020/07"
-funding_required_tft = "133,333"
-funding_required_usd = "20,000"
+funding_required_tft = "150,000"
+funding_required_usd = "22,500"
 description = "With this fund, we plan to produce a super inspiring video that presents how the platform works and how positive its impact will be when launched. This promotional video will serve to raise awareness, expand the community, and gather more partners."
 
 [milestone]
