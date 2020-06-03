@@ -14,7 +14,7 @@ full_name = "Kristine Vilnite"
 countries = ["Global"]
 cities = ["Global"]
 companies = ["ThreeFold Foundation"] 
-bio = "Compassionate innovator, founder, advisor, sustainable development advocate. Kristine adds value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm. Building a sustainable foundation for the future and just being a loving, kind, explorer is what Kristine calls a day well spent."
+bio = "A loving, kind, explorer fully dedicating her professional path to build a sustainable foundaton for the future. Kristine is a compassionate innovator, founder, advisor, sustainable development advocate, adding value by unlocking power of diversity, simplicity and genuinity towards complex challenges assuring that a positive net impact on the planet is a norm."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
