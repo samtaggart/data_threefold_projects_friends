@@ -14,7 +14,7 @@ full_name = "Marcelo Bohrer"
 countries = ["Germany", "Brazil"]
 cities = ["Munich"]
 companies = ["Money of Good"] 
-bio = "Marcelo Bohrer is a specialist in design thinking and a visionary. Marcelo is a creative thinker, focused on design and innovation, passionate about bringing transformative ideas to life, and use them to make the world a better place. With extensive experience in using design thinking to develop solutions to complex scenarios, he created several enterprises with a wide impact such as the Nadism Club and the CyberorganicStuff. Marcelo also has a long track of spiritual investigation, especially about Buddhism."
+bio = "Marcelo Bohrer is a creative thinker, focused on design and innovation, passionate about bringing transformative ideas to life, and use them to make the world a better place. With extensive experience in using design thinking to develop solutions to complex scenarios, he created several enterprises with a wide impact such as the Nadism Club and the CyberorganicStuff. Marcelo also has a long track of spiritual investigation, especially about Buddhism."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
