@@ -27,7 +27,7 @@ Learn more about Green Edge Storage and Green Edge Compute, and sign up for earl
 linkedin = "https://www.linkedin.com/company/green-edge-cloud/"
 websites = ["https://green-edge.net/"]
 wiki = ""
-video = "https://player.vimeo.com/video/413132618"
+video = "https://player.vimeo.com/video/413148180"
 
 [info]
 name = "Green Edge"
