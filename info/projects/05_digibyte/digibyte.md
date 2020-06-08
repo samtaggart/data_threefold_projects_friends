@@ -33,6 +33,7 @@ video = "https://player.vimeo.com/video/413179934"
 
 [info]
 name = "DigiByte"
+rank = {4}
 mission = "DigiByte is more than a faster digital currency it is an innovative blockchain that can be used for digital assets, smart contracts, decentralized applications and secure authentication."
 description = "DigiByte is a rapidly growing open-source blockchain created in late 2013 and released in early 2014. After 6 years of forward-thinking development, DigiByte has become one of the safest, fastest, longest and most decentralized UTXO blockchain in existence. Thousands of volunteers from all over the world have contributed to DigiByte in countless ways for years to make it what it is today. It is a truly grassroots movement to protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world. Planet first!"
 team = ["Hans Koning", "Rudy Bouwman", "Rutger Krijnen"]
