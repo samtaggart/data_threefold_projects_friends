@@ -34,7 +34,7 @@ description = "With this fund, we plan to produce a super inspiring video that p
 
 [milestone]
 name = "MoG Phase 2"
-rank = {5}
+rank = 5
 date = "2020/08"
 funding_required_tft = "1,666,666"
 funding_required_usd = "250,000"
