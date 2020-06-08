@@ -1,10 +1,10 @@
-# Green Edge
+# Green Edge Sustainable Development
 
-*Green Edge* is the first certified & largest ThreeFold farmer. To demonstrate the incredible potential of the ThreeFold grid, *Green Edge* is providing an Infrastructure-as-a-Service platform for businesses looking for greener, more cost effective solutions than AWS, Azure and Google Cloud.
+*Green Edge Sustainable Development* is planning to offer inexpensive, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
 
 ## Impact
 
-We are facing a tsunami of compute and storage capacity demand. The current internet giants are already struggling to meet this demand, and will continue to push their highly centralised technologies that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. Not only does this represent an excellent business opportunity for a truly decentralised compute & storage platform, but also an opportunity to have a positive impact on the planet and the future of the human race.
+It is a declared aim of the United Nations Agenda 2030 “to leave no one behind”. Green Edge Sustainable Development in collaboration with our telecom, educational and funding partners will work to connect the 3.6 billion people still off-line at an affordable monthly cost of $1 per person.
 
 ## Mission
 
@@ -12,11 +12,11 @@ Green Edge is helping ThreeFold to create a decentralised internet that is inher
 
 ## Partnership with ThreeFold
 
-We fully support the ThreeFold foundation, and its goals. We hope that our certified capacity will help ThreeFold achieve their mission of a green, decentralised internet that puts personal sovereignty and freedom first.
+Green Edge Sustainable Development is the Environmental and Sustainability Impact arm of Green Edge, the largest global, independent ‘farmer’ on the ThreeFold Grid. Green Edge values and objectives are aligned with those of the ThreeFold Foundation and the Alliance for a Conscious Internet. The energy efficient, self-driving, automated technology developed by ThreeFold running on Green Edge computers is the technology combination that makes our ambitious programme possible.
 
 ## Join saving our planet!
 
-Learn more about Green Edge Storage and Green Edge Compute, and sign up for early access [here](https://green-edge.net)</a>
+Green Edge Sustainable Development’s overriding priority is to put the Planet First in everything we do. We want to bring the benefits of technology to the people in every area and every walk of life. But we must achieve this in the most energy efficient and secure manner possible and in a way that protects each person’s sovereign identity and their data from abuse and theft.
 
 
 ### data
@@ -33,10 +33,10 @@ video = "https://player.vimeo.com/video/413148180"
 name = "Green Edge"
 rank = {4}
 mission = "Green Edge is helping ThreeFold to create a decentralised internet that is inherently faster, greener, more private, and more secure than today's internet."
-#description = "We are facing a tsunami of compute and storage capacity demand. The current internet giants are already struggling to meet this demand, and will continue to push their highly centralised technologies that compromise personal sovereignty and privacy, while burning through an unsustainable amount of energy and natural resources. This i snot good for the planet and inherently not good for all of us.  The necessity to deliver on this demand is clear and represents an excellent business opportunity for a truly decentralised compute & storage platform, but also the opportunity to have a positive impact on the planet and the future of the human race. Green Edge Cloud believes in helping create a world where technology promotes and protects personal liberty and sovereignty. A decentralised internet is inherently faster, greener, more private, and more secure. Green Edge Cloud is the first & largest ThreeFold farmer. We fully support the ThreeFold foundation, and its goals. We hope that our certified capacity will help ThreeFold achieve their mission of a green, decentralized internet that puts personal sovereignty and freedom first. We are launching an Infrastructure-as-a-Service platform for businesses looking for greener, more cost effective solutions than AWS, Azure and Google Cloud."
+#description = "Green Edge Sustainable Development is planning to offer inexpensive, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity."
 team = ["Joseph Foxton", "Mariza Kain"]
-countries = ["Global"]
-cities = ["Global"]
+countries = ["South Africa", "East Africa"]
+cities = ["Johannesburg", "Cape Town", "Nairobi", "Dar Es Salaam", "Kigali"]
 
 [ecosystem]
 # can be chosen from: experience, solution, farmer, infrastructure
