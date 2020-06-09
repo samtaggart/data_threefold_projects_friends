@@ -13,7 +13,7 @@ full_name = "Joe Foxton"
 countries = ["Netherlands"]
 cities = ["Amsterdam"]
 companies = ["GreenEdge", "Green-IT Services"] 
-bio = "I have always searched for ways to express my skills and experience for good. Therefore my entire career, I’ve been an activist. From winning an Emmy early in my career for my work to democratise TV & Film production, to many years working for a left-wing TV news network, to running a food business accelerator aimed at fixing the broken food system, to hosting music events for charity. In ThreeFold I’ve found the ultimate mission of my career; a chance to truly have an impact on the future of humankind. It feels like my entire career has led up to this point, and I’m thrilled to have finally arrived."
+bio = "Throughout my life, I have always searched for ways to express my skills and experience for good, from my Emmy-award winning work to democratise TV & Film production, to many years working for a left-wing TV news network, to running a food business accelerator aimed at fixing the broken food system, to hosting music events for charity. In ThreeFold I’ve found the ultimate mission of my career; a chance to truly have an impact on the future of humankind. It feels like my entire career has led up to this point, and I’m thrilled to have finally arrived."
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
