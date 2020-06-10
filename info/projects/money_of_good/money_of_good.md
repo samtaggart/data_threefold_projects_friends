@@ -14,11 +14,15 @@ Threefold will provide the perfect framework to run the distributed ledger of Mo
 
 Driving the transition to a new fair and sustainable economy while raising consciousness and well-being through meditation.
 
- ## Join saving our planet!
+## Join saving our planet!
  
 Join the Future of Good, the movement for a conscious, fair, and sustainable world for everyone.
 
+## Support this project
 
+Money of Good is funded by ThreeFold’s [Token Distribution Event (TDE)](https://wiki.threefold.io/#/tdeoverview)</a> for the impact it brings to our planet, humanity and the ThreeFold Grid.
+The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs.
+You can buy specially branded TFTs (from May 10) to directly support Money of Good, and the growth of a new conscious internet.
 
 ### Roadmap
 
@@ -64,6 +68,6 @@ cities = ["Munich"]
 # can be chosen from: experience, solution, farmer, infrastructure
 categories = ["experience"]
 # can be chosen from: tftgranted (receiving TFT Grant)
-badges = []
+badges = ["tftgranted"]
 
 ```
