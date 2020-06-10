@@ -32,7 +32,7 @@ video = "https://player.vimeo.com/video/413148180"
 [info]
 name = "Green Edge Sustainable Development"
 rank = 4
-mission = "Green Edge is helping ThreeFold to create a decentralised internet that is inherently faster, greener, more private, and more secure than today's internet."
+mission = "Green Edge together with ThreeFold is creating a decentralised internet that is inherently faster, greener, more private, and more secure than today's internet"
 #description = "Green Edge Sustainable Development is planning to offer inexpensive, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity."
 team = ["Joseph Foxton", "Mariza Kain"]
 countries = ["South Africa", "East Africa"]
