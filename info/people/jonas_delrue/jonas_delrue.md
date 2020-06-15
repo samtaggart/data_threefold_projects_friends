@@ -13,7 +13,7 @@ video = "https://player.vimeo.com/video/413268925"
 
 [info]
 full_name = "Jonas Delrue"
-circle = ""
+circle = [{"ThreeFold Foundation", "role": "member"}
 countries = [ "Belgium" ] 
 cities = [ "Bruges" ]
 companies = [ "Jimber" ] 
