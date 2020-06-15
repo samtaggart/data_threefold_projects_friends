@@ -10,6 +10,7 @@ video = "https://player.vimeo.com/video/413063048"
 
 [info]
 full_name = "Lorrana Scarpioni"
+circle = [{name: "beliive", role: "coordinator"}
 countries = ["United States", "Brazil"]
 cities = ["San Francisco"]
 companies = ["Beliive"] 
