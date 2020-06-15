@@ -11,6 +11,7 @@ video = "https://player.vimeo.com/video/413150039"
 
 [info]
 full_name = "Dimitrios Dermentzioglou"
+circle = ""
 countries = ["Turkey", "Brasil", "Greece", "The World"]
 cities = ["Istanbul"]
 companies = ["The Music Medicine", "ThreeFold"]
@@ -18,7 +19,7 @@ bio = "It is only on maps that borders exist between humans. We are one world, o
 
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil, employee, contributor, investor, coder, matchmaker, hacker, friend, threefoldteam, crystalteam
 memberships = ["freeflowcitizen", "ambassador", "wisdomcouncil"]
 
 ```
