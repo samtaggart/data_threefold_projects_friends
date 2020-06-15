@@ -45,6 +45,6 @@ countries = ["Global"]
 cities = ["Global"]
 
 [ecosystem]
-categories = ["tech", "tfgrid", "ecosystem"]
+categories = ["tech", "threefold", "promotion", "tfgrid", "tokens", "organization", "ecosystem"]
 
 ```
