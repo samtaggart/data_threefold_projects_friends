@@ -17,7 +17,7 @@ companies = ["Veda Retreats"]
 bio = "Isabelle's dream is to help people grow in awareness, and make the world a more peaceful place by doing so. She is the owner of Veda and hosts retreats on the beautiful river Nile."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil, employee, contributor, investor, coder, matchmaker, hacker, friend, threefoldteam, crystalteam
 memberships = ["wisdomcouncil", "freeflowcitizen"]
 
 ```
