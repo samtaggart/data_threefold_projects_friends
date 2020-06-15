@@ -17,7 +17,7 @@ companies = ["Zetako"]
 bio = "Danish, born entrepreneur with over 30 years of venture building experience, failures and success along the way. I have lived in Lisbon since 2018 with my wife who is an Artist."
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil, employee, contributor, investor, coder, matchmaker, hacker, friend, threefoldteam, crystalteam
 memberships = ["freeflowcitizen"]
 
 ```
