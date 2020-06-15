@@ -37,7 +37,7 @@ chat_page_url = ""
 video = "https://vimeo.com/419955674" # if there's a video
 
 [info]
-name = "ThreeFold Marketing"
+name = "ThreeFold Foundation"
 rank = 
 mission = ""
 team = [{"name": "Kristof" , "role" : "coordinator"}, {"Adnan": "" , "role" : "coordinator"}, {"Weynand", "coordinator"}] 
