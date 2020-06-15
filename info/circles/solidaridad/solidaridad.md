@@ -43,24 +43,24 @@ Three levels of intervention
 ### data
 
 ```python
+
 [links]
-linkedin = "https://www.linkedin.com/company/solidaridad/"
-websites = ["https://www.solidaridadnetwork.org/"]
-wiki = ""
-video = "https://player.vimeo.com/video/412688641"
+threefold_circles_url = ""   # link on circles.threefold
+threefold_forum_url = "" # link on forums
+freeflow_connect_room = "" # chat room on freeflow connect
+chat_page_url = "" 
+video = "https://player.vimeo.com/video/412688641" # if there's a video
 
 [info]
 name = "Solidaridad"
-mission = "Solidaridad cares for smallholder farmers globally and works hard to create sustainable supply chains from the producer to consumers worldwide for a large number of commodities."
-description = "Solidaridad works to create sustainable supply chains from  producers to consumers for commodities. Examples of commodities involved are cotton, livestock, tea, coffee, fruit and vegetables, cocoa, palmoil etc. Today commodity producers retain the least margin where the final retailer usually makes the most in the supply chain.  Solidaridad disagrees with this setup and actively promotes wealth creation at the start of supply chains.  This is where the farmers spend time, effort, care and love for the product they produces.  Solidaridad considers this fair sourcing."
-team = ["Jeroen Douglas", "Monique Vanni", "Weynand Kuijpers"]
-countries = ["Egypt", "Ghana", "Brasil", "The Netherlands"]
-cities = []
+rank = 
+mission = ""
+team = [{"name": "Jeroen" , "role" : "coordinator"}, {"Monique": "" , "role" : "coordinator"}, {"Weynand", "coordinator"}] 
+countries = ["Global"]
+cities = ["Global"]
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["farmer", "solutionprovider"]
-# can be chosen from: tftgranted (receiving TFT Grant)
-badges = []
+categories = ["tech", "tfgrid", "ecosystem"]
 
 ```
+
