@@ -22,3 +22,21 @@ While 3bot may seem like a technological solution, its roots and goals are stron
 
 3Bot is funded by ThreeFold’s Token Distribution Event (TDE) for the impact it brings to our planet, humanity and the ThreeFold Grid. The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and is created only when new capacity is added to the ThreeFold Grid. Each project on the TDE benefits from fund allocations in the form of branded TFTs. You can buy specially branded TFTs (from May 10) to directly support 3Bot, and the growth of a new conscious internet.
 
+[links]
+threefold_circles_url = "https://circles.threefold.me/project/sasha-3bot-20/timeline"   # link on circles.threefold
+threefold_forum_url = "" # link on forums
+freeflow_connect_room = "" # chat room on freeflow connect
+chat_page_url = "" 
+video = "" if there's a video
+
+[info]
+name = "3Bot"
+rank = 5
+mission = ""
+team = [{"name": "Brooks" , "role" : "coordinator"}, {"name": "Justin" , "role" : "member"}, {"Sasha", "member"}] # see above for list of circles roles
+countries = ["Global"]
+cities = ["Global"]
+
+[ecosystem]
+categories = ["tech", "crystaltwin", "ecosystem"]
+
