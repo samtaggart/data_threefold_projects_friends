@@ -30,7 +30,7 @@ You can buy specially branded TFTs to directly support the TF Foundation, and th
 ```python
 
 [links]
-threefold_circles_url = ""   # link on circles.threefold
+threefold_circles_url = "https://circles.threefold.me/project/sacha96-threefold-marketing/timeline"   # link on circles.threefold
 threefold_forum_url = "" # link on forums
 freeflow_connect_room = "" # chat room on freeflow connect
 chat_page_url = "" 
