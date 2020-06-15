@@ -25,50 +25,26 @@ The ThreeFold Token (TFT) represents a unit of capacity on the new Internet and 
 You can buy specially branded TFTs to directly support Artheon, and the growth of a new conscious internet.
 
 
-
-### Roadmap
-
-```python
-
-[milestone]
-name = "v2.0 Social"
-#date format: YYYY/MM 
-date = "2020/09"
-funding_required_tft = "500,000"
-funding_required_usd = "75,000"
-description = "Crowdsourcing tools - upload, display and manage art data; Collaborative - up to 16 users in one location; Social collections - build communities of art lovers; Similarity search - visual, theme, style, details; Recommendations - advanced, personalized; Learning games - history of art."
-
-[milestone]
-name = "v3.0 AI"
-date = "2020/12"
-funding_required_tft = ""
-funding_required_usd = "100,000"
-description = "Marketplace - earn for being active, create and sell your educational materials; Tours - unlimited participants; Events and Guides - lectures, masterclasses, guided tours and art performances; Visual Data Stories - dashboards, graphs, history and parallels between artists and cultures based on data; Proactive Recommendations - get something new and interesting every time; Learning Courses - art and performance."
-
-```
-
 ### data
 
 ```python
 
 [links]
-linkedin = ""
-websites = ["https://artheon.co/"]
-wiki = ""
-video = "https://player.vimeo.com/video/412681114"
+threefold_circles_url = ""   # link on circles.threefold
+threefold_forum_url = "" # link on forums
+freeflow_connect_room = "" # chat room on freeflow connect
+chat_page_url = "" 
+video = "" # if there's a video
 
 [info]
 name = "Artheon"
-mission = "At Artheon we believe that free global access to fine art and culture is a prerequisite for the development of human kind and for that we are building VR Museum that is and always will be a free educational platform."
-description = "Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind. The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner."
-team = ["Vasily Gnuchev"]
-countries = ["Russia"]
-cities = ["Moscow"]
+rank = 
+mission = ""
+team = [{"name": "Vasili" , "role" : "coordinator"}, {"name": "" , "role" : "member"}, {"", "member"}] # see above for list of circles roles
+countries = ["Global"]
+cities = ["Global"]
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["experiencecreator"]
-# can be chosen from: tftgranted (receiving TFT Grant)
-badges = ["tftgranted"]
+categories = ["tech", "tfgrid", "ecosystem"]
 
 ```
