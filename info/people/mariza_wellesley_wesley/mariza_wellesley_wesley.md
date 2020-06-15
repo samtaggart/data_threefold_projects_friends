@@ -10,13 +10,14 @@ video = "https://player.vimeo.com/video/413196271"
 
 [info]
 full_name = "Mariza Wellesley-Wesley"
+circle = ""
 countries = ["Austria", "UK"]
 cities = ["Vienna", "London"]
 companies = ["Green Edge"]
 bio = "For me, ThreeFold is both the end and the beginning of a long journey. From advocating human rights of political prisoners in East Berlin - to my mission at an international development bank of transforming society with small and big projects - to running an educational social enterprise/charity for disadvantaged children and their parents, I always strived to combine my professional work with a tangible, positive societal impact. And all the pieces of the puzzle fell harmoniously together when my journey finally led me to ThreeFold. A common, unique opportunity to transform our communities and our digital life for the better – with equality, freedom, privacy and sustainability as our core inspiration. The beginning of a new journey for each and every one of us…"
 
 [ecosystem]
-# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
+# can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil, employee, contributor, investor, coder, matchmaker, hacker, friend, threefoldteam, crystalteam
 memberships = ["ambassador", "farmer"]
 
 ```
