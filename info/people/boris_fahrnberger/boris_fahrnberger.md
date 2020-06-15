@@ -11,7 +11,7 @@ video = ""
 
 [info]
 full_name = "Boris Fahrnberger"
-circle = "covid figthers"
+circle = [{"covid fighters", "role": "coordinator"}
 countries = ["Austria"]
 cities = ["Vienna"]
 companies = ["Artichoke Computing"]
