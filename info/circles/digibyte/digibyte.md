@@ -30,13 +30,13 @@ threefold_circles_url = ""   # link on circles.threefold
 threefold_forum_url = "" # link on forums
 freeflow_connect_room = "" # chat room on freeflow connect
 chat_page_url = "" 
-video = "https://player.vimeo.com/video/413225889" # if there's a video
+video = "https://player.vimeo.com/video/413179934" # if there's a video
 
 [info]
-name = "3Bot"
-rank = 5
+name = "DigiByte"
+rank = 
 mission = ""
-team = [{"name": "Hans" , "role" : "coordinator"}, {"Rudy": "" , "role" : "coordinator"}, {"Rutger", "coordinator"}] # see above for list of circles roles
+team = [{"name": "Hans" , "role" : "coordinator"}, {"Rudy": "" , "role" : "coordinator"}, {"Rutger", "coordinator"}] 
 countries = ["Global"]
 cities = ["Global"]
 
