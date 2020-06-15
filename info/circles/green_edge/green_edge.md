@@ -31,7 +31,7 @@ chat_page_url = ""
 video = "https://player.vimeo.com/video/413132618" # if there's a video
 
 [info]
-name = "Gravity Group"
+name = "Green Edge"
 rank = 
 mission = ""
 team = [{"name": "Joseph" , "role" : "coordinator"}, {"name": "Mariza" , "role" : "coordinator"}] 
