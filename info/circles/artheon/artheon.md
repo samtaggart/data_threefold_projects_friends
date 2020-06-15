@@ -34,7 +34,7 @@ threefold_circles_url = ""   # link on circles.threefold
 threefold_forum_url = "" # link on forums
 freeflow_connect_room = "" # chat room on freeflow connect
 chat_page_url = "" 
-video = "" # if there's a video
+video = "https://player.vimeo.com/video/412681114" # if there's a video
 
 [info]
 name = "Artheon"
