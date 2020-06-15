@@ -12,6 +12,7 @@ video = "https://player.vimeo.com/video/412681304"
 
 [info]
 full_name = "Vasily Gnuchev"
+circles = [{"name": "artheon", "role": "coordinator"}
 countries = ["Russia"]
 cities = ["Moscow"]
 companies = ["Artheon"]
