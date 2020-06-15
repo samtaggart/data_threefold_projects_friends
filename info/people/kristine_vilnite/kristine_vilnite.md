@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/417088459"
 
 [info]
 full_name = "Kristine Vilnite"
-circle = [{"threefold foundation", "role": "member"}
+circle = [{"name": "threefold foundation", "role": "member"}
 countries = ["Global"]
 cities = ["Global"]
 companies = ["ThreeFold Foundation"] 
