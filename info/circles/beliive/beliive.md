@@ -38,10 +38,10 @@ chat_page_url = ""
 video = "https://player.vimeo.com/video/413225889" # if there's a video
 
 [info]
-name = "3Bot"
-rank = 5
+name = "Beliive"
+rank = 
 mission = ""
-team = [{"name": "Lorrana" , "role" : "coordinator"}, {"name": "" , "role" : "member"}, {"", "member"}] # see above for list of circles roles
+team = [{"name": "Lorrana" , "role" : "coordinator"}, {"name": "" , "role" : "member"}, {"", "member"}]
 countries = ["Global"]
 cities = ["Global"]
 
