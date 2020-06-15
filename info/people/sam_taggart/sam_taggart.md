@@ -10,6 +10,7 @@ video = "https://player.vimeo.com/video/412746824"
 
 [info]
 full_name = "Sam Taggart"
+circles = [{"name": "threefoldfoundation", "role": "member"}, {"name": "threefoldmarketing", "role": "member"}]
 countries = ["Nomad"]
 cities = ["Nomad"]
 companies = ["ThreeFold Foundation"]
@@ -17,5 +18,5 @@ bio = "New places, cultures, and experiences bring Sam joy – opportunities to 
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
-memberships = ["freeflowcitizen", "ambassador"]
+memberships = ["freeflowcitizen", "threefoldteam"]
 ```
