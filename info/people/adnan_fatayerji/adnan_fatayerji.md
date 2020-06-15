@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/413151305"
 
 [info]
 full_name = "Adnan Fatayerji"
-circle = ""
+circle = "ThreeFold Foundation"
 countries = ["UAE", "Spain"]
 cities = ["Dubai", "Ibiza"]
 companies = ["ThreeFold Foundation", "Mazraa"] 
