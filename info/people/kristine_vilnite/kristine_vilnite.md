@@ -18,6 +18,6 @@ bio = "A loving, kind, explorer fully dedicating her professional path to build 
 
 [ecosystem]
 # can be chosen from: freeflowcitizen, matchmaker, ambassador, farmer, wisdomcouncil
-memberships = ["freeflowcitizen", "matchmaker", "ambassador"]
+memberships = ["freeflowcitizen", "ambassador"]
 
 ```
