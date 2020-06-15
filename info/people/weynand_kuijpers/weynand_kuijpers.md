@@ -11,6 +11,7 @@ video = "https://player.vimeo.com/video/414000468"
 
 [info]
 full_name = "Weynand Kuijpers"
+circles = [{"name": "threefoldfoundation", "role": "coordinator"}]
 countries = ["UAE", "Spain"]
 cities = ["Dubai", "Madrid"]
 companies = ["ThreeFold Foundation", "Mazraa"]
