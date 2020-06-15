@@ -25,23 +25,22 @@ Providing a safe environment for people to work and socialize and to make the wo
 ```python
 
 [links]
-linkedin = ""
-websites = ["https://www.artichoke-computing.com/"]
-wiki = ""
-video = "https://player.vimeo.com/video/412336565"
+threefold_circles_url = ""   # link on circles.threefold
+threefold_forum_url = "" # link on forums
+freeflow_connect_room = "" # chat room on freeflow connect
+chat_page_url = "" 
+video = "https://player.vimeo.com/video/412336565" # if there's a video
 
 [info]
-name = "Covidfighters"
-mission = "We want to help the people of the world to get back to somehow normal life beside keeping the highest standards of safety regarding covid virus."
-description = "People are social individuals and need contact with others. On the other hand, pandemic situations like now with corona are super dangerous especially to the weakest and older people. We need to help in both ways - re-gaining social life and staying healthy.Threefold could be a great partner for the identification of individuals and secure transmission of data. It is one of very few serious alternatives that are not owned by states or governments.Both data security and storage capabilities provided by ThreeFold will be used. We will provide people with individual 3bots, so they would be identified before getting their attests."
-team = ["Boris Fahrnberger", "Martin Käfer"]
-countries = ["Austria"]
-cities = ["Vienna"]
+name = "3Bot"
+rank = 5
+mission = ""
+team = [{"name": "Boris" , "role" : "coordinator"}, {"name": "" , "role" : "member"}, {"", "member"}] # see above for list of circles roles
+countries = ["Global"]
+cities = ["Global"]
 
 [ecosystem]
-# can be chosen from: experiencecreator, experiencepartner, solutionprovider, farmer, systemintegrator
-categories = ["experiencecreator"]
-# can be chosen from: tftgranted (receiving TFT Grant)
-badges = []
+categories = ["tech", "tfgrid", "ecosystem"]
 
 ```
+
