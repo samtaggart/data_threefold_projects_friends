@@ -31,7 +31,7 @@ threefold_circles_url = "https://circles.threefold.me/project/sasha-3bot-20/time
 threefold_forum_url = "" # link on forums
 freeflow_connect_room = "" # chat room on freeflow connect
 chat_page_url = "" 
-video = "" if there's a video
+video = "" # if there's a video
 
 [info]
 name = "3Bot"
