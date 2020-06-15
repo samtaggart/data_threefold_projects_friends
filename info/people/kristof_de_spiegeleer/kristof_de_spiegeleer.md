@@ -11,7 +11,7 @@ video = ""
 
 [info]
 full_name = "Kristof De Spiegeleer"
-circles = [{"name: "threefold foundation": "a", "role": "coordinator"}, {"name": 3bot": "b", "role": "coordinator"}
+circles = [{"name: "threefold foundation", "role": "coordinator"}, {"name": 3bot", "role": "coordinator"}
 countries = ["Belgium", "Spain", "Egypt"]
 cities = ["Ghent", "Ibiza", "El Ghouna"]
 companies = ["ThreeFold", "Incubaid"] 
