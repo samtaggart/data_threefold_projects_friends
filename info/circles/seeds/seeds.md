@@ -32,9 +32,9 @@ video = "https://player.vimeo.com/video/412275062" # if there's a video
 
 [info]
 name = "Seeds"
-rank = 
+rank = 1
 mission = ""
-team = [{"name": "Rieki" , "role" : "coordinator"}, {"Nikolaus": "" , "role" : "coordinator"}, {"Franz", "coordinator"}] 
+team = [["Rieki" , "coordinator"], ["Nikolaus", "coordinator"], ["Franz", "coordinator"]] 
 countries = ["Global"]
 cities = ["Global"]
 

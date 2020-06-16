@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/413150039"
 
 [info]
 full_name = "Dimitrios Dermentzioglou"
-circle = ""
+circles = []
 countries = ["Turkey", "Brasil", "Greece", "The World"]
 cities = ["Istanbul"]
 companies = ["The Music Medicine", "ThreeFold"]

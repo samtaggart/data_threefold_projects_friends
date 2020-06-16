@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/413196271"
 
 [info]
 full_name = "Mariza Wellesley-Wesley"
-circle = [{"name": "greenedge", "role": "coordinator"}
+circles = [["greenedge",  "coordinator"]]
 countries = ["Austria", "UK"]
 cities = ["Vienna", "London"]
 companies = ["Green Edge"]

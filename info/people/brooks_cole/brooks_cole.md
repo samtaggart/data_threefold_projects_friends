@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/412765948"
 
 [info]
 full_name = "Brooks Cole"
-circles = [{"name": "3Bot", "role": "coordinator"}
+circles = [["3Bot",  "coordinator"]]
 countries = ["Spain", "USA"]
 cities = ["Barcelona", "California"]
 companies = ["HoloCosmos", "3Bot"] 

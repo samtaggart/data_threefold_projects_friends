@@ -28,12 +28,16 @@ linkedin = "https://www.linkedin.com/company/truecarbon"
 websites = ["https://truecarbon.org/"]
 wiki = ""
 video = ""
+threefold_circles_url = ""   # link on circles.threefold
+threefold_forum_url = "" # link on forums
+freeflow_connect_room = "" # chat room on freeflow connect
+chat_page_url = "" 
 
 [info]
 name = "True Carbon"
 mission = "Solving climate crisis by effectively enhancing the natural process of soil sequestration"
 description = "True Carbon is reversing the climate crisis by effectively enhancing natural processes of soil sequestration. Agriculture is capable of absorbing carbon into the soil where it fulfills a range of valuable ecosystem services, including CO absorption and storage, and increased fertility."
-team = ["Sebastian Graf"]
+team = []
 countries = ["Germany"]
 cities = ["Berlin"]
 

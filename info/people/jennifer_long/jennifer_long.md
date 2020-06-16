@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/416720160"
 
 [info]
 full_name = "Jennifer Long"
-circle = ""
+circles = []
 countries = ["Costa Rica"]
 cities = ["Buenos Aires"]
 companies = ["BiolleyFarms"]

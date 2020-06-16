@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/412277211"
 
 [info]
 full_name = "Nikolaus Heger"
-circle = [{"name": "seeds", "role": "coordinator"}]
+circles = [["seeds",  "coordinator"]]
 countries = ["Thailand", "Indonesia", "Austria"]
 cities = ["Bali", "Ubud", "Vienna"]
 companies = ["Seeds", "Hypha"]

@@ -11,7 +11,7 @@ video = ""
 
 [info]
 full_name = "Isabelle Peters"
-circle = ""
+circles = []
 countries = ["Spain", "Egypt", "Belgium"]
 cities = ["Ibiza", "El Ghouna", "Ghent"]
 companies = ["Veda Retreats"]

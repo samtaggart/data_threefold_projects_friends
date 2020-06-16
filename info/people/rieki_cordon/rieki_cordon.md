@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/412276999"
 
 [info]
 full_name = "Rieki Cordon"
-circles = [{"name": "seeds", "role": "coordinator"}]
+circles = [["seeds",  "coordinator"]]
 countries = ["Indonesia", "Bali"]
 cities = ["Canggu"]
 companies = ["Seeds", "Hypha"]

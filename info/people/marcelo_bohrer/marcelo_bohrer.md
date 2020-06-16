@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/424095605"
 
 [info]
 full_name = "Marcelo Bohrer"
-circle = ""
+circles = []
 countries = ["Germany", "Brazil"]
 cities = ["Munich"]
 companies = ["Money of Good"] 

@@ -53,9 +53,9 @@ video = "https://player.vimeo.com/video/412688641" # if there's a video
 
 [info]
 name = "Solidaridad"
-rank = 
+rank = 1
 mission = ""
-team = [{"name": "Jeroen" , "role" : "coordinator"}, {"Monique": "" , "role" : "coordinator"}, {"Weynand", "coordinator"}] 
+team = [["Jeroen" , "coordinator"], ["Monique", "coordinator"], ["Weynand", "coordinator"]] 
 countries = ["Global"]
 cities = ["Global"]
 

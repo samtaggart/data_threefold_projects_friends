@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/413148180"
 
 [info]
 full_name = "Michael Wellesley-Wesley"
-circle = [{"name": "greenedge", "role": "coordinator"}
+circles = [["greenedge",  "coordinator"]]
 countries = ["England", "Austria", "US"]
 cities = ["London", "Vienna", "New York"]
 companies = ["Green Edge", "Inogesis", "Helmsdale"] 

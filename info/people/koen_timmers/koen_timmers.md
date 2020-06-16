@@ -14,7 +14,7 @@ video = "https://player.vimeo.com/video/412753340"
 
 [info]
 full_name = "Koen Timmers"
-circles = [{"name": "planed", "role": "coordinator"}
+circles = [["planed",  "coordinator"]]
 countries = ["Belgium", "USA"]
 cities =  ["Hasselt", "Florida"]
 companies = ["PlanED", "TAG"]

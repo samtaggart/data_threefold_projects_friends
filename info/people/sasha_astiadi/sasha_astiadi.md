@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/412762810"
 
 [info]
 full_name = "Sasha Astiadi"
-circles = [{"name": "3Bot", "role": "member"}]
+circles = [["3Bot",  "member"]]
 countries = ["Indonesia", "Germany"]
 cities = ["Bali", "Berlin"]
 companies = ["Frequency Village", "ThreeFold", "3Bot"] 

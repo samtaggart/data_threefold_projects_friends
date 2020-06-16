@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/413265125"
 
 [info]
 full_name = "Sacha Obeegadoo"
-circles = [{"name": "threefoldfoundation", "role": "member"}, {"name": "threefoldmarketing", "role": "member"}]
+circles = [["threefoldfoundation",  "member"], ["threefoldmarketing",  "member"]]
 countries = ["Nomad"]
 cities = ["Nomad"]
 companies = ["ThreeFold Foundation"]

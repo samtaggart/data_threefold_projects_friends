@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/413045457"
 
 [info]
 full_name = "Justin Snyder"
-circle = [{"name": "3Bot", "role": "member"}
+circles = [["3Bot",  "member"]]
 countries = ["USA", "Spain"]
 cities = ["Austin", "Ibiza"]
 companies = ["Frequency Village", "3Bot"] 

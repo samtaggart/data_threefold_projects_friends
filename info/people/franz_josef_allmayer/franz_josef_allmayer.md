@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/412278024"
 
 [info]
 full_name = "Franz Josef Allmayer"
-circle = ""
+circles = []
 countries = ["Guatemala", "Austria", "Liechtenstein"]
 cities = ["Quetzaltenango", "Vienna", "Vaduz"]
 companies = ["Seeds", "Hypha", "Integrity", "Earth"]

@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/413145439"
 
 [info]
 full_name = "Owen Kemp"
-circle = [{"name": "threefoldfoundation", "role": "coordinator"}, {"name": "matchmakers", "role": "stakeholder"}]
+circles = [["threefoldfoundation",  "coordinator"], ["matchmakers",  "stakeholder"]]
 countries = ["Austria"]
 cities = ["Vienna"]
 companies = ["ThreeFold"]

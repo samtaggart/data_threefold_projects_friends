@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/414707207"
 
 [info]
 full_name = "Sophie Monpeyssen"
-circles = [{"name": "wisdomcouncil", "role": "member"}
+circles = [["wisdomcouncil",  "member"]]
 countries = ["UK"]
 cities = ["London"]
 companies = []

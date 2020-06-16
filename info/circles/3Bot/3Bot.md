@@ -37,7 +37,7 @@ video = "" # if there's a video
 name = "3Bot"
 rank = 5
 mission = ""
-team = [{"name": "Brooks" , "role" : "coordinator"}, {"name": "Justin" , "role" : "member"}, {"Sasha", "member"}] # see above for list of circles roles
+team = [["Brooks" , "coordinator"], ["Justin" , "member"], ["Sasha", "member"]] # see above for list of circles roles
 countries = ["Global"]
 cities = ["Global"]
 

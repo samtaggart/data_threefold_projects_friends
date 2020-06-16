@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/427718526"
 
 [info]
 full_name = "Claus Rosenberg Gotthard"
-circle = ""
+circles = []
 countries = ["Denmark", "Portugal"]
 cities = ["Copenhagen", "Lisbon"]
 companies = ["Zetako"] 

@@ -11,7 +11,7 @@ video = "https://player.vimeo.com/video/413143125"
 
 [info]
 full_name = "Rishi Chidananda"
-circles = [{"name": "wisdomecouncil", "role": "member"}
+circles = [["wisdomecouncil",  "member"]]
 countries = []
 cities = []
 companies = ["Just Love Collective"]

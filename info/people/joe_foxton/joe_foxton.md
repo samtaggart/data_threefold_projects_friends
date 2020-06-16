@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/413130340"
 
 [info]
 full_name = "Joe Foxton"
-circle = [{"name": "greenedge", "role": "coordinator"}
+circles = [["greenedge",  "coordinator"]]
 countries = ["Netherlands"]
 cities = ["Amsterdam"]
 companies = ["GreenEdge", "Green-IT Services"] 

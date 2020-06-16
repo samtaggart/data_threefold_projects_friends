@@ -38,9 +38,9 @@ video = "https://vimeo.com/419955674" # if there's a video
 
 [info]
 name = "ThreeFold Foundation"
-rank = 
+rank = 1
 mission = ""
-team = [{"name": "Kristof" , "role" : "coordinator"}, {"Adnan": "" , "role" : "coordinator"}, {"Weynand", "coordinator"}] 
+team = [["Kristof" , "coordinator"], ["Adnan", "coordinator"], ["Weynand", "coordinator"]] 
 countries = ["Global"]
 cities = ["Global"]
 

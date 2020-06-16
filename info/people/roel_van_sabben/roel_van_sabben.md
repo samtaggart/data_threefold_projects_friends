@@ -10,7 +10,7 @@ video = "https://player.vimeo.com/video/414512583"
 
 [info]
 full_name = "Roel van Sabben"
-circles = [{"name": "threefoldfoundation", "role": "member"}, {"name": "threefoldmarketing", "role": "member"}]
+circles = [["threefoldfoundation",  "member"], ["threefoldmarketing",  "member"]]
 countries = ["The Netherlands"]
 cities = ["Aardenburg"]
 companies = ["ThreeFold Foundation"]
