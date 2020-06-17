@@ -6,7 +6,7 @@
 ```python
 [links]
 linkedin = "https://www.linkedin.com/in/adnansf/"
-websites = ["https://threefold.io/", "https://www.mazraa.io/"]
+websites = ["https://generation.blue/", "https://protect.blue/"]
 video = "https://player.vimeo.com/video/"
 
 [info]
