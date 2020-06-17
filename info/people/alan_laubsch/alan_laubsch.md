@@ -7,7 +7,7 @@
 [links]
 linkedin = "https://www.linkedin.com/in/adnansf/"
 websites = ["https://threefold.io/", "https://www.mazraa.io/"]
-video = "https://player.vimeo.com/video/413151305"
+video = "https://player.vimeo.com/video/"
 
 [info]
 full_name = "Alan Laubsch"
