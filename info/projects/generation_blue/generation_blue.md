@@ -27,7 +27,7 @@ Join the 10X Climate Positive challenge. Let’s take responsibility of our carb
 linkedin = "https://www.linkedin.com/company/genblue/"
 websites = ["https://generation.blue/"]
 wiki = ""
-video = "https://player.vimeo.com/video/"
+video = "https://player.vimeo.com/video/430716502"
 
 [info]
 name = "Generation Blue"
