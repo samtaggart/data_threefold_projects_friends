@@ -37,7 +37,7 @@ video = "" # if there's a video
 name = "3Bot"
 rank = 5
 mission = ""
-team = [["Brooks" , "coordinator"], ["Justin" , "member"], ["Sasha", "member"]] # see above for list of circles roles
+team = [["Brooks Cole" , "coordinator"], ["Justin Snyder" , "member"], ["Sasha Astiadi", "member"]] # see above for list of circles roles
 countries = ["Global"]
 cities = ["Global"]
 
