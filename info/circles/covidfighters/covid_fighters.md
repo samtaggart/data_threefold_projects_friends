@@ -35,7 +35,7 @@ video = "https://player.vimeo.com/video/412336565" # if there's a video
 name = "Covid Fighters"
 rank = 1
 mission = ""
-team = [["Boris" , "coordinator"]]
+team = [["Boris Fahrnberger" , "coordinator"]]
 countries = ["Global"]
 cities = ["Global"]
 
