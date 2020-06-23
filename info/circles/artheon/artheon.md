@@ -40,7 +40,7 @@ video = "https://player.vimeo.com/video/412681114" # if there's a video
 name = "Artheon"
 rank = 1
 mission = ""
-team = [["Vasili" , "coordinator"]] # see above for list of circles roles
+team = [["Vasili Gnuchev" , "coordinator"]] # see above for list of circles roles
 countries = ["Global"]
 cities = ["Global"]
 
