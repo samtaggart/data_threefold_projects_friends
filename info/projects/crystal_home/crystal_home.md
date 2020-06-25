@@ -32,7 +32,7 @@ Today’s challenges require bold and imaginative leaps into the future. They de
 linkedin = ""
 websites = ["https://www.crystalhome.org/"]
 wiki = ""
-video = "https://player.vimeo.com/video/"
+video = "https://player.vimeo.com/video/432586040"
 
 [info]
 name = "Crystal Home"
