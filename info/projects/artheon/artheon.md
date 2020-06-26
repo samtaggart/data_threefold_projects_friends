@@ -1,5 +1,7 @@
 # Artheon
 
+## About
+
 The *Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we compiled about half a million pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. We believe that free global access to fine art and culture is a prerequisite for the exponential development of our civilization. 
 
 ## Impact
