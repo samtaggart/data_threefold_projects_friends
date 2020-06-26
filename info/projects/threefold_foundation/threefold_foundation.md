@@ -1,10 +1,15 @@
 # ThreeFold Foundation (The TF Grid)
 
+## About
 Today's internet is fundamentally broken. Less than 60% of the world has access, it is being fragmented into pieces, its users (and their data) are exploited by big corporations, and it consumes up to 10% of the world's energy. It is powered by large, centralized data centers which benefit specific geographic regions and leave the rest behind.
 
 The *ThreeFold Grid* is the answer. "Nodes" distributed around the world and owned by independent [ThreeFold Farmers](https://wiki.threefold.io/#/what_is_a_farmer) create the physical infrastructure that empowers a new, democratized, peer-to-peer internet based on our values of equality (access), autonomy (digital sovereignty), and sustainability (for our planet).
 
 The ThreeFold Foundation is a non-profit based out of Belgium which, along with its partners, advocates for the adoption, growth, and expansion of the ThreeFold Grid and a new peer-to-peer internet.
+
+## Mission
+
+Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed.
 
 ## Impact
 
@@ -14,13 +19,9 @@ ThreeFold's Grid will:
 2. Give access to information, knowledge, communication and financial tools and more, to billions of people in countries lacking in internet infrastructure
 3. Help dramatically reduce the footprint of our current internet by using smaller and more efficient mini data nodes.
 
-## Part of ThreeFold
+## Powered by ThreeFold
 
 The ThreeFold Grid provides a global mesh network to run and store our internet applications and services. It is the fundamental backbone of a new internet that empowers our planet and humanity.
-
-## Mission
-
-Growing a green and responsible peer-to-peer Internet that is available everywhere and owned by everyone – across geographical and cultural borders, empowering people to be digitally independent and providing equal chances to learn, partake and succeed.
 
 ## Join saving our planet!
 
