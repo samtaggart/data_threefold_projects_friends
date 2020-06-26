@@ -1,22 +1,22 @@
 # Artheon
 
-*The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe.
-
-## Impact
-
-Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind.
-
-## Powered by threefold
-
-The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner.
+*The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we compiled 400,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. 
 
 ## Mission
 
-At Artheon we believe that free global access to fine art and culture is a prerequisite for the development of human kind and for that we are building VR Museum that is and always will be a free educational platform.
+Our mission at Artheon is to enable free global access to history, art and culture to accelate human development in regards to general knowledge and creativity.
+
+## Impact
+
+Art is a universal language that is proven to be a core component for a creative society. By providing free global access to fine art and cultural heritage, we believe we can provide a platform for exponential human growth. Also, on our next iteration, we will support contemporary artists by providing them with instant global reach with the set up of their own art gallery/museum.
+
+## Powered by Threeold
+
+Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold Grid. Being hosted on the ThreeFold Grid was an evident choice for Artheon so as to share our history, art and culture on an equal and sustainable Internet.
 
  ## Join saving our planet!
  
-Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history.
+Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world. Join us in making this a reality!
 
 ## Support this project
 
@@ -60,7 +60,7 @@ video = "https://player.vimeo.com/video/412681114"
 [info]
 name = "Artheon"
 rank = 4
-mission = "Virtual Reality Museum providing Free global access to fine art and culture from all over the world"
+mission = "Virtual Reality Museum enabling Free global access to fine art and culture from all over the world"
 description = "Art is one of the most important tools to inspire faith and cultural growth giving a new perspective of looking at reality. We believe that free global access to fine art and culture is a prerequisite for the development of human kind. The Artheon is supported by the ThreeFold Foundation and is hosted on ThreeFold Grid. Hosting on ThreeFold Grid allows us to share free global access to history, art and culture across geographical and cultural borders in true decentralized manner."
 team = ["Vasily Gnuchev"]
 countries = ["Russia"]
