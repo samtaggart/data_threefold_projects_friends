@@ -4,17 +4,18 @@
 
 The *Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we compiled about half a million pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. We believe that free global access to fine art and culture is a prerequisite for the exponential development of our civilization. 
 
+## Mission
+
+Our mission at Artheon is to enable free global access to history, art and culture to accelerate human development and improve our ability to tap into collective intelligence.
+
 ## Impact
 
 Art can act as a catalyst to tap into our inner potential as well as our collective intelligence. When going through the history of humanity, it is clear that Art played a major role in shaping the most advanced civilizations of humankind, across eras. Art is a proven tool to inspire faith and elevate cultural growth, while bringing new perspectives about our reality. Today, studies show that there is a positive correlation between schoolchildren's grades in math and literacy, and their involvement with drama or music activities. Also, art brings people together and gives people a chance to be part of a community. Art influences society by changing opinions, instilling values and translating experiences across space and time. Research has shown art affects the fundamental sense of self.
 
-## Powered by threefold
+## Powered by ThreeFold
 
 Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold Grid. Being hosted on the ThreeFold Grid was an evident choice for Artheon so as to share our history, art and culture on an equal and sustainable Internet.
-
-## Mission
-
-Our mission at Artheon is to enable free global access to history, art and culture to accelerate human development and improve our ability to tap into collective intelligence. 
+ 
 
  ## Join saving our planet!
  
