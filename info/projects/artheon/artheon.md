@@ -2,7 +2,7 @@
 
 ## About
 
-The *Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we compiled about half a million pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. We believe that free global access to fine art and culture is a prerequisite for the exponential development of our civilization. 
+*The Artheon VR Museum* is and always will be a free educational platform offering immersive, next level interaction with objects of cultural heritage. Our vision is to provide a one stop full spectrum art education platform to access, learn and share knowledge in art and culture from across the globe for free. To date, we have compiled 40,000 pieces of art from all around the world into our database, and we aim to become the world's largest art and cultural gallery, available to everyone, everywhere. 
 
 ## Mission
 
@@ -10,7 +10,7 @@ Our mission at Artheon is to enable free global access to history, art and cultu
 
 ## Impact
 
-Art can act as a catalyst to tap into our inner potential as well as our collective intelligence. When going through the history of humanity, it is clear that Art played a major role in shaping the most advanced civilizations of humankind, across eras. Art is a proven tool to inspire faith and elevate cultural growth, while bringing new perspectives about our reality. Today, studies show that there is a positive correlation between schoolchildren's grades in math and literacy, and their involvement with drama or music activities. Also, art brings people together and gives people a chance to be part of a community. Art influences society by changing opinions, instilling values and translating experiences across space and time. Research has shown art affects the fundamental sense of self.
+Art can act as a catalyst to tap into our inner potential as well as our collective intelligence. When going through the history of humanity, it is clear that Art played a major role in shaping the most advanced civilizations of humankind, across eras. Art is a proven tool to inspire faith and elevate cultural growth, while bringing a new perspectives about our reality. Today, studies show that there is a positive correlation between schoolchildren's grades in math and literacy, and their involvement with drama or music activities. Also, art brings people together and gives people a chance to be part of a community. Art influences society by changing opinions, instilling values and translating experiences across space and time. Research has shown art affects the fundamental sense of self. Therefore we believe that free global access to art and culture is a prerequisite for a development of human kind.
 
 ## Powered by ThreeFold
 
@@ -19,7 +19,7 @@ Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold 
 
  ## Join saving our planet
  
-Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to  become the most inclusive and sustainable museum in the world!
+Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to become the most inclusive and sustainable museum in the world!
 
 ## Support this project
 
