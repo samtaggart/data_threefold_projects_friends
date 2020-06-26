@@ -1,14 +1,16 @@
 # Green Edge Sustainable Development
 
-*Green Edge Sustainable Development* is planning to offer inexpensive, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
+## About
 
-## Impact
-
-It is a declared aim of the United Nations Agenda 2030 “to leave no one behind”. Green Edge Sustainable Development in collaboration with our telecom, educational and funding partners will work to connect the 3.6 billion people still off-line at an affordable monthly cost of $1 per person.
+*Green Edge Sustainable Development* is planning to offer affordable, distributed and decentralised storage and computing capacity for developers and partner telecom companies in Africa to locally host websites and other services. More than 360 million young people are currently excluded from the educational benefits afforded by internet access by poverty, geography or other circumstances. Green Edge Sustainable Development seeks to address this inequity.
 
 ## Mission
 
-Green Edge is helping ThreeFold to create a decentralised internet that is inherently faster, greener, more private, and more secure than today's internet.
+Green Edge supports ThreeFold in creating a decentralised internet that is inherently equal, sustainable, fast, private and secure to empower our planet, humanity and technologies.
+
+## Impact
+
+The  United Nations Agenda 2030 declared: “to leave no one behind”. Green Edge Sustainable Development in collaboration with our telecom, educational and funding partners will work to connect the 3.6 billion people still off-line at an affordable monthly cost of $1 per person.
 
 ## Partnership with ThreeFold
 
