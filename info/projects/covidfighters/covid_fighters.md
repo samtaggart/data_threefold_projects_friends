@@ -1,24 +1,25 @@
 # Covidfighters
 
-Covidfighters are looking to build a technology consortium to test for covid19 in a mobile unit and test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.  
-Various types of workers and people (that need to be tested) can be tested easily and frequently and have their contamination state verified and stored in a way that other people can audit this.  The process is end to end and involves remote doctors to make the final call. Covidfighters is putting this consortium together to make the world a little bit more normal. 
+## About
 
-## Impact
-
-Health care and social workers can continue to do what they do and businesses, families and individuals can have social and business meetings and be sure of the non-risk coming with that.
+Covid Fighters have built a technology consortium to test Covid19 from a mobile unit to test whether or not a test subject is infected and contagious. The actual test takes only a few hours and the mobile unit can be deployed in a matter of days.
+Various types of people (that need to be tested) can be tested easily and frequently and have their contamination state verified and stored in a way that is easily auditable. The process is end-to-end and involves remote medical specialists to assist and advise. Covidfighters are putting this consortium together to make the world a safer place for people and economies to maintain their 'normal’.
 
 ## Mission
 
-We want to help the people of the world to get back to somehow normal life beside keeping the highest standards of safety regarding covid virus.
+To bring the highest standards of safety during Covid 19 while empowering people to maintain their ‘normal lives’ during such situations.
+
+## Impact
+
+By bringing the necessary solutions for mass testing and auditing, Covid Fighters can prevent the further spread of viruses such as Covid 19 while enabling individuals, businesses and economies to maintain their 'usual' ongoing activities. Considering how Covid Impacted our world, such solutions are of upmost importance to protect our poeple and economies.
 
 ## Powered by ThreeFold
 
-ThreeFold is playing a role to provide the infrastructure on which the required IT applications will run. ThreeFold also potentially will provide 3bot technology to store the test subjects data in a private and secure storage for what the test subject decides with whom to share his/her test stauts with.
+Covid Fighters applications will run on the ThreeFold Grid. ThreeFold may also potentially wprovide 3bot technology to ensure privacy and security around people's data.
 
 ## Join saving our planet!
 
-Providing a safe environment for people to work and socialize and to make the world a better place.
-
+Providing the necessary technology, logistics and solutions to maintain a safe environment for societies while eradicating pandemics and other similar threats.
 
 ### data
 
