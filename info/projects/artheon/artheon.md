@@ -17,7 +17,7 @@ Art can act as a catalyst to tap into our inner potential as well as our collect
 Artheon is supported by the ThreeFold Foundation and is hosted on the ThreeFold Grid. Being hosted on the ThreeFold Grid was an evident choice for Artheon so as to share our history, art and culture on an equal and sustainable Internet.
  
 
- ## Join saving our planet!
+ ## Join saving our planet
  
 Artheon VR Museum is growing into a crowdsourced global art database empowering smaller museums, private collections, galleries and individuals with tools to publish and display artwork and provide courses, tours, lectures, events, around art culture and history. By being hosted on the ThreeFold Grid, we aim to  become the most inclusive and sustainable museum in the world!
 
